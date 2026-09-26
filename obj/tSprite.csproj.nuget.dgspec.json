@@ -1,0 +1,89 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/amir/Проекты/tSprite/tSprite.csproj": {}
+  },
+  "projects": {
+    "/home/amir/Проекты/tSprite/tSprite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/amir/Проекты/tSprite/tSprite.csproj",
+        "projectName": "tSprite",
+        "projectPath": "/home/amir/Проекты/tSprite/tSprite.csproj",
+        "packagesPath": "/home/amir/.nuget/packages/",
+        "outputPath": "/home/amir/Проекты/tSprite/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/amir/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Avalonia.Skia": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "SkiaSharp": {
+              "target": "Package",
+              "version": "[2.88.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.31, 8.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.131/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

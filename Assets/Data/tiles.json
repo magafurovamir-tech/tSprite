@@ -1,0 +1,3712 @@
+[
+  {
+    "id": 0,
+    "name": "Dirt Block",
+    "internal_name": "Dirt"
+  },
+  {
+    "id": 1,
+    "name": "Stone Block",
+    "internal_name": "Stone"
+  },
+  {
+    "id": 2,
+    "name": "Grass",
+    "internal_name": "Grass"
+  },
+  {
+    "id": 3,
+    "name": "Tall Grass",
+    "internal_name": "Plants"
+  },
+  {
+    "id": 4,
+    "name": "Torch",
+    "internal_name": "Torches"
+  },
+  {
+    "id": 5,
+    "name": "Forest tree",
+    "internal_name": "Trees"
+  },
+  {
+    "id": 6,
+    "name": "Iron Ore",
+    "internal_name": "Iron"
+  },
+  {
+    "id": 7,
+    "name": "Copper Ore",
+    "internal_name": "Copper"
+  },
+  {
+    "id": 8,
+    "name": "Gold Ore",
+    "internal_name": "Gold"
+  },
+  {
+    "id": 9,
+    "name": "Silver Ore",
+    "internal_name": "Silver"
+  },
+  {
+    "id": 10,
+    "name": "Wooden DoorWooden Door(closed)",
+    "internal_name": "ClosedDoor"
+  },
+  {
+    "id": 11,
+    "name": "Wooden DoorWooden Door(open)",
+    "internal_name": "OpenDoor"
+  },
+  {
+    "id": 12,
+    "name": "Life Crystal",
+    "internal_name": "LifeCrystal"
+  },
+  {
+    "id": 13,
+    "name": "Bottle",
+    "internal_name": "Bottles"
+  },
+  {
+    "id": 14,
+    "name": "Wooden Table",
+    "internal_name": "Tables"
+  },
+  {
+    "id": 15,
+    "name": "Wooden Chair",
+    "internal_name": "Chairs"
+  },
+  {
+    "id": 16,
+    "name": "Iron Anvil",
+    "internal_name": "Anvils"
+  },
+  {
+    "id": 17,
+    "name": "Furnace",
+    "internal_name": "Furnaces"
+  },
+  {
+    "id": 18,
+    "name": "Work Bench",
+    "internal_name": "WorkBenches"
+  },
+  {
+    "id": 19,
+    "name": "Wood Platform",
+    "internal_name": "Platforms"
+  },
+  {
+    "id": 20,
+    "name": "Forest sapling",
+    "internal_name": "Saplings"
+  },
+  {
+    "id": 21,
+    "name": "Chest",
+    "internal_name": "Containers"
+  },
+  {
+    "id": 22,
+    "name": "Demonite Ore",
+    "internal_name": "Demonite"
+  },
+  {
+    "id": 23,
+    "name": "Corrupt grass",
+    "internal_name": "CorruptGrass"
+  },
+  {
+    "id": 24,
+    "name": "Short wild Corrupt plants",
+    "internal_name": "CorruptPlants"
+  },
+  {
+    "id": 25,
+    "name": "Ebonstone Block",
+    "internal_name": "Ebonstone"
+  },
+  {
+    "id": 26,
+    "name": "Demon Altar",
+    "internal_name": "DemonAltar"
+  },
+  {
+    "id": 27,
+    "name": "Sunflower",
+    "internal_name": "Sunflower"
+  },
+  {
+    "id": 28,
+    "name": "Forest Pots",
+    "internal_name": "Pots"
+  },
+  {
+    "id": 29,
+    "name": "Piggy Bank",
+    "internal_name": "PiggyBank"
+  },
+  {
+    "id": 30,
+    "name": "Wood",
+    "internal_name": "WoodBlock"
+  },
+  {
+    "id": 31,
+    "name": "Shadow Orb",
+    "internal_name": "ShadowOrbs"
+  },
+  {
+    "id": 32,
+    "name": "Corruption Thorny Bush",
+    "internal_name": "CorruptThorns"
+  },
+  {
+    "id": 33,
+    "name": "Candle",
+    "internal_name": "Candles"
+  },
+  {
+    "id": 34,
+    "name": "Copper Chandelier",
+    "internal_name": "Chandeliers"
+  },
+  {
+    "id": 35,
+    "name": "Jack 'O Lantern",
+    "internal_name": "Jackolanterns"
+  },
+  {
+    "id": 36,
+    "name": "Present",
+    "internal_name": "Presents"
+  },
+  {
+    "id": 37,
+    "name": "Meteorite",
+    "internal_name": "Meteorite"
+  },
+  {
+    "id": 38,
+    "name": "Gray Brick",
+    "internal_name": "GrayBrick"
+  },
+  {
+    "id": 39,
+    "name": "Red Brick",
+    "internal_name": "RedBrick"
+  },
+  {
+    "id": 40,
+    "name": "Clay Block",
+    "internal_name": "ClayBlock"
+  },
+  {
+    "id": 41,
+    "name": "Blue Brick",
+    "internal_name": "BlueDungeonBrick"
+  },
+  {
+    "id": 42,
+    "name": "Chain Lantern",
+    "internal_name": "HangingLanterns"
+  },
+  {
+    "id": 43,
+    "name": "Green Brick",
+    "internal_name": "GreenDungeonBrick"
+  },
+  {
+    "id": 44,
+    "name": "Pink Brick",
+    "internal_name": "PinkDungeonBrick"
+  },
+  {
+    "id": 45,
+    "name": "Gold Brick",
+    "internal_name": "GoldBrick"
+  },
+  {
+    "id": 46,
+    "name": "Silver Brick",
+    "internal_name": "SilverBrick"
+  },
+  {
+    "id": 47,
+    "name": "Copper Brick",
+    "internal_name": "CopperBrick"
+  },
+  {
+    "id": 48,
+    "name": "Spike",
+    "internal_name": "Spikes"
+  },
+  {
+    "id": 49,
+    "name": "Water Candle",
+    "internal_name": "WaterCandle"
+  },
+  {
+    "id": 50,
+    "name": "Book",
+    "internal_name": "Books"
+  },
+  {
+    "id": 51,
+    "name": "Cobweb",
+    "internal_name": "Cobweb"
+  },
+  {
+    "id": 53,
+    "name": "Sand Block",
+    "internal_name": "Sand"
+  },
+  {
+    "id": 54,
+    "name": "Glass",
+    "internal_name": "Glass"
+  },
+  {
+    "id": 55,
+    "name": "Sign",
+    "internal_name": "Signs"
+  },
+  {
+    "id": 56,
+    "name": "Obsidian",
+    "internal_name": "Obsidian"
+  },
+  {
+    "id": 57,
+    "name": "Ash Block",
+    "internal_name": "Ash"
+  },
+  {
+    "id": 58,
+    "name": "Hellstone",
+    "internal_name": "Hellstone"
+  },
+  {
+    "id": 59,
+    "name": "Mud Block",
+    "internal_name": "Mud"
+  },
+  {
+    "id": 60,
+    "name": "Jungle grass",
+    "internal_name": "JungleGrass"
+  },
+  {
+    "id": 61,
+    "name": "Short wild Jungle plants",
+    "internal_name": "JunglePlants"
+  },
+  {
+    "id": 63,
+    "name": "Sapphire Stone Block",
+    "internal_name": "Sapphire"
+  },
+  {
+    "id": 64,
+    "name": "Ruby Stone Block",
+    "internal_name": "Ruby"
+  },
+  {
+    "id": 65,
+    "name": "Emerald Stone Block",
+    "internal_name": "Emerald"
+  },
+  {
+    "id": 66,
+    "name": "Topaz Stone Block",
+    "internal_name": "Topaz"
+  },
+  {
+    "id": 67,
+    "name": "Amethyst Stone Block",
+    "internal_name": "Amethyst"
+  },
+  {
+    "id": 68,
+    "name": "Diamond Stone Block",
+    "internal_name": "Diamond"
+  },
+  {
+    "id": 69,
+    "name": "Jungle Thorny Bush",
+    "internal_name": "JungleThorns"
+  },
+  {
+    "id": 70,
+    "name": "Mushroom grass",
+    "internal_name": "MushroomGrass"
+  },
+  {
+    "id": 71,
+    "name": "Glowing MushroomGlowing Mushroom(growing)",
+    "internal_name": "MushroomPlants"
+  },
+  {
+    "id": 73,
+    "name": "Tall Grass Plants",
+    "internal_name": "Plants2"
+  },
+  {
+    "id": 74,
+    "name": "Tall wild Jungle plants",
+    "internal_name": "JunglePlants2"
+  },
+  {
+    "id": 75,
+    "name": "Obsidian Brick",
+    "internal_name": "ObsidianBrick"
+  },
+  {
+    "id": 76,
+    "name": "Hellstone Brick",
+    "internal_name": "HellstoneBrick"
+  },
+  {
+    "id": 77,
+    "name": "Hellforge",
+    "internal_name": "Hellforge"
+  },
+  {
+    "id": 78,
+    "name": "Clay Pot",
+    "internal_name": "ClayPot"
+  },
+  {
+    "id": 79,
+    "name": "Bed",
+    "internal_name": "Beds"
+  },
+  {
+    "id": 80,
+    "name": "CactusCactus plant",
+    "internal_name": "Cactus"
+  },
+  {
+    "id": 81,
+    "name": "Coral",
+    "internal_name": "Coral"
+  },
+  {
+    "id": 82,
+    "name": "DaybloomDaybloom(growing)",
+    "internal_name": "ImmatureHerbs"
+  },
+  {
+    "id": 83,
+    "name": "DaybloomDaybloom(mature)",
+    "internal_name": "MatureHerbs"
+  },
+  {
+    "id": 84,
+    "name": "DaybloomDaybloom(blooming)",
+    "internal_name": "BloomingHerbs"
+  },
+  {
+    "id": 85,
+    "name": "Tombstone",
+    "internal_name": "Tombstones"
+  },
+  {
+    "id": 86,
+    "name": "Loom",
+    "internal_name": "Loom"
+  },
+  {
+    "id": 87,
+    "name": "Piano",
+    "internal_name": "Pianos"
+  },
+  {
+    "id": 88,
+    "name": "Dresser",
+    "internal_name": "Dressers"
+  },
+  {
+    "id": 89,
+    "name": "Bench",
+    "internal_name": "Benches"
+  },
+  {
+    "id": 90,
+    "name": "Bathtub",
+    "internal_name": "Bathtubs"
+  },
+  {
+    "id": 91,
+    "name": "Red Banner",
+    "internal_name": "Banners"
+  },
+  {
+    "id": 92,
+    "name": "Lamp Post",
+    "internal_name": "Lampposts"
+  },
+  {
+    "id": 93,
+    "name": "Tiki Torch",
+    "internal_name": "Lamps"
+  },
+  {
+    "id": 94,
+    "name": "Keg",
+    "internal_name": "Kegs"
+  },
+  {
+    "id": 95,
+    "name": "Chinese Lantern",
+    "internal_name": "ChineseLanterns"
+  },
+  {
+    "id": 96,
+    "name": "Cooking Pot",
+    "internal_name": "CookingPots"
+  },
+  {
+    "id": 97,
+    "name": "Safe",
+    "internal_name": "Safes"
+  },
+  {
+    "id": 98,
+    "name": "Skull Lantern",
+    "internal_name": "SkullLanterns"
+  },
+  {
+    "id": 99,
+    "name": "Trash CanTrash Canunused",
+    "internal_name": "TrashCan"
+  },
+  {
+    "id": 100,
+    "name": "Candelabra",
+    "internal_name": "Candelabras"
+  },
+  {
+    "id": 101,
+    "name": "Bookcase",
+    "internal_name": "Bookcases"
+  },
+  {
+    "id": 102,
+    "name": "Throne",
+    "internal_name": "Thrones"
+  },
+  {
+    "id": 103,
+    "name": "Bowl",
+    "internal_name": "Bowls"
+  },
+  {
+    "id": 104,
+    "name": "Grandfather Clock",
+    "internal_name": "GrandfatherClocks"
+  },
+  {
+    "id": 105,
+    "name": "Armor Statue",
+    "internal_name": "Statues"
+  },
+  {
+    "id": 106,
+    "name": "Sawmill",
+    "internal_name": "Sawmill"
+  },
+  {
+    "id": 107,
+    "name": "Cobalt Ore",
+    "internal_name": "Cobalt"
+  },
+  {
+    "id": 108,
+    "name": "Mythril Ore",
+    "internal_name": "Mythril"
+  },
+  {
+    "id": 109,
+    "name": "Hallowed grass",
+    "internal_name": "HallowedGrass"
+  },
+  {
+    "id": 110,
+    "name": "Short wild Hallow plants",
+    "internal_name": "HallowedPlants"
+  },
+  {
+    "id": 111,
+    "name": "Adamantite Ore",
+    "internal_name": "Adamantite"
+  },
+  {
+    "id": 112,
+    "name": "Ebonsand Block",
+    "internal_name": "Ebonsand"
+  },
+  {
+    "id": 113,
+    "name": "Tall wild Hallow plants",
+    "internal_name": "HallowedPlants2"
+  },
+  {
+    "id": 114,
+    "name": "Tinkerer's Workshop",
+    "internal_name": "TinkerersWorkbench"
+  },
+  {
+    "id": 115,
+    "name": "Hallowed vines",
+    "internal_name": "HallowedVines"
+  },
+  {
+    "id": 116,
+    "name": "Pearlsand Block",
+    "internal_name": "Pearlsand"
+  },
+  {
+    "id": 117,
+    "name": "Pearlstone Block",
+    "internal_name": "Pearlstone"
+  },
+  {
+    "id": 118,
+    "name": "Pearlstone Brick",
+    "internal_name": "PearlstoneBrick"
+  },
+  {
+    "id": 119,
+    "name": "Iridescent Brick",
+    "internal_name": "IridescentBrick"
+  },
+  {
+    "id": 120,
+    "name": "Mudstone Brick",
+    "internal_name": "Mudstone"
+  },
+  {
+    "id": 121,
+    "name": "Cobalt Brick",
+    "internal_name": "CobaltBrick"
+  },
+  {
+    "id": 122,
+    "name": "Mythril Brick",
+    "internal_name": "MythrilBrick"
+  },
+  {
+    "id": 123,
+    "name": "Silt Block",
+    "internal_name": "Silt"
+  },
+  {
+    "id": 124,
+    "name": "Wooden Beam",
+    "internal_name": "WoodenBeam"
+  },
+  {
+    "id": 125,
+    "name": "Crystal Ball",
+    "internal_name": "CrystalBall"
+  },
+  {
+    "id": 126,
+    "name": "Disco Ball",
+    "internal_name": "DiscoBall"
+  },
+  {
+    "id": 127,
+    "name": "Ice Block (Ice Rod) .png Magical Ice Block",
+    "internal_name": "IceBlockIceRodpngMagicalIceBlock"
+  },
+  {
+    "id": 128,
+    "name": "MannequinMannequin(unused, replaced by ID 470)",
+    "internal_name": "Mannequin"
+  },
+  {
+    "id": 129,
+    "name": "Crystal Shard",
+    "internal_name": "Crystals"
+  },
+  {
+    "id": 130,
+    "name": "Active Stone Block",
+    "internal_name": "ActiveStoneBlock"
+  },
+  {
+    "id": 131,
+    "name": "Inactive Stone Block",
+    "internal_name": "InactiveStoneBlock"
+  },
+  {
+    "id": 132,
+    "name": "Lever",
+    "internal_name": "Lever"
+  },
+  {
+    "id": 133,
+    "name": "Adamantite Forge",
+    "internal_name": "AdamantiteForge"
+  },
+  {
+    "id": 134,
+    "name": "Mythril Anvil",
+    "internal_name": "MythrilAnvil"
+  },
+  {
+    "id": 135,
+    "name": "Red Pressure Plate",
+    "internal_name": "PressurePlates"
+  },
+  {
+    "id": 136,
+    "name": "Switch",
+    "internal_name": "Switches"
+  },
+  {
+    "id": 137,
+    "name": "Dart Trap",
+    "internal_name": "Traps"
+  },
+  {
+    "id": 138,
+    "name": "Boulder",
+    "internal_name": "Boulder"
+  },
+  {
+    "id": 139,
+    "name": "Music Box (Overworld Day)",
+    "internal_name": "MusicBoxes"
+  },
+  {
+    "id": 140,
+    "name": "Demonite Brick",
+    "internal_name": "DemoniteBrick"
+  },
+  {
+    "id": 141,
+    "name": "Explosives",
+    "internal_name": "Explosives"
+  },
+  {
+    "id": 142,
+    "name": "Inlet Pump",
+    "internal_name": "InletPump"
+  },
+  {
+    "id": 143,
+    "name": "Outlet Pump",
+    "internal_name": "OutletPump"
+  },
+  {
+    "id": 144,
+    "name": "1 Second Timer",
+    "internal_name": "Timers"
+  },
+  {
+    "id": 145,
+    "name": "Candy Cane Block",
+    "internal_name": "CandyCaneBlock"
+  },
+  {
+    "id": 146,
+    "name": "Green Candy Cane Block",
+    "internal_name": "GreenCandyCaneBlock"
+  },
+  {
+    "id": 147,
+    "name": "Snow Block",
+    "internal_name": "SnowBlock"
+  },
+  {
+    "id": 148,
+    "name": "Snow Brick",
+    "internal_name": "SnowBrick"
+  },
+  {
+    "id": 150,
+    "name": "Adamantite Beam",
+    "internal_name": "AdamantiteBeam"
+  },
+  {
+    "id": 151,
+    "name": "Sandstone Brick",
+    "internal_name": "SandstoneBrick"
+  },
+  {
+    "id": 152,
+    "name": "Ebonstone Brick",
+    "internal_name": "EbonstoneBrick"
+  },
+  {
+    "id": 153,
+    "name": "Red Stucco",
+    "internal_name": "RedStucco"
+  },
+  {
+    "id": 154,
+    "name": "Yellow Stucco",
+    "internal_name": "YellowStucco"
+  },
+  {
+    "id": 155,
+    "name": "Green Stucco",
+    "internal_name": "GreenStucco"
+  },
+  {
+    "id": 156,
+    "name": "Gray Stucco",
+    "internal_name": "GrayStucco"
+  },
+  {
+    "id": 157,
+    "name": "Ebonwood",
+    "internal_name": "Ebonwood"
+  },
+  {
+    "id": 158,
+    "name": "Rich Mahogany",
+    "internal_name": "RichMahogany"
+  },
+  {
+    "id": 159,
+    "name": "Pearlwood",
+    "internal_name": "Pearlwood"
+  },
+  {
+    "id": 160,
+    "name": "Rainbow Brick",
+    "internal_name": "RainbowBrick"
+  },
+  {
+    "id": 161,
+    "name": "Ice Block",
+    "internal_name": "IceBlock"
+  },
+  {
+    "id": 162,
+    "name": "Thin Ice",
+    "internal_name": "BreakableIce"
+  },
+  {
+    "id": 163,
+    "name": "Purple Ice Block",
+    "internal_name": "CorruptIce"
+  },
+  {
+    "id": 164,
+    "name": "Pink Ice Block",
+    "internal_name": "HallowedIce"
+  },
+  {
+    "id": 166,
+    "name": "Tin Ore",
+    "internal_name": "Tin"
+  },
+  {
+    "id": 167,
+    "name": "Lead Ore",
+    "internal_name": "Lead"
+  },
+  {
+    "id": 168,
+    "name": "Tungsten Ore",
+    "internal_name": "Tungsten"
+  },
+  {
+    "id": 169,
+    "name": "Platinum Ore",
+    "internal_name": "Platinum"
+  },
+  {
+    "id": 170,
+    "name": "Pine Tree Block",
+    "internal_name": "PineTree"
+  },
+  {
+    "id": 171,
+    "name": "Christmas Tree",
+    "internal_name": "ChristmasTree"
+  },
+  {
+    "id": 172,
+    "name": "Wooden Sink",
+    "internal_name": "Sinks"
+  },
+  {
+    "id": 173,
+    "name": "Platinum Candelabra",
+    "internal_name": "PlatinumCandelabra"
+  },
+  {
+    "id": 174,
+    "name": "Platinum Candle",
+    "internal_name": "PlatinumCandle"
+  },
+  {
+    "id": 175,
+    "name": "Tin Brick",
+    "internal_name": "TinBrick"
+  },
+  {
+    "id": 176,
+    "name": "Tungsten Brick",
+    "internal_name": "TungstenBrick"
+  },
+  {
+    "id": 177,
+    "name": "Platinum Brick",
+    "internal_name": "PlatinumBrick"
+  },
+  {
+    "id": 179,
+    "name": "Green MossGreen Moss(on Stone)",
+    "internal_name": "GreenMoss"
+  },
+  {
+    "id": 180,
+    "name": "Brown MossBrown Moss(on Stone)",
+    "internal_name": "BrownMoss"
+  },
+  {
+    "id": 181,
+    "name": "Red MossRed Moss(on Stone)",
+    "internal_name": "RedMoss"
+  },
+  {
+    "id": 182,
+    "name": "Blue MossBlue Moss(on Stone)",
+    "internal_name": "BlueMoss"
+  },
+  {
+    "id": 183,
+    "name": "Purple MossPurple Moss(on Stone)",
+    "internal_name": "PurpleMoss"
+  },
+  {
+    "id": 185,
+    "name": "Tiny Stones",
+    "internal_name": "SmallPiles"
+  },
+  {
+    "id": 186,
+    "name": "Bone Piles",
+    "internal_name": "LargePiles"
+  },
+  {
+    "id": 187,
+    "name": "Large Jungle Grassy Stones",
+    "internal_name": "LargePiles2"
+  },
+  {
+    "id": 188,
+    "name": "CactusCactus",
+    "internal_name": "CactusBlock"
+  },
+  {
+    "id": 189,
+    "name": "Cloud",
+    "internal_name": "Cloud"
+  },
+  {
+    "id": 190,
+    "name": "Glowing MushroomGlowing Mushroom",
+    "internal_name": "MushroomBlock"
+  },
+  {
+    "id": 191,
+    "name": "Living Wood",
+    "internal_name": "LivingWood"
+  },
+  {
+    "id": 192,
+    "name": "Leaf Block",
+    "internal_name": "LeafBlock"
+  },
+  {
+    "id": 193,
+    "name": "Slime Block",
+    "internal_name": "SlimeBlock"
+  },
+  {
+    "id": 194,
+    "name": "Bone Block",
+    "internal_name": "BoneBlock"
+  },
+  {
+    "id": 195,
+    "name": "Flesh Block",
+    "internal_name": "FleshBlock"
+  },
+  {
+    "id": 196,
+    "name": "Rain Cloud",
+    "internal_name": "RainCloud"
+  },
+  {
+    "id": 197,
+    "name": "Frozen Slime Block",
+    "internal_name": "FrozenSlimeBlock"
+  },
+  {
+    "id": 198,
+    "name": "Asphalt Block",
+    "internal_name": "Asphalt"
+  },
+  {
+    "id": 199,
+    "name": "Crimson grass",
+    "internal_name": "CrimsonGrass"
+  },
+  {
+    "id": 200,
+    "name": "Red Ice Block",
+    "internal_name": "FleshIce"
+  },
+  {
+    "id": 201,
+    "name": "Short wild Crimson plants",
+    "internal_name": "CrimsonPlants"
+  },
+  {
+    "id": 202,
+    "name": "Sunplate Block",
+    "internal_name": "Sunplate"
+  },
+  {
+    "id": 203,
+    "name": "Crimstone Block",
+    "internal_name": "Crimstone"
+  },
+  {
+    "id": 204,
+    "name": "Crimtane Ore",
+    "internal_name": "Crimtane"
+  },
+  {
+    "id": 205,
+    "name": "Crimson vinesCrimson Vines",
+    "internal_name": "CrimsonVines"
+  },
+  {
+    "id": 206,
+    "name": "Ice Brick",
+    "internal_name": "IceBrick"
+  },
+  {
+    "id": 207,
+    "name": "Pure Water Fountain",
+    "internal_name": "WaterFountain"
+  },
+  {
+    "id": 208,
+    "name": "Shadewood",
+    "internal_name": "Shadewood"
+  },
+  {
+    "id": 209,
+    "name": "Cannon",
+    "internal_name": "Cannon"
+  },
+  {
+    "id": 210,
+    "name": "Land Mine",
+    "internal_name": "LandMine"
+  },
+  {
+    "id": 211,
+    "name": "Chlorophyte Ore",
+    "internal_name": "Chlorophyte"
+  },
+  {
+    "id": 212,
+    "name": "Snowball Launcher",
+    "internal_name": "SnowballLauncher"
+  },
+  {
+    "id": 213,
+    "name": "Rope",
+    "internal_name": "Rope"
+  },
+  {
+    "id": 214,
+    "name": "Chain",
+    "internal_name": "Chain"
+  },
+  {
+    "id": 215,
+    "name": "Campfire",
+    "internal_name": "Campfire"
+  },
+  {
+    "id": 216,
+    "name": "Red Rocket",
+    "internal_name": "Firework"
+  },
+  {
+    "id": 217,
+    "name": "Blend-O-Matic",
+    "internal_name": "Blendomatic"
+  },
+  {
+    "id": 218,
+    "name": "Meat Grinder",
+    "internal_name": "MeatGrinder"
+  },
+  {
+    "id": 219,
+    "name": "Extractinator",
+    "internal_name": "Extractinator"
+  },
+  {
+    "id": 220,
+    "name": "Solidifier",
+    "internal_name": "Solidifer"
+  },
+  {
+    "id": 221,
+    "name": "Palladium Ore",
+    "internal_name": "Palladium"
+  },
+  {
+    "id": 222,
+    "name": "Orichalcum Ore",
+    "internal_name": "Orichalcum"
+  },
+  {
+    "id": 223,
+    "name": "Titanium Ore",
+    "internal_name": "Titanium"
+  },
+  {
+    "id": 224,
+    "name": "Slush Block",
+    "internal_name": "Slush"
+  },
+  {
+    "id": 225,
+    "name": "Hive",
+    "internal_name": "Hive"
+  },
+  {
+    "id": 226,
+    "name": "Lihzahrd Brick",
+    "internal_name": "LihzahrdBrick"
+  },
+  {
+    "id": 227,
+    "name": "Teal Mushroom",
+    "internal_name": "DyePlants"
+  },
+  {
+    "id": 228,
+    "name": "Dye Vat",
+    "internal_name": "DyeVat"
+  },
+  {
+    "id": 229,
+    "name": "Honey Block",
+    "internal_name": "HoneyBlock"
+  },
+  {
+    "id": 230,
+    "name": "Crispy Honey Block",
+    "internal_name": "CrispyHoneyBlock"
+  },
+  {
+    "id": 231,
+    "name": "Larva",
+    "internal_name": "Larva"
+  },
+  {
+    "id": 232,
+    "name": "Wooden Spike",
+    "internal_name": "WoodenSpikes"
+  },
+  {
+    "id": 233,
+    "name": "Large wild Jungle plants",
+    "internal_name": "PlantDetritus"
+  },
+  {
+    "id": 234,
+    "name": "Crimsand Block",
+    "internal_name": "Crimsand"
+  },
+  {
+    "id": 235,
+    "name": "Teleporter",
+    "internal_name": "Teleporter"
+  },
+  {
+    "id": 236,
+    "name": "Life Fruit",
+    "internal_name": "LifeFruit"
+  },
+  {
+    "id": 237,
+    "name": "Lihzahrd Altar",
+    "internal_name": "Lihzahrd"
+  },
+  {
+    "id": 238,
+    "name": "Plantera's Bulb",
+    "internal_name": "PlanteraBulb"
+  },
+  {
+    "id": 239,
+    "name": "Copper Bar",
+    "internal_name": "MetalBars"
+  },
+  {
+    "id": 240,
+    "name": "Eye of Cthulhu Trophy",
+    "internal_name": "Painting3X3"
+  },
+  {
+    "id": 241,
+    "name": "Catacomb",
+    "internal_name": "Painting4X3"
+  },
+  {
+    "id": 242,
+    "name": "The Eye Sees the End",
+    "internal_name": "Painting6X4"
+  },
+  {
+    "id": 243,
+    "name": "Imbuing Station",
+    "internal_name": "ImbuingStation"
+  },
+  {
+    "id": 244,
+    "name": "Bubble Machine",
+    "internal_name": "BubbleMachine"
+  },
+  {
+    "id": 245,
+    "name": "Waldo",
+    "internal_name": "Painting2X3"
+  },
+  {
+    "id": 246,
+    "name": "Demon's Eye",
+    "internal_name": "Painting3X2"
+  },
+  {
+    "id": 247,
+    "name": "Autohammer",
+    "internal_name": "Autohammer"
+  },
+  {
+    "id": 248,
+    "name": "Palladium Column",
+    "internal_name": "PalladiumColumn"
+  },
+  {
+    "id": 249,
+    "name": "Bubblegum Block",
+    "internal_name": "BubblegumBlock"
+  },
+  {
+    "id": 250,
+    "name": "Titanstone Block",
+    "internal_name": "Titanstone"
+  },
+  {
+    "id": 251,
+    "name": "Pumpkin",
+    "internal_name": "PumpkinBlock"
+  },
+  {
+    "id": 252,
+    "name": "Hay",
+    "internal_name": "HayBlock"
+  },
+  {
+    "id": 253,
+    "name": "Spooky Wood",
+    "internal_name": "SpookyWood"
+  },
+  {
+    "id": 254,
+    "name": "Pumpkin Seed",
+    "internal_name": "Pumpkins"
+  },
+  {
+    "id": 255,
+    "name": "Amethyst Gemspark BlockAmethyst Gemspark Block (offline)",
+    "internal_name": "AmethystGemsparkOff"
+  },
+  {
+    "id": 256,
+    "name": "Topaz Gemspark BlockTopaz Gemspark Block (offline)",
+    "internal_name": "TopazGemsparkOff"
+  },
+  {
+    "id": 257,
+    "name": "Sapphire Gemspark BlockSapphire Gemspark Block (offline)",
+    "internal_name": "SapphireGemsparkOff"
+  },
+  {
+    "id": 258,
+    "name": "Emerald Gemspark BlockEmerald Gemspark Block (offline)",
+    "internal_name": "EmeraldGemsparkOff"
+  },
+  {
+    "id": 259,
+    "name": "Ruby Gemspark BlockRuby Gemspark Block (offline)",
+    "internal_name": "RubyGemsparkOff"
+  },
+  {
+    "id": 260,
+    "name": "Diamond Gemspark BlockDiamond Gemspark Block (offline)",
+    "internal_name": "DiamondGemsparkOff"
+  },
+  {
+    "id": 261,
+    "name": "Amber Gemspark BlockAmber Gemspark Block (offline)",
+    "internal_name": "AmberGemsparkOff"
+  },
+  {
+    "id": 262,
+    "name": "Amethyst Gemspark BlockAmethyst Gemspark Block (online)",
+    "internal_name": "AmethystGemspark"
+  },
+  {
+    "id": 263,
+    "name": "Topaz Gemspark BlockTopaz Gemspark Block (online)",
+    "internal_name": "TopazGempsark"
+  },
+  {
+    "id": 264,
+    "name": "Sapphire Gemspark BlockSapphire Gemspark Block (online)",
+    "internal_name": "SapphireGemspark"
+  },
+  {
+    "id": 265,
+    "name": "Emerald Gemspark BlockEmerald Gemspark Block (online)",
+    "internal_name": "EmeraldGemspark"
+  },
+  {
+    "id": 266,
+    "name": "Ruby Gemspark BlockRuby Gemspark Block (online)",
+    "internal_name": "RubyGemspark"
+  },
+  {
+    "id": 267,
+    "name": "Diamond Gemspark BlockDiamond Gemspark Block (online)",
+    "internal_name": "DiamondGemspark"
+  },
+  {
+    "id": 268,
+    "name": "Amber Gemspark BlockAmber Gemspark Block (online)",
+    "internal_name": "AmberGemspark"
+  },
+  {
+    "id": 269,
+    "name": "WomannequinWomannequin(unused, replaced by ID 470)",
+    "internal_name": "Womannequin"
+  },
+  {
+    "id": 270,
+    "name": "Firefly in a Bottle",
+    "internal_name": "FireflyinaBottle"
+  },
+  {
+    "id": 271,
+    "name": "Lightning Bug in a Bottle",
+    "internal_name": "LightningBuginaBottle"
+  },
+  {
+    "id": 272,
+    "name": "Cog",
+    "internal_name": "Cog"
+  },
+  {
+    "id": 273,
+    "name": "Stone Slab",
+    "internal_name": "StoneSlab"
+  },
+  {
+    "id": 274,
+    "name": "Sandstone Slab",
+    "internal_name": "SandstoneSlab"
+  },
+  {
+    "id": 275,
+    "name": "Bunny Cage",
+    "internal_name": "BunnyCage"
+  },
+  {
+    "id": 276,
+    "name": "Squirrel Cage",
+    "internal_name": "SquirrelCage"
+  },
+  {
+    "id": 277,
+    "name": "Mallard Duck Cage",
+    "internal_name": "MallardDuckCage"
+  },
+  {
+    "id": 278,
+    "name": "Duck Cage",
+    "internal_name": "DuckCage"
+  },
+  {
+    "id": 279,
+    "name": "Bird Cage",
+    "internal_name": "BirdCage"
+  },
+  {
+    "id": 280,
+    "name": "Blue Jay Cage",
+    "internal_name": "BlueJay"
+  },
+  {
+    "id": 281,
+    "name": "Cardinal Cage",
+    "internal_name": "CardinalCage"
+  },
+  {
+    "id": 282,
+    "name": "Fish Bowl",
+    "internal_name": "FishBowl"
+  },
+  {
+    "id": 283,
+    "name": "Heavy Assembler",
+    "internal_name": "HeavyWorkBench"
+  },
+  {
+    "id": 284,
+    "name": "Copper Plating",
+    "internal_name": "CopperPlating"
+  },
+  {
+    "id": 285,
+    "name": "Snail Cage",
+    "internal_name": "SnailCage"
+  },
+  {
+    "id": 286,
+    "name": "Glowing Snail Cage",
+    "internal_name": "GlowingSnailCage"
+  },
+  {
+    "id": 287,
+    "name": "Ammo Box",
+    "internal_name": "AmmoBox"
+  },
+  {
+    "id": 288,
+    "name": "Monarch Butterfly Jar",
+    "internal_name": "MonarchButterflyJar"
+  },
+  {
+    "id": 289,
+    "name": "Purple Emperor Butterfly Jar",
+    "internal_name": "PurpleEmporerButterflyJar"
+  },
+  {
+    "id": 290,
+    "name": "Red Admiral Butterfly Jar",
+    "internal_name": "RedAdmiralButterflyJar"
+  },
+  {
+    "id": 291,
+    "name": "Ulysses Butterfly Jar",
+    "internal_name": "UlyssesButterflyJar"
+  },
+  {
+    "id": 292,
+    "name": "Sulphur Butterfly Jar",
+    "internal_name": "SulphurButterflyJar"
+  },
+  {
+    "id": 293,
+    "name": "Tree Nymph Butterfly Jar",
+    "internal_name": "TreeNymphButterflyJar"
+  },
+  {
+    "id": 294,
+    "name": "Zebra Swallowtail Butterfly Jar",
+    "internal_name": "ZebraSwallowtailButterflyJar"
+  },
+  {
+    "id": 295,
+    "name": "Julia Butterfly Jar",
+    "internal_name": "JuliaButterflyJar"
+  },
+  {
+    "id": 296,
+    "name": "Scorpion Cage",
+    "internal_name": "ScorpionCage"
+  },
+  {
+    "id": 297,
+    "name": "Black Scorpion Cage",
+    "internal_name": "BlackScorpionCage"
+  },
+  {
+    "id": 298,
+    "name": "Frog Cage",
+    "internal_name": "FrogCage"
+  },
+  {
+    "id": 299,
+    "name": "Mouse Cage",
+    "internal_name": "MouseCage"
+  },
+  {
+    "id": 300,
+    "name": "Bone Welder",
+    "internal_name": "BoneWelder"
+  },
+  {
+    "id": 301,
+    "name": "Flesh Cloning Vat",
+    "internal_name": "FleshCloningVat"
+  },
+  {
+    "id": 302,
+    "name": "Glass Kiln",
+    "internal_name": "GlassKiln"
+  },
+  {
+    "id": 303,
+    "name": "Lihzahrd Furnace",
+    "internal_name": "LihzahrdFurnace"
+  },
+  {
+    "id": 304,
+    "name": "Living Loom",
+    "internal_name": "LivingLoom"
+  },
+  {
+    "id": 305,
+    "name": "Sky Mill",
+    "internal_name": "SkyMill"
+  },
+  {
+    "id": 306,
+    "name": "Ice Machine",
+    "internal_name": "IceMachine"
+  },
+  {
+    "id": 307,
+    "name": "Steampunk Boiler",
+    "internal_name": "SteampunkBoiler"
+  },
+  {
+    "id": 308,
+    "name": "Honey Dispenser",
+    "internal_name": "HoneyDispenser"
+  },
+  {
+    "id": 309,
+    "name": "Penguin Cage",
+    "internal_name": "PenguinCage"
+  },
+  {
+    "id": 310,
+    "name": "Worm Cage",
+    "internal_name": "WormCage"
+  },
+  {
+    "id": 311,
+    "name": "Dynasty Wood",
+    "internal_name": "DynastyWood"
+  },
+  {
+    "id": 312,
+    "name": "Red Dynasty Shingles",
+    "internal_name": "RedDynastyShingles"
+  },
+  {
+    "id": 313,
+    "name": "Blue Dynasty Shingles",
+    "internal_name": "BlueDynastyShingles"
+  },
+  {
+    "id": 314,
+    "name": "Minecart Track",
+    "internal_name": "MinecartTrack"
+  },
+  {
+    "id": 315,
+    "name": "Coralstone Block",
+    "internal_name": "Coralstone"
+  },
+  {
+    "id": 316,
+    "name": "Blue Jellyfish Jar",
+    "internal_name": "BlueJellyfishBowl"
+  },
+  {
+    "id": 317,
+    "name": "Green Jellyfish Jar",
+    "internal_name": "GreenJellyfishBowl"
+  },
+  {
+    "id": 318,
+    "name": "Pink Jellyfish Jar",
+    "internal_name": "PinkJellyfishBowl"
+  },
+  {
+    "id": 319,
+    "name": "Ship in a Bottle",
+    "internal_name": "ShipInABottle"
+  },
+  {
+    "id": 320,
+    "name": "Seaweed Planter",
+    "internal_name": "SeaweedPlanter"
+  },
+  {
+    "id": 321,
+    "name": "Boreal Wood",
+    "internal_name": "BorealWood"
+  },
+  {
+    "id": 322,
+    "name": "Palm Wood",
+    "internal_name": "PalmWood"
+  },
+  {
+    "id": 323,
+    "name": "Palm tree",
+    "internal_name": "PalmTree"
+  },
+  {
+    "id": 324,
+    "name": "Seashell",
+    "internal_name": "BeachPiles"
+  },
+  {
+    "id": 325,
+    "name": "Tin Plating",
+    "internal_name": "TinPlating"
+  },
+  {
+    "id": 326,
+    "name": "Waterfall Block",
+    "internal_name": "Waterfall"
+  },
+  {
+    "id": 327,
+    "name": "Lavafall Block",
+    "internal_name": "Lavafall"
+  },
+  {
+    "id": 328,
+    "name": "Confetti Block",
+    "internal_name": "Confetti"
+  },
+  {
+    "id": 329,
+    "name": "Midnight Confetti Block",
+    "internal_name": "ConfettiBlack"
+  },
+  {
+    "id": 330,
+    "name": "Copper CoinCopper Coin Pile",
+    "internal_name": "CopperCoinPile"
+  },
+  {
+    "id": 331,
+    "name": "Silver CoinSilver Coin Pile",
+    "internal_name": "SilverCoinPile"
+  },
+  {
+    "id": 332,
+    "name": "Gold CoinGold Coin Pile",
+    "internal_name": "GoldCoinPile"
+  },
+  {
+    "id": 333,
+    "name": "Platinum CoinPlatinum Coin Pile",
+    "internal_name": "PlatinumCoinPile"
+  },
+  {
+    "id": 334,
+    "name": "Weapon RackWeapon Rack(unused, replaced by ID 471)",
+    "internal_name": "WeaponsRack"
+  },
+  {
+    "id": 335,
+    "name": "Fireworks Box",
+    "internal_name": "FireworksBox"
+  },
+  {
+    "id": 336,
+    "name": "Living Fire Block",
+    "internal_name": "LivingFire"
+  },
+  {
+    "id": 337,
+    "name": "'0' Statue",
+    "internal_name": "AlphabetStatues"
+  },
+  {
+    "id": 338,
+    "name": "Firework Fountain",
+    "internal_name": "FireworkFountain"
+  },
+  {
+    "id": 339,
+    "name": "Grasshopper Cage",
+    "internal_name": "GrasshopperCage"
+  },
+  {
+    "id": 340,
+    "name": "Living Cursed Fire Block",
+    "internal_name": "LivingCursedFire"
+  },
+  {
+    "id": 341,
+    "name": "Living Demon Fire Block",
+    "internal_name": "LivingDemonFire"
+  },
+  {
+    "id": 342,
+    "name": "Living Frost Fire Block",
+    "internal_name": "LivingFrostFire"
+  },
+  {
+    "id": 343,
+    "name": "Living Ichor Block",
+    "internal_name": "LivingIchor"
+  },
+  {
+    "id": 344,
+    "name": "Living Ultrabright Fire Block",
+    "internal_name": "LivingUltrabrightFire"
+  },
+  {
+    "id": 345,
+    "name": "Honeyfall Block",
+    "internal_name": "Honeyfall"
+  },
+  {
+    "id": 346,
+    "name": "Chlorophyte Brick",
+    "internal_name": "ChlorophyteBrick"
+  },
+  {
+    "id": 347,
+    "name": "Crimtane Brick",
+    "internal_name": "CrimtaneBrick"
+  },
+  {
+    "id": 348,
+    "name": "Shroomite Plating",
+    "internal_name": "ShroomitePlating"
+  },
+  {
+    "id": 350,
+    "name": "Martian Conduit Plating",
+    "internal_name": "MartianConduitPlating"
+  },
+  {
+    "id": 351,
+    "name": "Smoke Block",
+    "internal_name": "ChimneySmoke"
+  },
+  {
+    "id": 352,
+    "name": "Crimson Thorny Bush",
+    "internal_name": "CrimsonThorns"
+  },
+  {
+    "id": 353,
+    "name": "Vine Rope",
+    "internal_name": "VineRope"
+  },
+  {
+    "id": 354,
+    "name": "Bewitching Table",
+    "internal_name": "BewitchingTable"
+  },
+  {
+    "id": 355,
+    "name": "Alchemy Table",
+    "internal_name": "AlchemyTable"
+  },
+  {
+    "id": 356,
+    "name": "Enchanted Sundial",
+    "internal_name": "Sundial"
+  },
+  {
+    "id": 357,
+    "name": "Smooth Marble Block",
+    "internal_name": "MarbleBlock"
+  },
+  {
+    "id": 358,
+    "name": "Gold Bird Cage",
+    "internal_name": "GoldBirdCage"
+  },
+  {
+    "id": 359,
+    "name": "Gold Bunny Cage",
+    "internal_name": "GoldBunnyCage"
+  },
+  {
+    "id": 360,
+    "name": "Gold Butterfly Jar",
+    "internal_name": "GoldButterflyCage"
+  },
+  {
+    "id": 361,
+    "name": "Gold Frog Cage",
+    "internal_name": "GoldFrogCage"
+  },
+  {
+    "id": 362,
+    "name": "Gold Grasshopper Cage",
+    "internal_name": "GoldGrasshopperCage"
+  },
+  {
+    "id": 363,
+    "name": "Gold Mouse Cage",
+    "internal_name": "GoldMouseCage"
+  },
+  {
+    "id": 364,
+    "name": "Gold Worm Cage",
+    "internal_name": "GoldWormCage"
+  },
+  {
+    "id": 365,
+    "name": "Silk Rope",
+    "internal_name": "SilkRope"
+  },
+  {
+    "id": 366,
+    "name": "Web Rope",
+    "internal_name": "WebRope"
+  },
+  {
+    "id": 367,
+    "name": "Marble Block",
+    "internal_name": "Marble"
+  },
+  {
+    "id": 368,
+    "name": "Granite Block",
+    "internal_name": "Granite"
+  },
+  {
+    "id": 369,
+    "name": "Smooth Granite Block",
+    "internal_name": "GraniteBlock"
+  },
+  {
+    "id": 370,
+    "name": "Meteorite Brick",
+    "internal_name": "MeteoriteBrick"
+  },
+  {
+    "id": 371,
+    "name": "Pink Slime Block",
+    "internal_name": "PinkSlimeBlock"
+  },
+  {
+    "id": 372,
+    "name": "Peace Candle",
+    "internal_name": "PeaceCandle"
+  },
+  {
+    "id": 373,
+    "name": "Magic Water Dropper",
+    "internal_name": "WaterDrip"
+  },
+  {
+    "id": 374,
+    "name": "Magic Lava Dropper",
+    "internal_name": "LavaDrip"
+  },
+  {
+    "id": 375,
+    "name": "Magic Honey Dropper",
+    "internal_name": "HoneyDrip"
+  },
+  {
+    "id": 376,
+    "name": "Wooden Crate",
+    "internal_name": "FishingCrate"
+  },
+  {
+    "id": 377,
+    "name": "Sharpening Station",
+    "internal_name": "SharpeningStation"
+  },
+  {
+    "id": 378,
+    "name": "Target Dummy",
+    "internal_name": "TargetDummy"
+  },
+  {
+    "id": 379,
+    "name": "Bubble",
+    "internal_name": "Bubble"
+  },
+  {
+    "id": 380,
+    "name": "Daybloom Planter Box",
+    "internal_name": "PlanterBox"
+  },
+  {
+    "id": 381,
+    "name": "Lava MossLava Moss(on Stone)",
+    "internal_name": "LavaMoss"
+  },
+  {
+    "id": 382,
+    "name": "Flower vines",
+    "internal_name": "VineFlowers"
+  },
+  {
+    "id": 383,
+    "name": "Living Mahogany",
+    "internal_name": "LivingMahogany"
+  },
+  {
+    "id": 384,
+    "name": "Mahogany Leaf Block",
+    "internal_name": "LivingMahoganyLeaves"
+  },
+  {
+    "id": 385,
+    "name": "Crystal Block",
+    "internal_name": "CrystalBlock"
+  },
+  {
+    "id": 386,
+    "name": "Trap DoorTrap Door (open)",
+    "internal_name": "TrapdoorOpen"
+  },
+  {
+    "id": 387,
+    "name": "Trap DoorTrap Door (closed)",
+    "internal_name": "TrapdoorClosed"
+  },
+  {
+    "id": 388,
+    "name": "Tall GateTall Gate (closed)",
+    "internal_name": "TallGateClosed"
+  },
+  {
+    "id": 389,
+    "name": "Tall GateTall Gate (open)",
+    "internal_name": "TallGateOpen"
+  },
+  {
+    "id": 390,
+    "name": "Lava Lamp",
+    "internal_name": "LavaLamp"
+  },
+  {
+    "id": 391,
+    "name": "Enchanted Nightcrawler Cage",
+    "internal_name": "CageEnchantedNightcrawler"
+  },
+  {
+    "id": 392,
+    "name": "Buggy Cage",
+    "internal_name": "CageBuggy"
+  },
+  {
+    "id": 393,
+    "name": "Grubby Cage",
+    "internal_name": "CageGrubby"
+  },
+  {
+    "id": 394,
+    "name": "Sluggy Cage",
+    "internal_name": "CageSluggy"
+  },
+  {
+    "id": 395,
+    "name": "Item Frame",
+    "internal_name": "ItemFrame"
+  },
+  {
+    "id": 396,
+    "name": "Sandstone Block",
+    "internal_name": "Sandstone"
+  },
+  {
+    "id": 397,
+    "name": "Hardened Sand Block",
+    "internal_name": "HardenedSand"
+  },
+  {
+    "id": 398,
+    "name": "Hardened Ebonsand Block",
+    "internal_name": "CorruptHardenedSand"
+  },
+  {
+    "id": 399,
+    "name": "Hardened Crimsand Block",
+    "internal_name": "CrimsonHardenedSand"
+  },
+  {
+    "id": 400,
+    "name": "Ebonsandstone Block",
+    "internal_name": "CorruptSandstone"
+  },
+  {
+    "id": 401,
+    "name": "Crimsandstone Block",
+    "internal_name": "CrimsonSandstone"
+  },
+  {
+    "id": 402,
+    "name": "Hardened Pearlsand Block",
+    "internal_name": "HallowHardenedSand"
+  },
+  {
+    "id": 403,
+    "name": "Pearlsandstone Block",
+    "internal_name": "HallowSandstone"
+  },
+  {
+    "id": 404,
+    "name": "Desert Fossil",
+    "internal_name": "DesertFossil"
+  },
+  {
+    "id": 405,
+    "name": "Fireplace",
+    "internal_name": "Fireplace"
+  },
+  {
+    "id": 406,
+    "name": "Chimney",
+    "internal_name": "Chimney"
+  },
+  {
+    "id": 407,
+    "name": "Sturdy Fossil",
+    "internal_name": "FossilOre"
+  },
+  {
+    "id": 408,
+    "name": "Luminite",
+    "internal_name": "LunarOre"
+  },
+  {
+    "id": 409,
+    "name": "Luminite Brick",
+    "internal_name": "LunarBrick"
+  },
+  {
+    "id": 410,
+    "name": "Vortex Monolith",
+    "internal_name": "LunarMonolith"
+  },
+  {
+    "id": 411,
+    "name": "Detonator",
+    "internal_name": "Detonator"
+  },
+  {
+    "id": 412,
+    "name": "Ancient Manipulator",
+    "internal_name": "LunarCraftingStation"
+  },
+  {
+    "id": 413,
+    "name": "Red Squirrel Cage",
+    "internal_name": "SquirrelOrangeCage"
+  },
+  {
+    "id": 414,
+    "name": "Gold Squirrel Cage",
+    "internal_name": "SquirrelGoldCage"
+  },
+  {
+    "id": 415,
+    "name": "Solar Fragment Block",
+    "internal_name": "LunarBlockSolar"
+  },
+  {
+    "id": 416,
+    "name": "Vortex Fragment Block",
+    "internal_name": "LunarBlockVortex"
+  },
+  {
+    "id": 417,
+    "name": "Nebula Fragment Block",
+    "internal_name": "LunarBlockNebula"
+  },
+  {
+    "id": 418,
+    "name": "Stardust Fragment Block",
+    "internal_name": "LunarBlockStardust"
+  },
+  {
+    "id": 419,
+    "name": "Logic Gate Lamp (Off)",
+    "internal_name": "LogicGateLamp"
+  },
+  {
+    "id": 420,
+    "name": "Logic Gate (AND)",
+    "internal_name": "LogicGate"
+  },
+  {
+    "id": 421,
+    "name": "Conveyor Belt (Clockwise)",
+    "internal_name": "ConveyorBeltLeft"
+  },
+  {
+    "id": 422,
+    "name": "Conveyor Belt (Counter Clockwise)",
+    "internal_name": "ConveyorBeltRight"
+  },
+  {
+    "id": 423,
+    "name": "Logic Sensor (Day)",
+    "internal_name": "LogicSensor"
+  },
+  {
+    "id": 424,
+    "name": "Junction Box",
+    "internal_name": "WirePipe"
+  },
+  {
+    "id": 425,
+    "name": "Announcement Box",
+    "internal_name": "AnnouncementBox"
+  },
+  {
+    "id": 426,
+    "name": "Red Team Block",
+    "internal_name": "TeamBlockRed"
+  },
+  {
+    "id": 427,
+    "name": "Red Team Platform",
+    "internal_name": "TeamBlockRedPlatform"
+  },
+  {
+    "id": 428,
+    "name": "Orange Weighted Pressure Plate",
+    "internal_name": "WeightedPressurePlate"
+  },
+  {
+    "id": 430,
+    "name": "Green Team Block",
+    "internal_name": "TeamBlockGreen"
+  },
+  {
+    "id": 431,
+    "name": "Blue Team Block",
+    "internal_name": "TeamBlockBlue"
+  },
+  {
+    "id": 432,
+    "name": "Yellow Team Block",
+    "internal_name": "TeamBlockYellow"
+  },
+  {
+    "id": 433,
+    "name": "Pink Team Block",
+    "internal_name": "TeamBlockPink"
+  },
+  {
+    "id": 434,
+    "name": "White Team Block",
+    "internal_name": "TeamBlockWhite"
+  },
+  {
+    "id": 435,
+    "name": "Green Team Platform",
+    "internal_name": "TeamBlockGreenPlatform"
+  },
+  {
+    "id": 436,
+    "name": "Blue Team Platform",
+    "internal_name": "TeamBlockBluePlatform"
+  },
+  {
+    "id": 437,
+    "name": "Yellow Team Platform",
+    "internal_name": "TeamBlockYellowPlatform"
+  },
+  {
+    "id": 438,
+    "name": "Pink Team Platform",
+    "internal_name": "TeamBlockPinkPlatform"
+  },
+  {
+    "id": 439,
+    "name": "White Team Platform",
+    "internal_name": "TeamBlockWhitePlatform"
+  },
+  {
+    "id": 440,
+    "name": "Ruby Gem Lock",
+    "internal_name": "GemLocks"
+  },
+  {
+    "id": 441,
+    "name": "Trapped Chest",
+    "internal_name": "FakeContainers"
+  },
+  {
+    "id": 442,
+    "name": "Teal Pressure Pad",
+    "internal_name": "ProjectilePressurePad"
+  },
+  {
+    "id": 443,
+    "name": "Geyser",
+    "internal_name": "GeyserTrap"
+  },
+  {
+    "id": 444,
+    "name": "Bee Hive",
+    "internal_name": "BeeHive"
+  },
+  {
+    "id": 445,
+    "name": "Pixel Box",
+    "internal_name": "PixelBox"
+  },
+  {
+    "id": 446,
+    "name": "Silly Pink Balloon",
+    "internal_name": "SillyBalloonPink"
+  },
+  {
+    "id": 447,
+    "name": "Silly Purple Balloon",
+    "internal_name": "SillyBalloonPurple"
+  },
+  {
+    "id": 448,
+    "name": "Silly Green Balloon",
+    "internal_name": "SillyBalloonGreen"
+  },
+  {
+    "id": 449,
+    "name": "Blue Streamer",
+    "internal_name": "SillyStreamerBlue"
+  },
+  {
+    "id": 450,
+    "name": "Green Streamer",
+    "internal_name": "SillyStreamerGreen"
+  },
+  {
+    "id": 451,
+    "name": "Pink Streamer",
+    "internal_name": "SillyStreamerPink"
+  },
+  {
+    "id": 452,
+    "name": "Silly Balloon Machine",
+    "internal_name": "SillyBalloonMachine"
+  },
+  {
+    "id": 453,
+    "name": "Silly Tied Balloon (Purple)",
+    "internal_name": "SillyBalloonTile"
+  },
+  {
+    "id": 454,
+    "name": "Pigronata",
+    "internal_name": "Pigronata"
+  },
+  {
+    "id": 455,
+    "name": "Party Center",
+    "internal_name": "PartyMonolith"
+  },
+  {
+    "id": 456,
+    "name": "Silly Tied Bundle of Balloons",
+    "internal_name": "PartyBundleOfBalloonTile"
+  },
+  {
+    "id": 457,
+    "name": "Party Present",
+    "internal_name": "PartyPresent"
+  },
+  {
+    "id": 458,
+    "name": "Sandfall Block",
+    "internal_name": "SandFallBlock"
+  },
+  {
+    "id": 459,
+    "name": "Snowfall Block",
+    "internal_name": "SnowFallBlock"
+  },
+  {
+    "id": 460,
+    "name": "Snow Cloud",
+    "internal_name": "SnowCloud"
+  },
+  {
+    "id": 461,
+    "name": "Magic Sand Dropper",
+    "internal_name": "SandDrip"
+  },
+  {
+    "id": 462,
+    "name": "Desert Spirit Lamp",
+    "internal_name": "DjinnLamp"
+  },
+  {
+    "id": 463,
+    "name": "Defender's Forge",
+    "internal_name": "DefendersForge"
+  },
+  {
+    "id": 464,
+    "name": "War Table",
+    "internal_name": "WarTable"
+  },
+  {
+    "id": 465,
+    "name": "War Table Banner",
+    "internal_name": "WarTableBanner"
+  },
+  {
+    "id": 466,
+    "name": "Eternia Crystal Stand",
+    "internal_name": "ElderCrystalStand"
+  },
+  {
+    "id": 467,
+    "name": "Crystal Chest",
+    "internal_name": "Containers2"
+  },
+  {
+    "id": 468,
+    "name": "Trapped Crystal Chest",
+    "internal_name": "FakeContainers2"
+  },
+  {
+    "id": 469,
+    "name": "Crystal Table",
+    "internal_name": "Tables2"
+  },
+  {
+    "id": 470,
+    "name": "Mannequin",
+    "internal_name": "DisplayDoll"
+  },
+  {
+    "id": 471,
+    "name": "Weapon Rack",
+    "internal_name": "WeaponsRack2"
+  },
+  {
+    "id": 472,
+    "name": "Iron Brick",
+    "internal_name": "IronBrick"
+  },
+  {
+    "id": 473,
+    "name": "Lead Brick",
+    "internal_name": "LeadBrick"
+  },
+  {
+    "id": 474,
+    "name": "Lesion Block",
+    "internal_name": "LesionBlock"
+  },
+  {
+    "id": 475,
+    "name": "Hat Rack",
+    "internal_name": "HatRack"
+  },
+  {
+    "id": 476,
+    "name": "Golf Cup",
+    "internal_name": "GolfHole"
+  },
+  {
+    "id": 477,
+    "name": "Mowed grass",
+    "internal_name": "GolfGrass"
+  },
+  {
+    "id": 478,
+    "name": "Crimstone Brick",
+    "internal_name": "CrimstoneBrick"
+  },
+  {
+    "id": 479,
+    "name": "Smooth Sandstone",
+    "internal_name": "SmoothSandstone"
+  },
+  {
+    "id": 480,
+    "name": "Blood Moon Monolith",
+    "internal_name": "BloodMoonMonolith"
+  },
+  {
+    "id": 481,
+    "name": "Cracked Blue Brick",
+    "internal_name": "CrackedBlueDungeonBrick"
+  },
+  {
+    "id": 482,
+    "name": "Cracked Green Brick",
+    "internal_name": "CrackedGreenDungeonBrick"
+  },
+  {
+    "id": 483,
+    "name": "Cracked Pink Brick",
+    "internal_name": "CrackedPinkDungeonBrick"
+  },
+  {
+    "id": 484,
+    "name": "Rolling Cactus",
+    "internal_name": "RollingCactus"
+  },
+  {
+    "id": 485,
+    "name": "Antlion Eggs",
+    "internal_name": "AntlionLarva"
+  },
+  {
+    "id": 486,
+    "name": "Drum Set",
+    "internal_name": "DrumSet"
+  },
+  {
+    "id": 487,
+    "name": "Picnic Table",
+    "internal_name": "PicnicTable"
+  },
+  {
+    "id": 488,
+    "name": "Fallen Log",
+    "internal_name": "FallenLog"
+  },
+  {
+    "id": 489,
+    "name": "Pin Wheel",
+    "internal_name": "PinWheel"
+  },
+  {
+    "id": 490,
+    "name": "Weather Vane",
+    "internal_name": "WeatherVane"
+  },
+  {
+    "id": 491,
+    "name": "Void Vault",
+    "internal_name": "VoidVault"
+  },
+  {
+    "id": 492,
+    "name": "Mowed Hallowed grass",
+    "internal_name": "GolfGrassHallowed"
+  },
+  {
+    "id": 493,
+    "name": "White Pin Flag",
+    "internal_name": "GolfCupFlag"
+  },
+  {
+    "id": 494,
+    "name": "Golf Tee",
+    "internal_name": "GolfTee"
+  },
+  {
+    "id": 495,
+    "name": "Shell Pile",
+    "internal_name": "ShellPile"
+  },
+  {
+    "id": 496,
+    "name": "Anti-Portal Block",
+    "internal_name": "AntiPortalBlock"
+  },
+  {
+    "id": 497,
+    "name": "Ebonwood Toilet",
+    "internal_name": "Toilets"
+  },
+  {
+    "id": 498,
+    "name": "Spider Nest Block",
+    "internal_name": "Spider"
+  },
+  {
+    "id": 499,
+    "name": "Decay Chamber",
+    "internal_name": "LesionStation"
+  },
+  {
+    "id": 500,
+    "name": "Solar Brick",
+    "internal_name": "SolarBrick"
+  },
+  {
+    "id": 501,
+    "name": "Vortex Brick",
+    "internal_name": "VortexBrick"
+  },
+  {
+    "id": 502,
+    "name": "Nebula Brick",
+    "internal_name": "NebulaBrick"
+  },
+  {
+    "id": 503,
+    "name": "Stardust Brick",
+    "internal_name": "StardustBrick"
+  },
+  {
+    "id": 504,
+    "name": "Snake Charmer's FluteMystic Snake Coil",
+    "internal_name": "MysticSnakeRope"
+  },
+  {
+    "id": 505,
+    "name": "Gold Fish Bowl",
+    "internal_name": "GoldGoldfishBowl"
+  },
+  {
+    "id": 506,
+    "name": "Bast Statue",
+    "internal_name": "CatBast"
+  },
+  {
+    "id": 507,
+    "name": "Gold Starry Block",
+    "internal_name": "GoldStarryGlassBlock"
+  },
+  {
+    "id": 508,
+    "name": "Blue Starry Block",
+    "internal_name": "BlueStarryGlassBlock"
+  },
+  {
+    "id": 509,
+    "name": "Void Monolith",
+    "internal_name": "VoidMonolith"
+  },
+  {
+    "id": 510,
+    "name": "Arrow Sign",
+    "internal_name": "ArrowSign"
+  },
+  {
+    "id": 511,
+    "name": "Painted Arrow Sign",
+    "internal_name": "PaintedArrowSign"
+  },
+  {
+    "id": 512,
+    "name": "Green MossGreen Moss(on Gray Brick)",
+    "internal_name": "GreenMossBrick"
+  },
+  {
+    "id": 513,
+    "name": "Brown MossBrown Moss(on Gray Brick)",
+    "internal_name": "BrownMossBrick"
+  },
+  {
+    "id": 514,
+    "name": "Red MossRed Moss(on Gray Brick)",
+    "internal_name": "RedMossBrick"
+  },
+  {
+    "id": 515,
+    "name": "Blue MossBlue Moss(on Gray Brick)",
+    "internal_name": "BlueMossBrick"
+  },
+  {
+    "id": 516,
+    "name": "Purple MossPurple Moss(on Gray Brick)",
+    "internal_name": "PurpleMossBrick"
+  },
+  {
+    "id": 517,
+    "name": "Lava MossLava Moss(on Gray Brick)",
+    "internal_name": "LavaMossBrick"
+  },
+  {
+    "id": 518,
+    "name": "Lily pads",
+    "internal_name": "LilyPad"
+  },
+  {
+    "id": 519,
+    "name": "Cattail",
+    "internal_name": "Cattail"
+  },
+  {
+    "id": 520,
+    "name": "Plate",
+    "internal_name": "FoodPlatter"
+  },
+  {
+    "id": 521,
+    "name": "Black Dragonfly Jar",
+    "internal_name": "BlackDragonflyJar"
+  },
+  {
+    "id": 522,
+    "name": "Blue Dragonfly Jar",
+    "internal_name": "BlueDragonflyJar"
+  },
+  {
+    "id": 523,
+    "name": "Green Dragonfly Jar",
+    "internal_name": "GreenDragonflyJar"
+  },
+  {
+    "id": 524,
+    "name": "Orange Dragonfly Jar",
+    "internal_name": "OrangeDragonflyJar"
+  },
+  {
+    "id": 525,
+    "name": "Red Dragonfly Jar",
+    "internal_name": "RedDragonflyJar"
+  },
+  {
+    "id": 526,
+    "name": "Yellow Dragonfly Jar",
+    "internal_name": "YellowDragonflyJar"
+  },
+  {
+    "id": 527,
+    "name": "Gold Dragonfly Jar",
+    "internal_name": "GoldDragonflyJar"
+  },
+  {
+    "id": 528,
+    "name": "Mushroom Vine",
+    "internal_name": "MushroomVines"
+  },
+  {
+    "id": 529,
+    "name": "Sea Oats",
+    "internal_name": "SeaOats"
+  },
+  {
+    "id": 530,
+    "name": "Oasis Plants",
+    "internal_name": "OasisPlants"
+  },
+  {
+    "id": 531,
+    "name": "Boulder Statue",
+    "internal_name": "BoulderStatue"
+  },
+  {
+    "id": 532,
+    "name": "Maggot Cage",
+    "internal_name": "MaggotCage"
+  },
+  {
+    "id": 533,
+    "name": "Rat Cage",
+    "internal_name": "RatCage"
+  },
+  {
+    "id": 534,
+    "name": "Krypton MossKrypton Moss(on Stone)",
+    "internal_name": "KryptonMoss"
+  },
+  {
+    "id": 535,
+    "name": "Krypton MossKrypton Moss(on Gray Brick)",
+    "internal_name": "KryptonMossBrick"
+  },
+  {
+    "id": 536,
+    "name": "Xenon MossXenon Moss(on Stone)",
+    "internal_name": "XenonMoss"
+  },
+  {
+    "id": 537,
+    "name": "Xenon MossXenon Moss(on Gray Brick)",
+    "internal_name": "XenonMossBrick"
+  },
+  {
+    "id": 538,
+    "name": "Ladybug Cage",
+    "internal_name": "LadybugCage"
+  },
+  {
+    "id": 539,
+    "name": "Argon MossArgon Moss(on Stone)",
+    "internal_name": "ArgonMoss"
+  },
+  {
+    "id": 540,
+    "name": "Argon MossArgon Moss(on Gray Brick)",
+    "internal_name": "ArgonMossBrick"
+  },
+  {
+    "id": 541,
+    "name": "Echo Block",
+    "internal_name": "EchoBlock"
+  },
+  {
+    "id": 542,
+    "name": "Owl Cage",
+    "internal_name": "OwlCage"
+  },
+  {
+    "id": 543,
+    "name": "Pupfish Bowl",
+    "internal_name": "PupfishBowl"
+  },
+  {
+    "id": 544,
+    "name": "Gold Ladybug Cage",
+    "internal_name": "GoldLadybugCage"
+  },
+  {
+    "id": 545,
+    "name": "Lawn Flamingo",
+    "internal_name": "LawnFlamingo"
+  },
+  {
+    "id": 546,
+    "name": "Grate",
+    "internal_name": "Grate"
+  },
+  {
+    "id": 547,
+    "name": "Potted Forest Cedar",
+    "internal_name": "PottedPlants1"
+  },
+  {
+    "id": 548,
+    "name": "Potted Hallow Tree",
+    "internal_name": "PottedPlants2"
+  },
+  {
+    "id": 549,
+    "name": "Seaweeds",
+    "internal_name": "Seaweed"
+  },
+  {
+    "id": 550,
+    "name": "Turtle Cage",
+    "internal_name": "TurtleCage"
+  },
+  {
+    "id": 551,
+    "name": "Jungle Turtle Cage",
+    "internal_name": "TurtleJungleCage"
+  },
+  {
+    "id": 552,
+    "name": "Sandcastle BucketSandcastles",
+    "internal_name": "Sandcastles"
+  },
+  {
+    "id": 553,
+    "name": "Grebe Cage",
+    "internal_name": "GrebeCage"
+  },
+  {
+    "id": 554,
+    "name": "Seagull Cage",
+    "internal_name": "SeagullCage"
+  },
+  {
+    "id": 555,
+    "name": "Water Strider Cage",
+    "internal_name": "WaterStriderCage"
+  },
+  {
+    "id": 556,
+    "name": "Gold Water Strider Cage",
+    "internal_name": "GoldWaterStriderCage"
+  },
+  {
+    "id": 557,
+    "name": "GrateGrate (closed)",
+    "internal_name": "GrateClosed"
+  },
+  {
+    "id": 558,
+    "name": "Seahorse Cage",
+    "internal_name": "SeahorseCage"
+  },
+  {
+    "id": 559,
+    "name": "Gold Seahorse Cage",
+    "internal_name": "GoldSeahorseCage"
+  },
+  {
+    "id": 560,
+    "name": "Bronze Golf Trophy",
+    "internal_name": "GolfTrophies"
+  },
+  {
+    "id": 561,
+    "name": "Marble Column",
+    "internal_name": "MarbleColumn"
+  },
+  {
+    "id": 562,
+    "name": "Bamboo",
+    "internal_name": "BambooBlock"
+  },
+  {
+    "id": 563,
+    "name": "Large Bamboo",
+    "internal_name": "LargeBambooBlock"
+  },
+  {
+    "id": 564,
+    "name": "Plasma Lamp",
+    "internal_name": "PlasmaLamp"
+  },
+  {
+    "id": 565,
+    "name": "Fog Machine",
+    "internal_name": "FogMachine"
+  },
+  {
+    "id": 566,
+    "name": "Amber Stone Block",
+    "internal_name": "AmberStoneBlock"
+  },
+  {
+    "id": 567,
+    "name": "Garden Gnome",
+    "internal_name": "GardenGnome"
+  },
+  {
+    "id": 568,
+    "name": "Pink Fairy Jar",
+    "internal_name": "PinkFairyJar"
+  },
+  {
+    "id": 569,
+    "name": "Green Fairy Jar",
+    "internal_name": "GreenFairyJar"
+  },
+  {
+    "id": 570,
+    "name": "Blue Fairy Jar",
+    "internal_name": "BlueFairyJar"
+  },
+  {
+    "id": 571,
+    "name": "Bamboo Tree",
+    "internal_name": "Bamboo"
+  },
+  {
+    "id": 572,
+    "name": "Soul of Light in a Bottle",
+    "internal_name": "SoulBottles"
+  },
+  {
+    "id": 573,
+    "name": "Tattered Wood Sign",
+    "internal_name": "TatteredWoodSign"
+  },
+  {
+    "id": 574,
+    "name": "Boreal Beam",
+    "internal_name": "BorealBeam"
+  },
+  {
+    "id": 575,
+    "name": "Rich Mahogany Beam",
+    "internal_name": "RichMahoganyBeam"
+  },
+  {
+    "id": 576,
+    "name": "Granite Column",
+    "internal_name": "GraniteColumn"
+  },
+  {
+    "id": 577,
+    "name": "Sandstone Column",
+    "internal_name": "SandstoneColumn"
+  },
+  {
+    "id": 578,
+    "name": "Mushroom Beam",
+    "internal_name": "MushroomBeam"
+  },
+  {
+    "id": 579,
+    "name": "Rock Golem Head",
+    "internal_name": "RockGolemHead"
+  },
+  {
+    "id": 580,
+    "name": "Hell Butterfly Jar",
+    "internal_name": "HellButterflyJar"
+  },
+  {
+    "id": 581,
+    "name": "Lavafly in a Bottle",
+    "internal_name": "LavaflyinaBottle"
+  },
+  {
+    "id": 582,
+    "name": "Magma Snail Cage",
+    "internal_name": "MagmaSnailCage"
+  },
+  {
+    "id": 583,
+    "name": "Topaz Tree",
+    "internal_name": "TreeTopaz"
+  },
+  {
+    "id": 584,
+    "name": "Amethyst Tree",
+    "internal_name": "TreeAmethyst"
+  },
+  {
+    "id": 585,
+    "name": "Sapphire Tree",
+    "internal_name": "TreeSapphire"
+  },
+  {
+    "id": 586,
+    "name": "Emerald Tree",
+    "internal_name": "TreeEmerald"
+  },
+  {
+    "id": 587,
+    "name": "Ruby Tree",
+    "internal_name": "TreeRuby"
+  },
+  {
+    "id": 588,
+    "name": "Diamond Tree",
+    "internal_name": "TreeDiamond"
+  },
+  {
+    "id": 589,
+    "name": "Amber Tree",
+    "internal_name": "TreeAmber"
+  },
+  {
+    "id": 590,
+    "name": "Gem Saplings",
+    "internal_name": "GemSaplings"
+  },
+  {
+    "id": 591,
+    "name": "Hanging Pot",
+    "internal_name": "PotsSuspended"
+  },
+  {
+    "id": 592,
+    "name": "Hanging Brazier",
+    "internal_name": "BrazierSuspended"
+  },
+  {
+    "id": 593,
+    "name": "Mini Volcano",
+    "internal_name": "VolcanoSmall"
+  },
+  {
+    "id": 594,
+    "name": "Large Volcano",
+    "internal_name": "VolcanoLarge"
+  },
+  {
+    "id": 595,
+    "name": "Sakura Sapling",
+    "internal_name": "VanityTreeSakuraSaplings"
+  },
+  {
+    "id": 596,
+    "name": "Sakura Tree",
+    "internal_name": "VanityTreeSakura"
+  },
+  {
+    "id": 597,
+    "name": "Forest PylonForest Pylon base",
+    "internal_name": "TeleportationPylon"
+  },
+  {
+    "id": 598,
+    "name": "Lava Serpent Bowl",
+    "internal_name": "LavafishBowl"
+  },
+  {
+    "id": 599,
+    "name": "Amethyst Bunny Cage",
+    "internal_name": "AmethystBunnyCage"
+  },
+  {
+    "id": 600,
+    "name": "Topaz Bunny Cage",
+    "internal_name": "TopazBunnyCage"
+  },
+  {
+    "id": 601,
+    "name": "Sapphire Bunny Cage",
+    "internal_name": "SapphireBunnyCage"
+  },
+  {
+    "id": 602,
+    "name": "Emerald Bunny Cage",
+    "internal_name": "EmeraldBunnyCage"
+  },
+  {
+    "id": 603,
+    "name": "Ruby Bunny Cage",
+    "internal_name": "RubyBunnyCage"
+  },
+  {
+    "id": 604,
+    "name": "Diamond Bunny Cage",
+    "internal_name": "DiamondBunnyCage"
+  },
+  {
+    "id": 605,
+    "name": "Amber Bunny Cage",
+    "internal_name": "AmberBunnyCage"
+  },
+  {
+    "id": 606,
+    "name": "Amethyst Squirrel Cage",
+    "internal_name": "AmethystSquirrelCage"
+  },
+  {
+    "id": 607,
+    "name": "Topaz Squirrel Cage",
+    "internal_name": "TopazSquirrelCage"
+  },
+  {
+    "id": 608,
+    "name": "Sapphire Squirrel Cage",
+    "internal_name": "SapphireSquirrelCage"
+  },
+  {
+    "id": 609,
+    "name": "Emerald Squirrel Cage",
+    "internal_name": "EmeraldSquirrelCage"
+  },
+  {
+    "id": 610,
+    "name": "Ruby Squirrel Cage",
+    "internal_name": "RubySquirrelCage"
+  },
+  {
+    "id": 611,
+    "name": "Diamond Squirrel Cage",
+    "internal_name": "DiamondSquirrelCage"
+  },
+  {
+    "id": 612,
+    "name": "Amber Squirrel Cage",
+    "internal_name": "AmberSquirrelCage"
+  },
+  {
+    "id": 613,
+    "name": "Potted Fire Brambles",
+    "internal_name": "PottedLavaPlants"
+  },
+  {
+    "id": 614,
+    "name": "Potted Ember Tendrils",
+    "internal_name": "PottedLavaPlantTendrils"
+  },
+  {
+    "id": 615,
+    "name": "Yellow Willow Sapling",
+    "internal_name": "VanityTreeWillowSaplings"
+  },
+  {
+    "id": 616,
+    "name": "Yellow Willow Tree",
+    "internal_name": "VanityTreeYellowWillow"
+  },
+  {
+    "id": 617,
+    "name": "RelicsRelic Base",
+    "internal_name": "MasterTrophyBase"
+  },
+  {
+    "id": 618,
+    "name": "Stone Accent Slab",
+    "internal_name": "AccentSlab"
+  },
+  {
+    "id": 619,
+    "name": "Truffle Worm Cage",
+    "internal_name": "TruffleWormCage"
+  },
+  {
+    "id": 620,
+    "name": "Prismatic Lacewing Jar",
+    "internal_name": "EmpressButterflyJar"
+  },
+  {
+    "id": 621,
+    "name": "Slice of Cake",
+    "internal_name": "SliceOfCake"
+  },
+  {
+    "id": 622,
+    "name": "Teapot",
+    "internal_name": "TeaKettle"
+  },
+  {
+    "id": 623,
+    "name": "Potted Crystal Fern",
+    "internal_name": "PottedCrystalPlants"
+  },
+  {
+    "id": 624,
+    "name": "Abigail's Flower",
+    "internal_name": "AbigailsFlower"
+  },
+  {
+    "id": 625,
+    "name": "Neon MossNeon Moss(on Stone)",
+    "internal_name": "VioletMoss"
+  },
+  {
+    "id": 626,
+    "name": "Neon MossNeon Moss(on Gray Brick)",
+    "internal_name": "VioletMossBrick"
+  },
+  {
+    "id": 627,
+    "name": "Helium MossHelium Moss(on Stone)",
+    "internal_name": "RainbowMoss"
+  },
+  {
+    "id": 628,
+    "name": "Helium MossHelium Moss(on Gray Brick)",
+    "internal_name": "RainbowMossBrick"
+  },
+  {
+    "id": 629,
+    "name": "Stinkbug Cage",
+    "internal_name": "StinkbugCage"
+  },
+  {
+    "id": 630,
+    "name": "Stinkbug Blocker",
+    "internal_name": "StinkbugHousingBlocker"
+  },
+  {
+    "id": 631,
+    "name": "Ghostly Stinkbug Blocker",
+    "internal_name": "StinkbugHousingBlockerEcho"
+  },
+  {
+    "id": 632,
+    "name": "Scarlet Macaw Cage",
+    "internal_name": "ScarletMacawCage"
+  },
+  {
+    "id": 633,
+    "name": "Ash grass",
+    "internal_name": "AshGrass"
+  },
+  {
+    "id": 634,
+    "name": "Ash tree",
+    "internal_name": "TreeAsh"
+  },
+  {
+    "id": 635,
+    "name": "Ash Wood",
+    "internal_name": "AshWood"
+  },
+  {
+    "id": 636,
+    "name": "Corrupt vines",
+    "internal_name": "CorruptVines"
+  },
+  {
+    "id": 637,
+    "name": "Short wild Ash plants",
+    "internal_name": "AshPlants"
+  },
+  {
+    "id": 638,
+    "name": "Ash vines",
+    "internal_name": "AshVines"
+  },
+  {
+    "id": 639,
+    "name": "Repaired Mana Crystal",
+    "internal_name": "ManaCrystal"
+  },
+  {
+    "id": 640,
+    "name": "Blue Macaw Cage",
+    "internal_name": "BlueMacawCage"
+  },
+  {
+    "id": 641,
+    "name": "Reef Block",
+    "internal_name": "ReefBlock"
+  },
+  {
+    "id": 642,
+    "name": "Chlorophyte Extractinator",
+    "internal_name": "ChlorophyteExtractinator"
+  },
+  {
+    "id": 643,
+    "name": "Toucan Cage",
+    "internal_name": "ToucanCage"
+  },
+  {
+    "id": 644,
+    "name": "Yellow Cockatiel Cage",
+    "internal_name": "YellowCockatielCage"
+  },
+  {
+    "id": 645,
+    "name": "Gray Cockatiel Cage",
+    "internal_name": "GrayCockatielCage"
+  },
+  {
+    "id": 646,
+    "name": "Shadow Candle",
+    "internal_name": "ShadowCandle"
+  },
+  {
+    "id": 647,
+    "name": "RubblemakerLarge Rubblemaker",
+    "internal_name": "LargePilesEcho"
+  },
+  {
+    "id": 648,
+    "name": "RubblemakerLarge Rubblemaker",
+    "internal_name": "LargePiles2Echo"
+  },
+  {
+    "id": 649,
+    "name": "RubblemakerMedium Rubblemaker",
+    "internal_name": "SmallPiles2x1Echo"
+  },
+  {
+    "id": 650,
+    "name": "RubblemakerSmall Rubblemaker",
+    "internal_name": "SmallPiles1x1Echo"
+  },
+  {
+    "id": 651,
+    "name": "RubblemakerLarge Rubblemaker",
+    "internal_name": "PlantDetritus3x2Echo"
+  },
+  {
+    "id": 652,
+    "name": "RubblemakerMedium Rubblemaker",
+    "internal_name": "PlantDetritus2x2Echo"
+  },
+  {
+    "id": 653,
+    "name": "Portable Kiln",
+    "internal_name": "PotsEcho"
+  },
+  {
+    "id": 654,
+    "name": "TNT Barrel",
+    "internal_name": "TNTBarrel"
+  },
+  {
+    "id": 655,
+    "name": "Plantera thorny bushes",
+    "internal_name": "PlanteraThorns"
+  },
+  {
+    "id": 656,
+    "name": "Glow Tulip",
+    "internal_name": "GlowTulip"
+  },
+  {
+    "id": 657,
+    "name": "Echo Chamber",
+    "internal_name": "EchoMonolith"
+  },
+  {
+    "id": 658,
+    "name": "Aether Monolith",
+    "internal_name": "ShimmerMonolith"
+  },
+  {
+    "id": 659,
+    "name": "Aetherium Block",
+    "internal_name": "ShimmerBlock"
+  },
+  {
+    "id": 660,
+    "name": "Faeling in a Bottle",
+    "internal_name": "ShimmerflyinaBottle"
+  },
+  {
+    "id": 661,
+    "name": "Corrupt Jungle grass",
+    "internal_name": "CorruptJungleGrass"
+  },
+  {
+    "id": 662,
+    "name": "Crimson Jungle grass",
+    "internal_name": "CrimsonJungleGrass"
+  },
+  {
+    "id": 663,
+    "name": "Enchanted Moondial",
+    "internal_name": "Moondial"
+  },
+  {
+    "id": 664,
+    "name": "Bouncy Boulder",
+    "internal_name": "BouncyBoulder"
+  },
+  {
+    "id": 665,
+    "name": "Life Crystal Boulder",
+    "internal_name": "LifeCrystalBoulder"
+  },
+  {
+    "id": 666,
+    "name": "Poo",
+    "internal_name": "PoopBlock"
+  },
+  {
+    "id": 667,
+    "name": "Aetherium Brick",
+    "internal_name": "ShimmerBrick"
+  },
+  {
+    "id": 668,
+    "name": "The Dirtiest Block",
+    "internal_name": "DirtiestBlock"
+  },
+  {
+    "id": 669,
+    "name": "Lunar Rust Brick",
+    "internal_name": "LunarRustBrick"
+  },
+  {
+    "id": 670,
+    "name": "Dark Celestial Brick",
+    "internal_name": "DarkCelestialBrick"
+  },
+  {
+    "id": 671,
+    "name": "Astra Brick",
+    "internal_name": "AstraBrick"
+  },
+  {
+    "id": 672,
+    "name": "Cosmic Ember Brick",
+    "internal_name": "CosmicEmberBrick"
+  },
+  {
+    "id": 673,
+    "name": "Cryocore Brick",
+    "internal_name": "CryocoreBrick"
+  },
+  {
+    "id": 674,
+    "name": "Mercury Brick",
+    "internal_name": "MercuryBrick"
+  },
+  {
+    "id": 675,
+    "name": "Star Royale Brick",
+    "internal_name": "StarRoyaleBrick"
+  },
+  {
+    "id": 676,
+    "name": "Heavenforge Brick",
+    "internal_name": "HeavenforgeBrick"
+  },
+  {
+    "id": 677,
+    "name": "Ancient Blue Brick",
+    "internal_name": "AncientBlueBrick"
+  },
+  {
+    "id": 678,
+    "name": "Ancient Green Brick",
+    "internal_name": "AncientGreenBrick"
+  },
+  {
+    "id": 679,
+    "name": "Ancient Pink Brick",
+    "internal_name": "AncientPinkBrick"
+  },
+  {
+    "id": 680,
+    "name": "Ancient Gold Brick",
+    "internal_name": "AncientGoldBrick"
+  },
+  {
+    "id": 681,
+    "name": "Ancient Silver Brick",
+    "internal_name": "AncientSilverBrick"
+  },
+  {
+    "id": 682,
+    "name": "Ancient Copper Brick",
+    "internal_name": "AncientCopperBrick"
+  },
+  {
+    "id": 683,
+    "name": "Ancient Obsidian Brick",
+    "internal_name": "AncientObsidianBrick"
+  },
+  {
+    "id": 684,
+    "name": "Ancient Hellstone Brick",
+    "internal_name": "AncientHellstoneBrick"
+  },
+  {
+    "id": 685,
+    "name": "Ancient Cobalt Brick",
+    "internal_name": "AncientCobaltBrick"
+  },
+  {
+    "id": 686,
+    "name": "Ancient Mythril Brick",
+    "internal_name": "AncientMythrilBrick"
+  },
+  {
+    "id": 687,
+    "name": "Lava Moss Brick",
+    "internal_name": "LavaMossBlock"
+  },
+  {
+    "id": 688,
+    "name": "Argon Moss Brick",
+    "internal_name": "ArgonMossBlock"
+  },
+  {
+    "id": 689,
+    "name": "Krypton Moss Brick",
+    "internal_name": "KryptonMossBlock"
+  },
+  {
+    "id": 690,
+    "name": "Xenon Moss Brick",
+    "internal_name": "XenonMossBlock"
+  },
+  {
+    "id": 691,
+    "name": "Neon Moss Brick",
+    "internal_name": "VioletMossBlock"
+  },
+  {
+    "id": 692,
+    "name": "Helium Moss Brick",
+    "internal_name": "RainbowMossBlock"
+  },
+  {
+    "id": 695,
+    "name": "Replica Crimson Altar",
+    "internal_name": "DemonAltarReplica"
+  },
+  {
+    "id": 696,
+    "name": "Replica Crimson Heart",
+    "internal_name": "ShadowOrbsReplica"
+  },
+  {
+    "id": 697,
+    "name": "Decorative Cobweb",
+    "internal_name": "CobwebReplica"
+  },
+  {
+    "id": 698,
+    "name": "Item Flask",
+    "internal_name": "DeadCellsDisplayJar"
+  },
+  {
+    "id": 699,
+    "name": "Alchemy Flask",
+    "internal_name": "DeadCellsPotionStation"
+  },
+  {
+    "id": 700,
+    "name": "Rubblemaker",
+    "internal_name": "AbigailsFlowerReplica"
+  },
+  {
+    "id": 701,
+    "name": "Rubblemaker",
+    "internal_name": "GlowTulipReplica"
+  },
+  {
+    "id": 702,
+    "name": "Rubblemaker",
+    "internal_name": "LifeFruitReplica"
+  },
+  {
+    "id": 703,
+    "name": "Rubblemaker",
+    "internal_name": "JunglePlantsEcho"
+  },
+  {
+    "id": 704,
+    "name": "Rubblemaker",
+    "internal_name": "FallenLogEcho"
+  },
+  {
+    "id": 705,
+    "name": "Rubblemaker",
+    "internal_name": "OasisPlantsEcho"
+  },
+  {
+    "id": 706,
+    "name": "Rubblemaker",
+    "internal_name": "TerragrimShrineEcho"
+  },
+  {
+    "id": 707,
+    "name": "Rubblemaker",
+    "internal_name": "BooksEcho"
+  },
+  {
+    "id": 708,
+    "name": "Shimmerfall Block",
+    "internal_name": "Shimmerfall"
+  },
+  {
+    "id": 709,
+    "name": "Magic Shimmer Dropper",
+    "internal_name": "ShimmerDrip"
+  },
+  {
+    "id": 710,
+    "name": "Pufferfish Cage",
+    "internal_name": "PufferfishCage"
+  },
+  {
+    "id": 711,
+    "name": "Rainbow Boulder",
+    "internal_name": "RainbowBoulder"
+  },
+  {
+    "id": 712,
+    "name": "Poo Boulder",
+    "internal_name": "Poulder"
+  },
+  {
+    "id": 713,
+    "name": "Lava Boulder",
+    "internal_name": "LavaBoulder"
+  },
+  {
+    "id": 714,
+    "name": "Spider Boulder",
+    "internal_name": "SpiderBoulder"
+  },
+  {
+    "id": 715,
+    "name": "Ghoulder",
+    "internal_name": "Ghoulder"
+  },
+  {
+    "id": 716,
+    "name": "Friendly Boulder",
+    "internal_name": "BoulderThatSpawnsPet"
+  },
+  {
+    "id": 717,
+    "name": "Lava Cloud",
+    "internal_name": "LavaCloud"
+  },
+  {
+    "id": 718,
+    "name": "Star Cloud",
+    "internal_name": "StarCloud"
+  },
+  {
+    "id": 719,
+    "name": "Rainbow Cloud",
+    "internal_name": "RainbowCloud"
+  },
+  {
+    "id": 720,
+    "name": "CRT Monolith",
+    "internal_name": "CRTMonolith"
+  },
+  {
+    "id": 721,
+    "name": "Retro Monolith",
+    "internal_name": "RetroMonolith"
+  },
+  {
+    "id": 722,
+    "name": "Fallen Star Block",
+    "internal_name": "FallenStarBlock"
+  },
+  {
+    "id": 723,
+    "name": "Kite Anchor",
+    "internal_name": "KiteAnchor"
+  },
+  {
+    "id": 725,
+    "name": "Film Projector",
+    "internal_name": "NoirMonolith"
+  },
+  {
+    "id": 726,
+    "name": "Cannonball",
+    "internal_name": "CannonBall"
+  },
+  {
+    "id": 727,
+    "name": "Dull Red Team Block",
+    "internal_name": "TeamBlockRedVariant"
+  },
+  {
+    "id": 728,
+    "name": "Dull Green Team Block",
+    "internal_name": "TeamBlockGreenVariant"
+  },
+  {
+    "id": 729,
+    "name": "Dull Blue Team Block",
+    "internal_name": "TeamBlockBlueVariant"
+  },
+  {
+    "id": 730,
+    "name": "Dull Yellow Team Block",
+    "internal_name": "TeamBlockYellowVariant"
+  },
+  {
+    "id": 731,
+    "name": "Dull Pink Team Block",
+    "internal_name": "TeamBlockPinkVariant"
+  },
+  {
+    "id": 732,
+    "name": "Dull White Team Block",
+    "internal_name": "TeamBlockWhiteVariant"
+  },
+  {
+    "id": 733,
+    "name": "Radio Thing",
+    "internal_name": "RadioThingMonolith"
+  },
+  {
+    "id": 734,
+    "name": "Feywood",
+    "internal_name": "Feywood"
+  },
+  {
+    "id": 735,
+    "name": "Hallowed Brick",
+    "internal_name": "HallowedBrick"
+  },
+  {
+    "id": 736,
+    "name": "Easter Block",
+    "internal_name": "EasterBlock"
+  },
+  {
+    "id": 737,
+    "name": "Gothic Brick",
+    "internal_name": "GothicBrick"
+  },
+  {
+    "id": 738,
+    "name": "Flinx Fur Block",
+    "internal_name": "FlinxFurBlock"
+  },
+  {
+    "id": 739,
+    "name": "Jellyfish Block",
+    "internal_name": "JellyfishBlock"
+  },
+  {
+    "id": 740,
+    "name": "Toybreaker Brick",
+    "internal_name": "ToyBreakerBlock"
+  },
+  {
+    "id": 741,
+    "name": "Pine Wood",
+    "internal_name": "PineWoodBlock"
+  },
+  {
+    "id": 742,
+    "name": "Harpy Block",
+    "internal_name": "HarpyBlock"
+  },
+  {
+    "id": 743,
+    "name": "Moonplate Block",
+    "internal_name": "MoonplateBlock"
+  },
+  {
+    "id": 744,
+    "name": "Librarian Block",
+    "internal_name": "LibrarianBlock"
+  },
+  {
+    "id": 745,
+    "name": "Spike Block",
+    "internal_name": "SpikeBlock"
+  },
+  {
+    "id": 746,
+    "name": "Office Block",
+    "internal_name": "OfficeBlock"
+  },
+  {
+    "id": 747,
+    "name": "Forbidden Block",
+    "internal_name": "ForbiddenBlock"
+  },
+  {
+    "id": 748,
+    "name": "Aquarium Block",
+    "internal_name": "WaterBlock"
+  },
+  {
+    "id": 749,
+    "name": "Boulder Block",
+    "internal_name": "BoulderBlock"
+  },
+  {
+    "id": 750,
+    "name": "Sharp Spike Block",
+    "internal_name": "DamagingSpikeBlock"
+  },
+  {
+    "id": 751,
+    "name": "Digtoise",
+    "internal_name": "PalworldDigtoiseSleeping"
+  },
+  {
+    "id": 752,
+    "name": "Huge Dragon Egg",
+    "internal_name": "PalworldChilletEgg"
+  },
+  {
+    "id": 753,
+    "name": "Giant Tiki",
+    "internal_name": "GiantTiki"
+  }
+]

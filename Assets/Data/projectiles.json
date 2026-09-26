@@ -1,0 +1,5677 @@
+[
+  {
+    "id": 1,
+    "name": "Wooden Arrow (friendly)",
+    "internal_name": "WoodenArrowFriendly"
+  },
+  {
+    "id": 2,
+    "name": "Fire Arrow",
+    "internal_name": "FireArrow"
+  },
+  {
+    "id": 3,
+    "name": "Shuriken",
+    "internal_name": "Shuriken"
+  },
+  {
+    "id": 4,
+    "name": "Unholy Arrow",
+    "internal_name": "UnholyArrow"
+  },
+  {
+    "id": 5,
+    "name": "Jester's Arrow",
+    "internal_name": "JestersArrow"
+  },
+  {
+    "id": 6,
+    "name": "Enchanted Boomerang",
+    "internal_name": "EnchantedBoomerang"
+  },
+  {
+    "id": 7,
+    "name": "Vilethorn (base)",
+    "internal_name": "VilethornBase"
+  },
+  {
+    "id": 8,
+    "name": "Vilethorn (tip)",
+    "internal_name": "VilethornTip"
+  },
+  {
+    "id": 9,
+    "name": "Starfury",
+    "internal_name": "Starfury"
+  },
+  {
+    "id": 10,
+    "name": "Purification Powder",
+    "internal_name": "PurificationPowder"
+  },
+  {
+    "id": 11,
+    "name": "Vile Powder",
+    "internal_name": "VilePowder"
+  },
+  {
+    "id": 12,
+    "name": "Falling Star",
+    "internal_name": "FallingStar"
+  },
+  {
+    "id": 13,
+    "name": "Hook",
+    "internal_name": "Hook"
+  },
+  {
+    "id": 14,
+    "name": "Bullet",
+    "internal_name": "Bullet"
+  },
+  {
+    "id": 15,
+    "name": "Ball of Fire",
+    "internal_name": "BallofFire"
+  },
+  {
+    "id": 16,
+    "name": "Magic Missile",
+    "internal_name": "MagicMissile"
+  },
+  {
+    "id": 17,
+    "name": "Dirt Ball",
+    "internal_name": "DirtBall"
+  },
+  {
+    "id": 18,
+    "name": "Shadow Orb",
+    "internal_name": "ShadowOrb"
+  },
+  {
+    "id": 19,
+    "name": "Flamarang",
+    "internal_name": "Flamarang"
+  },
+  {
+    "id": 20,
+    "name": "Green Laser",
+    "internal_name": "GreenLaser"
+  },
+  {
+    "id": 21,
+    "name": "Bone",
+    "internal_name": "Bone"
+  },
+  {
+    "id": 22,
+    "name": "Water Stream",
+    "internal_name": "WaterStream"
+  },
+  {
+    "id": 23,
+    "name": "Harpoon",
+    "internal_name": "Harpoon"
+  },
+  {
+    "id": 24,
+    "name": "Spiky Ball",
+    "internal_name": "SpikyBall"
+  },
+  {
+    "id": 25,
+    "name": "Ball 'O Hurt",
+    "internal_name": "BallOHurt"
+  },
+  {
+    "id": 26,
+    "name": "Blue Moon",
+    "internal_name": "BlueMoon"
+  },
+  {
+    "id": 27,
+    "name": "Water Bolt",
+    "internal_name": "WaterBolt"
+  },
+  {
+    "id": 28,
+    "name": "Bomb",
+    "internal_name": "Bomb"
+  },
+  {
+    "id": 29,
+    "name": "Dynamite",
+    "internal_name": "Dynamite"
+  },
+  {
+    "id": 30,
+    "name": "Grenade",
+    "internal_name": "Grenade"
+  },
+  {
+    "id": 31,
+    "name": "Sand Ball",
+    "internal_name": "SandBallFalling"
+  },
+  {
+    "id": 32,
+    "name": "Ivy Whip",
+    "internal_name": "IvyWhip"
+  },
+  {
+    "id": 33,
+    "name": "Thorn Chakram",
+    "internal_name": "ThornChakram"
+  },
+  {
+    "id": 34,
+    "name": "Flamelash",
+    "internal_name": "Flamelash"
+  },
+  {
+    "id": 35,
+    "name": "Sunfury",
+    "internal_name": "Sunfury"
+  },
+  {
+    "id": 36,
+    "name": "Meteor Shot",
+    "internal_name": "MeteorShot"
+  },
+  {
+    "id": 37,
+    "name": "Sticky Bomb",
+    "internal_name": "StickyBomb"
+  },
+  {
+    "id": 38,
+    "name": "Harpy Feather",
+    "internal_name": "HarpyFeather"
+  },
+  {
+    "id": 39,
+    "name": "Mud Ball",
+    "internal_name": "MudBall"
+  },
+  {
+    "id": 40,
+    "name": "Ash Ball",
+    "internal_name": "AshBallFalling"
+  },
+  {
+    "id": 41,
+    "name": "Hellfire Arrow",
+    "internal_name": "HellfireArrow"
+  },
+  {
+    "id": 42,
+    "name": "Sand Ball",
+    "internal_name": "SandBallGun"
+  },
+  {
+    "id": 43,
+    "name": "Tombstone",
+    "internal_name": "Tombstone"
+  },
+  {
+    "id": 44,
+    "name": "Demon Sickle",
+    "internal_name": "DemonSickle"
+  },
+  {
+    "id": 45,
+    "name": "Demon Scythe",
+    "internal_name": "DemonScythe"
+  },
+  {
+    "id": 46,
+    "name": "Dark Lance",
+    "internal_name": "DarkLance"
+  },
+  {
+    "id": 47,
+    "name": "Trident",
+    "internal_name": "Trident"
+  },
+  {
+    "id": 48,
+    "name": "Throwing Knife",
+    "internal_name": "ThrowingKnife"
+  },
+  {
+    "id": 49,
+    "name": "Spear",
+    "internal_name": "Spear"
+  },
+  {
+    "id": 50,
+    "name": "Glowstick",
+    "internal_name": "Glowstick"
+  },
+  {
+    "id": 51,
+    "name": "Seed",
+    "internal_name": "Seed"
+  },
+  {
+    "id": 52,
+    "name": "Wooden Boomerang",
+    "internal_name": "WoodenBoomerang"
+  },
+  {
+    "id": 53,
+    "name": "Sticky Glowstick",
+    "internal_name": "StickyGlowstick"
+  },
+  {
+    "id": 54,
+    "name": "Poisoned Knife",
+    "internal_name": "PoisonedKnife"
+  },
+  {
+    "id": 55,
+    "name": "Stinger",
+    "internal_name": "Stinger"
+  },
+  {
+    "id": 56,
+    "name": "Ebonsand Ball",
+    "internal_name": "EbonsandBallFalling"
+  },
+  {
+    "id": 57,
+    "name": "Cobalt Chainsaw",
+    "internal_name": "CobaltChainsaw"
+  },
+  {
+    "id": 58,
+    "name": "Mythril Chainsaw",
+    "internal_name": "MythrilChainsaw"
+  },
+  {
+    "id": 59,
+    "name": "Cobalt Drill",
+    "internal_name": "CobaltDrill"
+  },
+  {
+    "id": 60,
+    "name": "Mythril Drill",
+    "internal_name": "MythrilDrill"
+  },
+  {
+    "id": 61,
+    "name": "Adamantite Chainsaw",
+    "internal_name": "AdamantiteChainsaw"
+  },
+  {
+    "id": 62,
+    "name": "Adamantite Drill",
+    "internal_name": "AdamantiteDrill"
+  },
+  {
+    "id": 63,
+    "name": "The Dao of Pow",
+    "internal_name": "TheDaoofPow"
+  },
+  {
+    "id": 64,
+    "name": "Mythril Halberd",
+    "internal_name": "MythrilHalberd"
+  },
+  {
+    "id": 65,
+    "name": "Ebonsand Ball",
+    "internal_name": "EbonsandBallGun"
+  },
+  {
+    "id": 66,
+    "name": "Adamantite Glaive",
+    "internal_name": "AdamantiteGlaive"
+  },
+  {
+    "id": 67,
+    "name": "Pearlsand Ball",
+    "internal_name": "PearlSandBallFalling"
+  },
+  {
+    "id": 68,
+    "name": "Pearlsand Ball",
+    "internal_name": "PearlSandBallGun"
+  },
+  {
+    "id": 69,
+    "name": "Holy Water",
+    "internal_name": "HolyWater"
+  },
+  {
+    "id": 70,
+    "name": "Unholy Water",
+    "internal_name": "UnholyWater"
+  },
+  {
+    "id": 71,
+    "name": "Silt Ball",
+    "internal_name": "SiltBall"
+  },
+  {
+    "id": 72,
+    "name": "Blue Fairy",
+    "internal_name": "BlueFairy"
+  },
+  {
+    "id": 73,
+    "name": "Dual Hook (blue)",
+    "internal_name": "DualHookBlue"
+  },
+  {
+    "id": 74,
+    "name": "Dual Hook (red)",
+    "internal_name": "DualHookRed"
+  },
+  {
+    "id": 75,
+    "name": "Happy Bomb",
+    "internal_name": "HappyBomb"
+  },
+  {
+    "id": 76,
+    "name": "Quarter Note",
+    "internal_name": "QuarterNote"
+  },
+  {
+    "id": 77,
+    "name": "Eighth Note",
+    "internal_name": "EighthNote"
+  },
+  {
+    "id": 78,
+    "name": "Tied Eighth Note",
+    "internal_name": "TiedEighthNote"
+  },
+  {
+    "id": 79,
+    "name": "Rainbow",
+    "internal_name": "RainbowRodBullet"
+  },
+  {
+    "id": 80,
+    "name": "Ice Block",
+    "internal_name": "IceBlock"
+  },
+  {
+    "id": 81,
+    "name": "Wooden Arrow (hostile)",
+    "internal_name": "WoodenArrowHostile"
+  },
+  {
+    "id": 82,
+    "name": "Flaming Arrow",
+    "internal_name": "FlamingArrow"
+  },
+  {
+    "id": 83,
+    "name": "Eye Laser",
+    "internal_name": "EyeLaser"
+  },
+  {
+    "id": 84,
+    "name": "Pink Laser",
+    "internal_name": "PinkLaser"
+  },
+  {
+    "id": 85,
+    "name": "Flames",
+    "internal_name": "Flames"
+  },
+  {
+    "id": 86,
+    "name": "Pink Fairy",
+    "internal_name": "PinkFairy"
+  },
+  {
+    "id": 87,
+    "name": "Green Fairy",
+    "internal_name": "GreenFairy"
+  },
+  {
+    "id": 88,
+    "name": "Purple Laser",
+    "internal_name": "PurpleLaser"
+  },
+  {
+    "id": 89,
+    "name": "Crystal Bullet",
+    "internal_name": "CrystalBullet"
+  },
+  {
+    "id": 90,
+    "name": "Crystal Shard",
+    "internal_name": "CrystalShard"
+  },
+  {
+    "id": 91,
+    "name": "Holy Arrow",
+    "internal_name": "HolyArrow"
+  },
+  {
+    "id": 92,
+    "name": "Hallow Star",
+    "internal_name": "HallowStar"
+  },
+  {
+    "id": 93,
+    "name": "Magic Dagger",
+    "internal_name": "MagicDagger"
+  },
+  {
+    "id": 94,
+    "name": "Crystal Storm",
+    "internal_name": "CrystalStorm"
+  },
+  {
+    "id": 95,
+    "name": "Cursed Flame (friendly)",
+    "internal_name": "CursedFlameFriendly"
+  },
+  {
+    "id": 96,
+    "name": "Cursed Flame (hostile)",
+    "internal_name": "CursedFlameHostile"
+  },
+  {
+    "id": 97,
+    "name": "Cobalt Naginata",
+    "internal_name": "CobaltNaginata"
+  },
+  {
+    "id": 98,
+    "name": "Poison Dart",
+    "internal_name": "PoisonDart"
+  },
+  {
+    "id": 99,
+    "name": "Boulder",
+    "internal_name": "Boulder"
+  },
+  {
+    "id": 100,
+    "name": "Death Laser",
+    "internal_name": "DeathLaser"
+  },
+  {
+    "id": 101,
+    "name": "Eye Fire",
+    "internal_name": "EyeFire"
+  },
+  {
+    "id": 102,
+    "name": "Skeletron Prime Bomb",
+    "internal_name": "BombSkeletronPrime"
+  },
+  {
+    "id": 103,
+    "name": "Cursed Arrow",
+    "internal_name": "CursedArrow"
+  },
+  {
+    "id": 104,
+    "name": "Cursed Bullet",
+    "internal_name": "CursedBullet"
+  },
+  {
+    "id": 105,
+    "name": "Gungnir",
+    "internal_name": "Gungnir"
+  },
+  {
+    "id": 106,
+    "name": "Light Disc",
+    "internal_name": "LightDisc"
+  },
+  {
+    "id": 107,
+    "name": "Drax",
+    "internal_name": "Hamdrax"
+  },
+  {
+    "id": 108,
+    "name": "Explosives",
+    "internal_name": "Explosives"
+  },
+  {
+    "id": 109,
+    "name": "Snow Ball (hostile)",
+    "internal_name": "SnowBallHostile"
+  },
+  {
+    "id": 110,
+    "name": "Snowman Bullet",
+    "internal_name": "BulletSnowman"
+  },
+  {
+    "id": 111,
+    "name": "Bunny",
+    "internal_name": "Bunny"
+  },
+  {
+    "id": 112,
+    "name": "Penguin",
+    "internal_name": "Penguin"
+  },
+  {
+    "id": 113,
+    "name": "Ice Boomerang",
+    "internal_name": "IceBoomerang"
+  },
+  {
+    "id": 114,
+    "name": "Unholy Trident (friendly)",
+    "internal_name": "UnholyTridentFriendly"
+  },
+  {
+    "id": 115,
+    "name": "Unholy Trident (hostile)",
+    "internal_name": "UnholyTridentHostile"
+  },
+  {
+    "id": 116,
+    "name": "Sword Beam",
+    "internal_name": "SwordBeam"
+  },
+  {
+    "id": 117,
+    "name": "Bone Arrow",
+    "internal_name": "BoneArrow"
+  },
+  {
+    "id": 118,
+    "name": "Ice Bolt",
+    "internal_name": "IceBolt"
+  },
+  {
+    "id": 119,
+    "name": "Frost Bolt",
+    "internal_name": "FrostBoltSword"
+  },
+  {
+    "id": 120,
+    "name": "Frost Arrow",
+    "internal_name": "FrostArrow"
+  },
+  {
+    "id": 121,
+    "name": "Amethyst Bolt",
+    "internal_name": "AmethystBolt"
+  },
+  {
+    "id": 122,
+    "name": "Topaz Bolt",
+    "internal_name": "TopazBolt"
+  },
+  {
+    "id": 123,
+    "name": "Sapphire Bolt",
+    "internal_name": "SapphireBolt"
+  },
+  {
+    "id": 124,
+    "name": "Emerald Bolt",
+    "internal_name": "EmeraldBolt"
+  },
+  {
+    "id": 125,
+    "name": "Ruby Bolt",
+    "internal_name": "RubyBolt"
+  },
+  {
+    "id": 126,
+    "name": "Diamond Bolt",
+    "internal_name": "DiamondBolt"
+  },
+  {
+    "id": 127,
+    "name": "Turtle",
+    "internal_name": "Turtle"
+  },
+  {
+    "id": 128,
+    "name": "Frost Blast (hostile)",
+    "internal_name": "FrostBlastHostile"
+  },
+  {
+    "id": 129,
+    "name": "Rune Blast",
+    "internal_name": "RuneBlast"
+  },
+  {
+    "id": 130,
+    "name": "Mushroom Spear",
+    "internal_name": "MushroomSpear"
+  },
+  {
+    "id": 131,
+    "name": "Mushroom",
+    "internal_name": "Mushroom"
+  },
+  {
+    "id": 132,
+    "name": "Terra Beam",
+    "internal_name": "TerraBeam"
+  },
+  {
+    "id": 133,
+    "name": "Grenade I",
+    "internal_name": "GrenadeI"
+  },
+  {
+    "id": 134,
+    "name": "Rocket I",
+    "internal_name": "RocketI"
+  },
+  {
+    "id": 135,
+    "name": "Proximity Mine I",
+    "internal_name": "ProximityMineI"
+  },
+  {
+    "id": 136,
+    "name": "Grenade II",
+    "internal_name": "GrenadeII"
+  },
+  {
+    "id": 137,
+    "name": "Rocket II",
+    "internal_name": "RocketII"
+  },
+  {
+    "id": 138,
+    "name": "Proximity Mine II",
+    "internal_name": "ProximityMineII"
+  },
+  {
+    "id": 139,
+    "name": "Grenade III",
+    "internal_name": "GrenadeIII"
+  },
+  {
+    "id": 140,
+    "name": "Rocket III",
+    "internal_name": "RocketIII"
+  },
+  {
+    "id": 141,
+    "name": "Proximity Mine III",
+    "internal_name": "ProximityMineIII"
+  },
+  {
+    "id": 142,
+    "name": "Grenade IV",
+    "internal_name": "GrenadeIV"
+  },
+  {
+    "id": 143,
+    "name": "Rocket IV",
+    "internal_name": "RocketIV"
+  },
+  {
+    "id": 144,
+    "name": "Proximity Mine IV",
+    "internal_name": "ProximityMineIV"
+  },
+  {
+    "id": 145,
+    "name": "Pure Spray",
+    "internal_name": "PureSpray"
+  },
+  {
+    "id": 146,
+    "name": "Hallow Spray",
+    "internal_name": "HallowSpray"
+  },
+  {
+    "id": 147,
+    "name": "Corrupt Spray",
+    "internal_name": "CorruptSpray"
+  },
+  {
+    "id": 148,
+    "name": "Mushroom Spray",
+    "internal_name": "MushroomSpray"
+  },
+  {
+    "id": 149,
+    "name": "Crimson Spray",
+    "internal_name": "CrimsonSpray"
+  },
+  {
+    "id": 150,
+    "name": "Nettle Burst Right",
+    "internal_name": "NettleBurstRight"
+  },
+  {
+    "id": 151,
+    "name": "Nettle Burst Left",
+    "internal_name": "NettleBurstLeft"
+  },
+  {
+    "id": 152,
+    "name": "Nettle Burst End",
+    "internal_name": "NettleBurstEnd"
+  },
+  {
+    "id": 153,
+    "name": "The Rotted Fork",
+    "internal_name": "TheRottedFork"
+  },
+  {
+    "id": 154,
+    "name": "The Meatball",
+    "internal_name": "TheMeatball"
+  },
+  {
+    "id": 155,
+    "name": "Beach Ball",
+    "internal_name": "BeachBall"
+  },
+  {
+    "id": 156,
+    "name": "Light Beam",
+    "internal_name": "LightBeam"
+  },
+  {
+    "id": 157,
+    "name": "Night Beam",
+    "internal_name": "NightBeam"
+  },
+  {
+    "id": 158,
+    "name": "Copper Coin",
+    "internal_name": "CopperCoin"
+  },
+  {
+    "id": 159,
+    "name": "Silver Coin",
+    "internal_name": "SilverCoin"
+  },
+  {
+    "id": 160,
+    "name": "Gold Coin",
+    "internal_name": "GoldCoin"
+  },
+  {
+    "id": 161,
+    "name": "Platinum Coin",
+    "internal_name": "PlatinumCoin"
+  },
+  {
+    "id": 162,
+    "name": "Cannonball (friendly)",
+    "internal_name": "CannonballFriendly"
+  },
+  {
+    "id": 163,
+    "name": "Flare",
+    "internal_name": "Flare"
+  },
+  {
+    "id": 164,
+    "name": "Landmine",
+    "internal_name": "Landmine"
+  },
+  {
+    "id": 165,
+    "name": "Web",
+    "internal_name": "WebSlingerHook"
+  },
+  {
+    "id": 166,
+    "name": "Snow Ball (friendly)",
+    "internal_name": "SnowBallFriendly"
+  },
+  {
+    "id": 167,
+    "name": "Red Firework Rocket",
+    "internal_name": "RocketFireworkRed"
+  },
+  {
+    "id": 168,
+    "name": "Green Firework Rocket",
+    "internal_name": "RocketFireworkGreen"
+  },
+  {
+    "id": 169,
+    "name": "Blue Firework Rocket",
+    "internal_name": "RocketFireworkBlue"
+  },
+  {
+    "id": 170,
+    "name": "Yellow Firework Rocket",
+    "internal_name": "RocketFireworkYellow"
+  },
+  {
+    "id": 171,
+    "name": "Rope Coil",
+    "internal_name": "RopeCoil"
+  },
+  {
+    "id": 172,
+    "name": "Frostburn Arrow",
+    "internal_name": "FrostburnArrow"
+  },
+  {
+    "id": 173,
+    "name": "Enchanted Beam",
+    "internal_name": "EnchantedBeam"
+  },
+  {
+    "id": 174,
+    "name": "Ice Spike",
+    "internal_name": "IceSpike"
+  },
+  {
+    "id": 175,
+    "name": "Baby Eater",
+    "internal_name": "BabyEater"
+  },
+  {
+    "id": 176,
+    "name": "Jungle Spike",
+    "internal_name": "JungleSpike"
+  },
+  {
+    "id": 177,
+    "name": "Icewater Spit",
+    "internal_name": "IcewaterSpit"
+  },
+  {
+    "id": 178,
+    "name": "Confetti",
+    "internal_name": "ConfettiGun"
+  },
+  {
+    "id": 179,
+    "name": "Slush Ball",
+    "internal_name": "SlushBall"
+  },
+  {
+    "id": 180,
+    "name": "Deadeye Bullet",
+    "internal_name": "BulletDeadeye"
+  },
+  {
+    "id": 181,
+    "name": "Bee",
+    "internal_name": "Bee"
+  },
+  {
+    "id": 182,
+    "name": "Possessed Hatchet",
+    "internal_name": "PossessedHatchet"
+  },
+  {
+    "id": 183,
+    "name": "Beenade",
+    "internal_name": "Beenade"
+  },
+  {
+    "id": 184,
+    "name": "Poison Dart",
+    "internal_name": "PoisonDartTrap"
+  },
+  {
+    "id": 185,
+    "name": "Spiky Ball",
+    "internal_name": "SpikyBallTrap"
+  },
+  {
+    "id": 186,
+    "name": "Spear",
+    "internal_name": "SpearTrap"
+  },
+  {
+    "id": 187,
+    "name": "Flamethrower",
+    "internal_name": "FlamethrowerTrap"
+  },
+  {
+    "id": 188,
+    "name": "Flames",
+    "internal_name": "FlamesTrap"
+  },
+  {
+    "id": 189,
+    "name": "Wasp",
+    "internal_name": "Wasp"
+  },
+  {
+    "id": 190,
+    "name": "Mechanical Piranha",
+    "internal_name": "MechanicalPiranha"
+  },
+  {
+    "id": 191,
+    "name": "Pygmy 1",
+    "internal_name": "Pygmy"
+  },
+  {
+    "id": 192,
+    "name": "Pygmy 2",
+    "internal_name": "Pygmy2"
+  },
+  {
+    "id": 193,
+    "name": "Pygmy 3",
+    "internal_name": "Pygmy3"
+  },
+  {
+    "id": 194,
+    "name": "Pygmy 4",
+    "internal_name": "Pygmy4"
+  },
+  {
+    "id": 195,
+    "name": "Pygmy Spear",
+    "internal_name": "PygmySpear"
+  },
+  {
+    "id": 196,
+    "name": "Smoke Bomb",
+    "internal_name": "SmokeBomb"
+  },
+  {
+    "id": 197,
+    "name": "Baby Skeletron Head",
+    "internal_name": "BabySkeletronHead"
+  },
+  {
+    "id": 198,
+    "name": "Baby Hornet",
+    "internal_name": "BabyHornet"
+  },
+  {
+    "id": 199,
+    "name": "Tiki Spirit",
+    "internal_name": "TikiSpirit"
+  },
+  {
+    "id": 200,
+    "name": "Pet Lizard",
+    "internal_name": "PetLizard"
+  },
+  {
+    "id": 201,
+    "name": "Grave Marker",
+    "internal_name": "GraveMarker"
+  },
+  {
+    "id": 202,
+    "name": "Cross Grave Marker",
+    "internal_name": "CrossGraveMarker"
+  },
+  {
+    "id": 203,
+    "name": "Headstone",
+    "internal_name": "Headstone"
+  },
+  {
+    "id": 204,
+    "name": "Gravestone",
+    "internal_name": "Gravestone"
+  },
+  {
+    "id": 205,
+    "name": "Obelisk",
+    "internal_name": "Obelisk"
+  },
+  {
+    "id": 206,
+    "name": "Leaf",
+    "internal_name": "Leaf"
+  },
+  {
+    "id": 207,
+    "name": "Chlorophyte Bullet",
+    "internal_name": "ChlorophyteBullet"
+  },
+  {
+    "id": 208,
+    "name": "Parrot",
+    "internal_name": "Parrot"
+  },
+  {
+    "id": 209,
+    "name": "Truffle",
+    "internal_name": "Truffle"
+  },
+  {
+    "id": 210,
+    "name": "Sapling",
+    "internal_name": "Sapling"
+  },
+  {
+    "id": 211,
+    "name": "Wisp",
+    "internal_name": "Wisp"
+  },
+  {
+    "id": 212,
+    "name": "Palladium Pike",
+    "internal_name": "PalladiumPike"
+  },
+  {
+    "id": 213,
+    "name": "Palladium Drill",
+    "internal_name": "PalladiumDrill"
+  },
+  {
+    "id": 214,
+    "name": "Palladium Chainsaw",
+    "internal_name": "PalladiumChainsaw"
+  },
+  {
+    "id": 215,
+    "name": "Orichalcum Halberd",
+    "internal_name": "OrichalcumHalberd"
+  },
+  {
+    "id": 216,
+    "name": "Orichalcum Drill",
+    "internal_name": "OrichalcumDrill"
+  },
+  {
+    "id": 217,
+    "name": "Orichalcum Chainsaw",
+    "internal_name": "OrichalcumChainsaw"
+  },
+  {
+    "id": 218,
+    "name": "Titanium Trident",
+    "internal_name": "TitaniumTrident"
+  },
+  {
+    "id": 219,
+    "name": "Titanium Drill",
+    "internal_name": "TitaniumDrill"
+  },
+  {
+    "id": 220,
+    "name": "Titanium Chainsaw",
+    "internal_name": "TitaniumChainsaw"
+  },
+  {
+    "id": 221,
+    "name": "Flower Petal",
+    "internal_name": "FlowerPetal"
+  },
+  {
+    "id": 222,
+    "name": "Chlorophyte Partisan",
+    "internal_name": "ChlorophytePartisan"
+  },
+  {
+    "id": 223,
+    "name": "Chlorophyte Drill",
+    "internal_name": "ChlorophyteDrill"
+  },
+  {
+    "id": 224,
+    "name": "Chlorophyte Chainsaw",
+    "internal_name": "ChlorophyteChainsaw"
+  },
+  {
+    "id": 225,
+    "name": "Chlorophyte Arrow",
+    "internal_name": "ChlorophyteArrow"
+  },
+  {
+    "id": 226,
+    "name": "Crystal Leaf",
+    "internal_name": "CrystalLeaf"
+  },
+  {
+    "id": 227,
+    "name": "Crystal Leaf Shot",
+    "internal_name": "CrystalLeafShot"
+  },
+  {
+    "id": 228,
+    "name": "Spore Cloud",
+    "internal_name": "SporeCloud"
+  },
+  {
+    "id": 229,
+    "name": "Chlorophyte Orb",
+    "internal_name": "ChlorophyteOrb"
+  },
+  {
+    "id": 230,
+    "name": "Amethyst Hook",
+    "internal_name": "GemHookAmethyst"
+  },
+  {
+    "id": 231,
+    "name": "Topaz Hook",
+    "internal_name": "GemHookTopaz"
+  },
+  {
+    "id": 232,
+    "name": "Sapphire Hook",
+    "internal_name": "GemHookSapphire"
+  },
+  {
+    "id": 233,
+    "name": "Emerald Hook",
+    "internal_name": "GemHookEmerald"
+  },
+  {
+    "id": 234,
+    "name": "Ruby Hook",
+    "internal_name": "GemHookRuby"
+  },
+  {
+    "id": 235,
+    "name": "Diamond Hook",
+    "internal_name": "GemHookDiamond"
+  },
+  {
+    "id": 236,
+    "name": "Baby Dino",
+    "internal_name": "BabyDino"
+  },
+  {
+    "id": 237,
+    "name": "Rain Cloud Moving",
+    "internal_name": "RainCloudMoving"
+  },
+  {
+    "id": 238,
+    "name": "Rain Cloud Raining",
+    "internal_name": "RainCloudRaining"
+  },
+  {
+    "id": 239,
+    "name": "Rain (friendly)",
+    "internal_name": "RainFriendly"
+  },
+  {
+    "id": 240,
+    "name": "Cannonball (hostile)",
+    "internal_name": "CannonballHostile"
+  },
+  {
+    "id": 241,
+    "name": "Crimsand Ball",
+    "internal_name": "CrimsandBallFalling"
+  },
+  {
+    "id": 242,
+    "name": "High Velocity Bullet",
+    "internal_name": "BulletHighVelocity"
+  },
+  {
+    "id": 243,
+    "name": "Blood Cloud Moving",
+    "internal_name": "BloodCloudMoving"
+  },
+  {
+    "id": 244,
+    "name": "Blood Cloud Raining",
+    "internal_name": "BloodCloudRaining"
+  },
+  {
+    "id": 245,
+    "name": "Blood Rain",
+    "internal_name": "BloodRain"
+  },
+  {
+    "id": 246,
+    "name": "Stynger",
+    "internal_name": "Stynger"
+  },
+  {
+    "id": 247,
+    "name": "Flower Pow",
+    "internal_name": "FlowerPow"
+  },
+  {
+    "id": 248,
+    "name": "Flower Pow Petal",
+    "internal_name": "FlowerPowPetal"
+  },
+  {
+    "id": 249,
+    "name": "Stynger Shrapnel",
+    "internal_name": "StyngerShrapnel"
+  },
+  {
+    "id": 250,
+    "name": "Rainbow Front",
+    "internal_name": "RainbowFront"
+  },
+  {
+    "id": 251,
+    "name": "Rainbow Back",
+    "internal_name": "RainbowBack"
+  },
+  {
+    "id": 252,
+    "name": "Chlorophyte Jackhammer",
+    "internal_name": "ChlorophyteJackhammer"
+  },
+  {
+    "id": 253,
+    "name": "Ball of Frost",
+    "internal_name": "BallofFrost"
+  },
+  {
+    "id": 254,
+    "name": "Magnet Sphere Ball",
+    "internal_name": "MagnetSphereBall"
+  },
+  {
+    "id": 255,
+    "name": "Magnet Sphere Bolt",
+    "internal_name": "MagnetSphereBolt"
+  },
+  {
+    "id": 256,
+    "name": "Skeletron Hand",
+    "internal_name": "SkeletronHand"
+  },
+  {
+    "id": 257,
+    "name": "Frost Beam",
+    "internal_name": "FrostBeam"
+  },
+  {
+    "id": 258,
+    "name": "Fireball",
+    "internal_name": "Fireball"
+  },
+  {
+    "id": 259,
+    "name": "Eye Beam",
+    "internal_name": "EyeBeam"
+  },
+  {
+    "id": 260,
+    "name": "Heat Ray",
+    "internal_name": "HeatRay"
+  },
+  {
+    "id": 261,
+    "name": "Boulder",
+    "internal_name": "BoulderStaffOfEarth"
+  },
+  {
+    "id": 262,
+    "name": "Golem Fist",
+    "internal_name": "GolemFist"
+  },
+  {
+    "id": 263,
+    "name": "Ice Sickle",
+    "internal_name": "IceSickle"
+  },
+  {
+    "id": 264,
+    "name": "Rain (hostile)",
+    "internal_name": "RainNimbus"
+  },
+  {
+    "id": 265,
+    "name": "Poison Fang",
+    "internal_name": "PoisonFang"
+  },
+  {
+    "id": 266,
+    "name": "Baby Slime",
+    "internal_name": "BabySlime"
+  },
+  {
+    "id": 267,
+    "name": "Poison Dart",
+    "internal_name": "PoisonDartBlowgun"
+  },
+  {
+    "id": 268,
+    "name": "Eye Spring",
+    "internal_name": "EyeSpring"
+  },
+  {
+    "id": 269,
+    "name": "Baby Snowman",
+    "internal_name": "BabySnowman"
+  },
+  {
+    "id": 270,
+    "name": "Skull",
+    "internal_name": "Skull"
+  },
+  {
+    "id": 271,
+    "name": "Boxing Glove",
+    "internal_name": "BoxingGlove"
+  },
+  {
+    "id": 272,
+    "name": "Bananarang",
+    "internal_name": "Bananarang"
+  },
+  {
+    "id": 273,
+    "name": "Chain Knife",
+    "internal_name": "ChainKnife"
+  },
+  {
+    "id": 274,
+    "name": "Death Sickle",
+    "internal_name": "DeathSickle"
+  },
+  {
+    "id": 275,
+    "name": "Seed",
+    "internal_name": "SeedPlantera"
+  },
+  {
+    "id": 276,
+    "name": "Poison Seed",
+    "internal_name": "PoisonSeedPlantera"
+  },
+  {
+    "id": 277,
+    "name": "Thorn Ball",
+    "internal_name": "ThornBall"
+  },
+  {
+    "id": 278,
+    "name": "Ichor Arrow",
+    "internal_name": "IchorArrow"
+  },
+  {
+    "id": 279,
+    "name": "Ichor Bullet",
+    "internal_name": "IchorBullet"
+  },
+  {
+    "id": 280,
+    "name": "Golden Shower (friendly)",
+    "internal_name": "GoldenShowerFriendly"
+  },
+  {
+    "id": 281,
+    "name": "Explosive Bunny",
+    "internal_name": "ExplosiveBunny"
+  },
+  {
+    "id": 282,
+    "name": "Venom Arrow",
+    "internal_name": "VenomArrow"
+  },
+  {
+    "id": 283,
+    "name": "Venom Bullet",
+    "internal_name": "VenomBullet"
+  },
+  {
+    "id": 284,
+    "name": "Party Bullet",
+    "internal_name": "PartyBullet"
+  },
+  {
+    "id": 285,
+    "name": "Nano Bullet",
+    "internal_name": "NanoBullet"
+  },
+  {
+    "id": 286,
+    "name": "Explosive Bullet",
+    "internal_name": "ExplosiveBullet"
+  },
+  {
+    "id": 287,
+    "name": "Golden Bullet",
+    "internal_name": "GoldenBullet"
+  },
+  {
+    "id": 288,
+    "name": "Golden Shower (hostile)",
+    "internal_name": "GoldenShowerHostile"
+  },
+  {
+    "id": 289,
+    "name": "Confetti",
+    "internal_name": "ConfettiMelee"
+  },
+  {
+    "id": 290,
+    "name": "Shadow Beam (hostile)",
+    "internal_name": "ShadowBeamHostile"
+  },
+  {
+    "id": 291,
+    "name": "Inferno Bolt (hostile)",
+    "internal_name": "InfernoHostileBolt"
+  },
+  {
+    "id": 292,
+    "name": "Inferno Blast (hostile)",
+    "internal_name": "InfernoHostileBlast"
+  },
+  {
+    "id": 293,
+    "name": "Lost Soul (hostile)",
+    "internal_name": "LostSoulHostile"
+  },
+  {
+    "id": 294,
+    "name": "Shadow Beam (friendly)",
+    "internal_name": "ShadowBeamFriendly"
+  },
+  {
+    "id": 295,
+    "name": "Inferno Bolt (friendly)",
+    "internal_name": "InfernoFriendlyBolt"
+  },
+  {
+    "id": 296,
+    "name": "Inferno Blast (friendly)",
+    "internal_name": "InfernoFriendlyBlast"
+  },
+  {
+    "id": 297,
+    "name": "Lost Soul (friendly)",
+    "internal_name": "LostSoulFriendly"
+  },
+  {
+    "id": 298,
+    "name": "Spirit Heal",
+    "internal_name": "SpiritHeal"
+  },
+  {
+    "id": 299,
+    "name": "Shadowflames",
+    "internal_name": "Shadowflames"
+  },
+  {
+    "id": 300,
+    "name": "Paladin's Hammer (hostile)",
+    "internal_name": "PaladinsHammerHostile"
+  },
+  {
+    "id": 301,
+    "name": "Paladin's Hammer (friendly)",
+    "internal_name": "PaladinsHammerFriendly"
+  },
+  {
+    "id": 302,
+    "name": "Sniper Bullet",
+    "internal_name": "SniperBullet"
+  },
+  {
+    "id": 303,
+    "name": "Rocket",
+    "internal_name": "RocketSkeleton"
+  },
+  {
+    "id": 304,
+    "name": "Vampire Knife",
+    "internal_name": "VampireKnife"
+  },
+  {
+    "id": 305,
+    "name": "Vampire Heal",
+    "internal_name": "VampireHeal"
+  },
+  {
+    "id": 306,
+    "name": "Eater's Bite",
+    "internal_name": "EatersBite"
+  },
+  {
+    "id": 307,
+    "name": "Tiny Eater",
+    "internal_name": "TinyEater"
+  },
+  {
+    "id": 308,
+    "name": "Frost Hydra",
+    "internal_name": "FrostHydra"
+  },
+  {
+    "id": 309,
+    "name": "Frost Blast (friendly)",
+    "internal_name": "FrostBlastFriendly"
+  },
+  {
+    "id": 310,
+    "name": "Blue Flare",
+    "internal_name": "BlueFlare"
+  },
+  {
+    "id": 311,
+    "name": "Candy Corn",
+    "internal_name": "CandyCorn"
+  },
+  {
+    "id": 312,
+    "name": "Jack 'O Lantern",
+    "internal_name": "JackOLantern"
+  },
+  {
+    "id": 313,
+    "name": "Spider",
+    "internal_name": "Spider"
+  },
+  {
+    "id": 314,
+    "name": "Squashling",
+    "internal_name": "Squashling"
+  },
+  {
+    "id": 315,
+    "name": "Bat Hook",
+    "internal_name": "BatHook"
+  },
+  {
+    "id": 316,
+    "name": "Bat",
+    "internal_name": "Bat"
+  },
+  {
+    "id": 317,
+    "name": "Raven",
+    "internal_name": "Raven"
+  },
+  {
+    "id": 318,
+    "name": "Rotten Egg",
+    "internal_name": "RottenEgg"
+  },
+  {
+    "id": 319,
+    "name": "Black Cat",
+    "internal_name": "BlackCat"
+  },
+  {
+    "id": 320,
+    "name": "Bloody Machete",
+    "internal_name": "BloodyMachete"
+  },
+  {
+    "id": 321,
+    "name": "Flaming Jack",
+    "internal_name": "FlamingJack"
+  },
+  {
+    "id": 322,
+    "name": "Spooky Hook",
+    "internal_name": "WoodHook"
+  },
+  {
+    "id": 323,
+    "name": "Stake",
+    "internal_name": "Stake"
+  },
+  {
+    "id": 324,
+    "name": "Cursed Sapling",
+    "internal_name": "CursedSapling"
+  },
+  {
+    "id": 325,
+    "name": "Flaming Wood",
+    "internal_name": "FlamingWood"
+  },
+  {
+    "id": 326,
+    "name": "Greek Fire 1",
+    "internal_name": "GreekFire1"
+  },
+  {
+    "id": 327,
+    "name": "Greek Fire 2",
+    "internal_name": "GreekFire2"
+  },
+  {
+    "id": 328,
+    "name": "Greek Fire 3",
+    "internal_name": "GreekFire3"
+  },
+  {
+    "id": 329,
+    "name": "Flaming Scythe",
+    "internal_name": "FlamingScythe"
+  },
+  {
+    "id": 330,
+    "name": "Star Anise",
+    "internal_name": "StarAnise"
+  },
+  {
+    "id": 331,
+    "name": "Candy Cane Hook",
+    "internal_name": "CandyCaneHook"
+  },
+  {
+    "id": 332,
+    "name": "Christmas Hook",
+    "internal_name": "ChristmasHook"
+  },
+  {
+    "id": 333,
+    "name": "Fruitcake Chakram",
+    "internal_name": "FruitcakeChakram"
+  },
+  {
+    "id": 334,
+    "name": "Puppy",
+    "internal_name": "Puppy"
+  },
+  {
+    "id": 335,
+    "name": "Ornament (friendly)",
+    "internal_name": "OrnamentFriendly"
+  },
+  {
+    "id": 336,
+    "name": "Pine Needle (friendly)",
+    "internal_name": "PineNeedleFriendly"
+  },
+  {
+    "id": 337,
+    "name": "Blizzard",
+    "internal_name": "Blizzard"
+  },
+  {
+    "id": 338,
+    "name": "Snowman Rocket I",
+    "internal_name": "RocketSnowmanI"
+  },
+  {
+    "id": 339,
+    "name": "Snowman Rocket II",
+    "internal_name": "RocketSnowmanII"
+  },
+  {
+    "id": 340,
+    "name": "Snowman Rocket III",
+    "internal_name": "RocketSnowmanIII"
+  },
+  {
+    "id": 341,
+    "name": "Snowman Rocket IV",
+    "internal_name": "RocketSnowmanIV"
+  },
+  {
+    "id": 342,
+    "name": "North Pole",
+    "internal_name": "NorthPoleWeapon"
+  },
+  {
+    "id": 343,
+    "name": "North Pole Spear",
+    "internal_name": "NorthPoleSpear"
+  },
+  {
+    "id": 344,
+    "name": "North Pole Snowflake",
+    "internal_name": "NorthPoleSnowflake"
+  },
+  {
+    "id": 345,
+    "name": "Pine Needle (hostile)",
+    "internal_name": "PineNeedleHostile"
+  },
+  {
+    "id": 346,
+    "name": "Ornament (hostile)",
+    "internal_name": "OrnamentHostile"
+  },
+  {
+    "id": 347,
+    "name": "Ornament Shrapnel",
+    "internal_name": "OrnamentHostileShrapnel"
+  },
+  {
+    "id": 348,
+    "name": "Frost Wave",
+    "internal_name": "FrostWave"
+  },
+  {
+    "id": 349,
+    "name": "Frost Shard",
+    "internal_name": "FrostShard"
+  },
+  {
+    "id": 350,
+    "name": "Missile",
+    "internal_name": "Missile"
+  },
+  {
+    "id": 351,
+    "name": "Present",
+    "internal_name": "Present"
+  },
+  {
+    "id": 352,
+    "name": "Spike",
+    "internal_name": "Spike"
+  },
+  {
+    "id": 353,
+    "name": "Baby Grinch",
+    "internal_name": "BabyGrinch"
+  },
+  {
+    "id": 354,
+    "name": "Crimsand Ball",
+    "internal_name": "CrimsandBallGun"
+  },
+  {
+    "id": 355,
+    "name": "Venom Fang",
+    "internal_name": "VenomFang"
+  },
+  {
+    "id": 356,
+    "name": "Spectre Wrath",
+    "internal_name": "SpectreWrath"
+  },
+  {
+    "id": 357,
+    "name": "Pulse Bolt",
+    "internal_name": "PulseBolt"
+  },
+  {
+    "id": 358,
+    "name": "Water Gun",
+    "internal_name": "WaterGun"
+  },
+  {
+    "id": 359,
+    "name": "Frost Bolt",
+    "internal_name": "FrostBoltStaff"
+  },
+  {
+    "id": 360,
+    "name": "Bobber (Wood)",
+    "internal_name": "BobberWooden"
+  },
+  {
+    "id": 361,
+    "name": "Bobber (Reinforced)",
+    "internal_name": "BobberReinforced"
+  },
+  {
+    "id": 362,
+    "name": "Bobber (Fiberglass)",
+    "internal_name": "BobberFiberglass"
+  },
+  {
+    "id": 363,
+    "name": "Bobber (Fisher of Souls)",
+    "internal_name": "BobberFisherOfSouls"
+  },
+  {
+    "id": 364,
+    "name": "Bobber (Golden)",
+    "internal_name": "BobberGolden"
+  },
+  {
+    "id": 365,
+    "name": "Bobber (Mechanic's)",
+    "internal_name": "BobberMechanics"
+  },
+  {
+    "id": 366,
+    "name": "Bobber (Sitting Duck's)",
+    "internal_name": "BobbersittingDuck"
+  },
+  {
+    "id": 367,
+    "name": "Obsidian Swordfish",
+    "internal_name": "ObsidianSwordfish"
+  },
+  {
+    "id": 368,
+    "name": "Swordfish",
+    "internal_name": "Swordfish"
+  },
+  {
+    "id": 369,
+    "name": "Sawtooth Shark",
+    "internal_name": "SawtoothShark"
+  },
+  {
+    "id": 370,
+    "name": "Love Potion",
+    "internal_name": "LovePotion"
+  },
+  {
+    "id": 371,
+    "name": "Foul Potion",
+    "internal_name": "FoulPotion"
+  },
+  {
+    "id": 372,
+    "name": "Fish Hook",
+    "internal_name": "FishHook"
+  },
+  {
+    "id": 373,
+    "name": "Hornet",
+    "internal_name": "Hornet"
+  },
+  {
+    "id": 374,
+    "name": "Hornet Stinger",
+    "internal_name": "HornetStinger"
+  },
+  {
+    "id": 375,
+    "name": "Flying Imp",
+    "internal_name": "FlyingImp"
+  },
+  {
+    "id": 376,
+    "name": "Imp Fireball",
+    "internal_name": "ImpFireball"
+  },
+  {
+    "id": 377,
+    "name": "Spider Turret",
+    "internal_name": "SpiderHiver"
+  },
+  {
+    "id": 378,
+    "name": "Spider Egg",
+    "internal_name": "SpiderEgg"
+  },
+  {
+    "id": 379,
+    "name": "Baby Spider",
+    "internal_name": "BabySpider"
+  },
+  {
+    "id": 380,
+    "name": "Zephyr Fish",
+    "internal_name": "ZephyrFish"
+  },
+  {
+    "id": 381,
+    "name": "Bobber (Fleshcatcher)",
+    "internal_name": "BobberFleshcatcher"
+  },
+  {
+    "id": 382,
+    "name": "Bobber (Hotline)",
+    "internal_name": "BobberHotline"
+  },
+  {
+    "id": 383,
+    "name": "Anchor",
+    "internal_name": "Anchor"
+  },
+  {
+    "id": 384,
+    "name": "Sharknado",
+    "internal_name": "Sharknado"
+  },
+  {
+    "id": 385,
+    "name": "Sharknado Bolt",
+    "internal_name": "SharknadoBolt"
+  },
+  {
+    "id": 386,
+    "name": "Cthulunado",
+    "internal_name": "Cthulunado"
+  },
+  {
+    "id": 387,
+    "name": "Retanimini",
+    "internal_name": "Retanimini"
+  },
+  {
+    "id": 388,
+    "name": "Spazmamini",
+    "internal_name": "Spazmamini"
+  },
+  {
+    "id": 389,
+    "name": "Mini Retina Laser",
+    "internal_name": "MiniRetinaLaser"
+  },
+  {
+    "id": 390,
+    "name": "Venom Spider",
+    "internal_name": "VenomSpider"
+  },
+  {
+    "id": 391,
+    "name": "Jumper Spider",
+    "internal_name": "JumperSpider"
+  },
+  {
+    "id": 392,
+    "name": "Dangerous Spider",
+    "internal_name": "DangerousSpider"
+  },
+  {
+    "id": 393,
+    "name": "One Eyed Pirate",
+    "internal_name": "OneEyedPirate"
+  },
+  {
+    "id": 394,
+    "name": "Soulscourge Pirate",
+    "internal_name": "SoulscourgePirate"
+  },
+  {
+    "id": 395,
+    "name": "Pirate Captain",
+    "internal_name": "PirateCaptain"
+  },
+  {
+    "id": 396,
+    "name": "Slime Hook",
+    "internal_name": "SlimeHook"
+  },
+  {
+    "id": 397,
+    "name": "Sticky Grenade",
+    "internal_name": "StickyGrenade"
+  },
+  {
+    "id": 398,
+    "name": "Faun",
+    "internal_name": "MiniMinotaur"
+  },
+  {
+    "id": 399,
+    "name": "Molotov Cocktail",
+    "internal_name": "MolotovCocktail"
+  },
+  {
+    "id": 400,
+    "name": "Molotov Fire 1",
+    "internal_name": "MolotovFire"
+  },
+  {
+    "id": 401,
+    "name": "Molotov Fire 2",
+    "internal_name": "MolotovFire2"
+  },
+  {
+    "id": 402,
+    "name": "Molotov Fire 3",
+    "internal_name": "MolotovFire3"
+  },
+  {
+    "id": 403,
+    "name": "Track Hook",
+    "internal_name": "TrackHook"
+  },
+  {
+    "id": 404,
+    "name": "Flairon",
+    "internal_name": "Flairon"
+  },
+  {
+    "id": 405,
+    "name": "Flairon Bubble",
+    "internal_name": "FlaironBubble"
+  },
+  {
+    "id": 406,
+    "name": "Slime Gun",
+    "internal_name": "SlimeGun"
+  },
+  {
+    "id": 407,
+    "name": "Tempest",
+    "internal_name": "Tempest"
+  },
+  {
+    "id": 408,
+    "name": "Mini Sharkron",
+    "internal_name": "MiniSharkron"
+  },
+  {
+    "id": 409,
+    "name": "Typhoon",
+    "internal_name": "Typhoon"
+  },
+  {
+    "id": 410,
+    "name": "Bubble",
+    "internal_name": "Bubble"
+  },
+  {
+    "id": 411,
+    "name": "Copper Coins",
+    "internal_name": "CopperCoinsFalling"
+  },
+  {
+    "id": 412,
+    "name": "Silver Coins",
+    "internal_name": "SilverCoinsFalling"
+  },
+  {
+    "id": 413,
+    "name": "Gold Coins",
+    "internal_name": "GoldCoinsFalling"
+  },
+  {
+    "id": 414,
+    "name": "Platinum Coins",
+    "internal_name": "PlatinumCoinsFalling"
+  },
+  {
+    "id": 415,
+    "name": "Red Firework Rocket",
+    "internal_name": "RocketFireworksBoxRed"
+  },
+  {
+    "id": 416,
+    "name": "Green Firework Rocket",
+    "internal_name": "RocketFireworksBoxGreen"
+  },
+  {
+    "id": 417,
+    "name": "Blue Firework Rocket",
+    "internal_name": "RocketFireworksBoxBlue"
+  },
+  {
+    "id": 418,
+    "name": "Yellow Firework Rocket",
+    "internal_name": "RocketFireworksBoxYellow"
+  },
+  {
+    "id": 419,
+    "name": "Firework Fountain Yellow",
+    "internal_name": "FireworkFountainYellow"
+  },
+  {
+    "id": 420,
+    "name": "Firework Fountain Red",
+    "internal_name": "FireworkFountainRed"
+  },
+  {
+    "id": 421,
+    "name": "Firework Fountain Blue",
+    "internal_name": "FireworkFountainBlue"
+  },
+  {
+    "id": 422,
+    "name": "Firework Fountain Rainbow",
+    "internal_name": "FireworkFountainRainbow"
+  },
+  {
+    "id": 423,
+    "name": "UFO",
+    "internal_name": "UFOMinion"
+  },
+  {
+    "id": 424,
+    "name": "Meteor 1",
+    "internal_name": "Meteor1"
+  },
+  {
+    "id": 425,
+    "name": "Meteor 2",
+    "internal_name": "Meteor2"
+  },
+  {
+    "id": 426,
+    "name": "Meteor 3",
+    "internal_name": "Meteor3"
+  },
+  {
+    "id": 427,
+    "name": "Vortex Chainsaw",
+    "internal_name": "VortexChainsaw"
+  },
+  {
+    "id": 428,
+    "name": "Vortex Drill",
+    "internal_name": "VortexDrill"
+  },
+  {
+    "id": 429,
+    "name": "Nebula Chainsaw",
+    "internal_name": "NebulaChainsaw"
+  },
+  {
+    "id": 430,
+    "name": "Nebula Drill",
+    "internal_name": "NebulaDrill"
+  },
+  {
+    "id": 431,
+    "name": "Solar Flare Chainsaw",
+    "internal_name": "SolarFlareChainsaw"
+  },
+  {
+    "id": 432,
+    "name": "Solar Flare Drill",
+    "internal_name": "SolarFlareDrill"
+  },
+  {
+    "id": 433,
+    "name": "UFO Ray",
+    "internal_name": "UFOLaser"
+  },
+  {
+    "id": 434,
+    "name": "Scutlix Laser",
+    "internal_name": "ScutlixLaserFriendly"
+  },
+  {
+    "id": 435,
+    "name": "Electric Bolt",
+    "internal_name": "MartianTurretBolt"
+  },
+  {
+    "id": 436,
+    "name": "Brain Scrambling Bolt",
+    "internal_name": "BrainScramblerBolt"
+  },
+  {
+    "id": 437,
+    "name": "Gigazapper Spearhead",
+    "internal_name": "GigaZapperSpear"
+  },
+  {
+    "id": 438,
+    "name": "Laser Ray",
+    "internal_name": "RayGunnerLaser"
+  },
+  {
+    "id": 439,
+    "name": "Laser Machinegun",
+    "internal_name": "LaserMachinegun"
+  },
+  {
+    "id": 440,
+    "name": "Laser",
+    "internal_name": "LaserMachinegunLaser"
+  },
+  {
+    "id": 441,
+    "name": "Scutlix Crosshair",
+    "internal_name": "ScutlixLaserCrosshair"
+  },
+  {
+    "id": 442,
+    "name": "Electrosphere Missile",
+    "internal_name": "ElectrosphereMissile"
+  },
+  {
+    "id": 443,
+    "name": "Electrosphere",
+    "internal_name": "Electrosphere"
+  },
+  {
+    "id": 444,
+    "name": "Xenopopper",
+    "internal_name": "Xenopopper"
+  },
+  {
+    "id": 445,
+    "name": "Laser Drill",
+    "internal_name": "LaserDrill"
+  },
+  {
+    "id": 446,
+    "name": "Anti-Gravity Hook",
+    "internal_name": "AntiGravityHook"
+  },
+  {
+    "id": 447,
+    "name": "Martian Deathray",
+    "internal_name": "SaucerDeathray"
+  },
+  {
+    "id": 448,
+    "name": "Martian Rocket",
+    "internal_name": "SaucerMissile"
+  },
+  {
+    "id": 449,
+    "name": "Saucer Laser",
+    "internal_name": "SaucerLaser"
+  },
+  {
+    "id": 450,
+    "name": "Saucer Scrap",
+    "internal_name": "SaucerScrap"
+  },
+  {
+    "id": 451,
+    "name": "Influx Waver",
+    "internal_name": "InfluxWaver"
+  },
+  {
+    "id": 452,
+    "name": "Phantasmal Eye",
+    "internal_name": "PhantasmalEye"
+  },
+  {
+    "id": 453,
+    "name": "Drill Crosshair",
+    "internal_name": "DrillMountCrosshair"
+  },
+  {
+    "id": 454,
+    "name": "Phantasmal Sphere",
+    "internal_name": "PhantasmalSphere"
+  },
+  {
+    "id": 455,
+    "name": "Phantasmal Deathray",
+    "internal_name": "PhantasmalDeathray"
+  },
+  {
+    "id": 456,
+    "name": "Moon Leech",
+    "internal_name": "MoonLeech"
+  },
+  {
+    "id": 457,
+    "name": "Phasic Warp Ejector",
+    "internal_name": "PhasicWarpEjector"
+  },
+  {
+    "id": 458,
+    "name": "Phasic Warp Disc",
+    "internal_name": "PhasicWarpDisc"
+  },
+  {
+    "id": 459,
+    "name": "Charged Blaster Orb",
+    "internal_name": "ChargedBlasterOrb"
+  },
+  {
+    "id": 460,
+    "name": "Charged Blaster Cannon",
+    "internal_name": "ChargedBlasterCannon"
+  },
+  {
+    "id": 461,
+    "name": "Charged Blaster Laser",
+    "internal_name": "ChargedBlasterLaser"
+  },
+  {
+    "id": 462,
+    "name": "Phantasmal Bolt",
+    "internal_name": "PhantasmalBolt"
+  },
+  {
+    "id": 463,
+    "name": "Vicious Powder",
+    "internal_name": "ViciousPowder"
+  },
+  {
+    "id": 464,
+    "name": "Ice Mist",
+    "internal_name": "CultistBossIceMist"
+  },
+  {
+    "id": 465,
+    "name": "Lightning Orb",
+    "internal_name": "CultistBossLightningOrb"
+  },
+  {
+    "id": 466,
+    "name": "Lightning Orb Arc",
+    "internal_name": "CultistBossLightningOrbArc"
+  },
+  {
+    "id": 467,
+    "name": "Fireball",
+    "internal_name": "CultistBossFireBall"
+  },
+  {
+    "id": 468,
+    "name": "Shadow Fireball",
+    "internal_name": "CultistBossFireBallClone"
+  },
+  {
+    "id": 469,
+    "name": "Bee Arrow",
+    "internal_name": "BeeArrow"
+  },
+  {
+    "id": 470,
+    "name": "Sticky Dynamite",
+    "internal_name": "StickyDynamite"
+  },
+  {
+    "id": 471,
+    "name": "Bone",
+    "internal_name": "SkeletonBone"
+  },
+  {
+    "id": 472,
+    "name": "Web Spit",
+    "internal_name": "WebSpit"
+  },
+  {
+    "id": 473,
+    "name": "Spelunker Glowstick",
+    "internal_name": "SpelunkerGlowstick"
+  },
+  {
+    "id": 474,
+    "name": "Bone Arrow",
+    "internal_name": "BoneArrowFromMerchant"
+  },
+  {
+    "id": 475,
+    "name": "Vine Rope Coil",
+    "internal_name": "VineRopeCoil"
+  },
+  {
+    "id": 476,
+    "name": "Life Drain",
+    "internal_name": "SoulDrain"
+  },
+  {
+    "id": 477,
+    "name": "Crystal Dart",
+    "internal_name": "CrystalDart"
+  },
+  {
+    "id": 478,
+    "name": "Cursed Dart",
+    "internal_name": "CursedDart"
+  },
+  {
+    "id": 479,
+    "name": "Ichor Dart",
+    "internal_name": "IchorDart"
+  },
+  {
+    "id": 480,
+    "name": "Cursed Dart Flame",
+    "internal_name": "CursedDartFlame"
+  },
+  {
+    "id": 481,
+    "name": "Chain Guillotine",
+    "internal_name": "ChainGuillotine"
+  },
+  {
+    "id": 482,
+    "name": "Cursed Flames",
+    "internal_name": "ClingerStaff"
+  },
+  {
+    "id": 483,
+    "name": "Seedler Nut",
+    "internal_name": "SeedlerNut"
+  },
+  {
+    "id": 484,
+    "name": "Seedler Thorn",
+    "internal_name": "SeedlerThorn"
+  },
+  {
+    "id": 485,
+    "name": "Hellwing",
+    "internal_name": "Hellwing"
+  },
+  {
+    "id": 486,
+    "name": "Tendon Hook",
+    "internal_name": "TendonHook"
+  },
+  {
+    "id": 487,
+    "name": "Thorn Hook",
+    "internal_name": "ThornHook"
+  },
+  {
+    "id": 488,
+    "name": "Illuminant Hook",
+    "internal_name": "IlluminantHook"
+  },
+  {
+    "id": 489,
+    "name": "Worm Hook",
+    "internal_name": "WormHook"
+  },
+  {
+    "id": 490,
+    "name": "Lightning Ritual",
+    "internal_name": "CultistRitual"
+  },
+  {
+    "id": 491,
+    "name": "Flying Knife",
+    "internal_name": "FlyingKnife"
+  },
+  {
+    "id": 492,
+    "name": "Magic Lantern",
+    "internal_name": "MagicLantern"
+  },
+  {
+    "id": 493,
+    "name": "Crystal Vile Shard Head",
+    "internal_name": "CrystalVileShardHead"
+  },
+  {
+    "id": 494,
+    "name": "Crystal Vile Shard Shaft",
+    "internal_name": "CrystalVileShardShaft"
+  },
+  {
+    "id": 495,
+    "name": "Shadowflame Arrow",
+    "internal_name": "ShadowFlameArrow"
+  },
+  {
+    "id": 496,
+    "name": "Shadowflame",
+    "internal_name": "ShadowFlame"
+  },
+  {
+    "id": 497,
+    "name": "Shadowflame Knife",
+    "internal_name": "ShadowFlameKnife"
+  },
+  {
+    "id": 498,
+    "name": "Nail (hostile)",
+    "internal_name": "Nail"
+  },
+  {
+    "id": 499,
+    "name": "Baby Face Monster",
+    "internal_name": "BabyFaceMonster"
+  },
+  {
+    "id": 500,
+    "name": "Crimson Heart",
+    "internal_name": "CrimsonHeart"
+  },
+  {
+    "id": 501,
+    "name": "Flask",
+    "internal_name": "DrManFlyFlask"
+  },
+  {
+    "id": 502,
+    "name": "Meowmere",
+    "internal_name": "Meowmere"
+  },
+  {
+    "id": 503,
+    "name": "Star Wrath",
+    "internal_name": "StarWrath"
+  },
+  {
+    "id": 504,
+    "name": "Spark",
+    "internal_name": "Spark"
+  },
+  {
+    "id": 505,
+    "name": "Silk Rope Coil",
+    "internal_name": "SilkRopeCoil"
+  },
+  {
+    "id": 506,
+    "name": "Web Rope Coil",
+    "internal_name": "WebRopeCoil"
+  },
+  {
+    "id": 507,
+    "name": "Javelin (friendly)",
+    "internal_name": "JavelinFriendly"
+  },
+  {
+    "id": 508,
+    "name": "Javelin (hostile)",
+    "internal_name": "JavelinHostile"
+  },
+  {
+    "id": 509,
+    "name": "Butcher's Chainsaw",
+    "internal_name": "ButchersChainsaw"
+  },
+  {
+    "id": 510,
+    "name": "Toxic Flask",
+    "internal_name": "ToxicFlask"
+  },
+  {
+    "id": 511,
+    "name": "Toxic Cloud 1",
+    "internal_name": "ToxicCloud"
+  },
+  {
+    "id": 512,
+    "name": "Toxic Cloud 2",
+    "internal_name": "ToxicCloud2"
+  },
+  {
+    "id": 513,
+    "name": "Toxic Cloud 3",
+    "internal_name": "ToxicCloud3"
+  },
+  {
+    "id": 514,
+    "name": "Nail (friendly)",
+    "internal_name": "NailFriendly"
+  },
+  {
+    "id": 515,
+    "name": "Bouncy Glowstick",
+    "internal_name": "BouncyGlowstick"
+  },
+  {
+    "id": 516,
+    "name": "Bouncy Bomb",
+    "internal_name": "BouncyBomb"
+  },
+  {
+    "id": 517,
+    "name": "Bouncy Grenade",
+    "internal_name": "BouncyGrenade"
+  },
+  {
+    "id": 518,
+    "name": "Coin Portal",
+    "internal_name": "CoinPortal"
+  },
+  {
+    "id": 519,
+    "name": "Bomb Fish",
+    "internal_name": "BombFish"
+  },
+  {
+    "id": 520,
+    "name": "Frost Daggerfish",
+    "internal_name": "FrostDaggerfish"
+  },
+  {
+    "id": 521,
+    "name": "Crystal Charge 1",
+    "internal_name": "CrystalPulse"
+  },
+  {
+    "id": 522,
+    "name": "Crystal Charge 2",
+    "internal_name": "CrystalPulse2"
+  },
+  {
+    "id": 523,
+    "name": "Toxic Bubble",
+    "internal_name": "ToxicBubble"
+  },
+  {
+    "id": 524,
+    "name": "Ichor Splash",
+    "internal_name": "IchorSplash"
+  },
+  {
+    "id": 525,
+    "name": "Flying Piggy Bank",
+    "internal_name": "FlyingPiggyBank"
+  },
+  {
+    "id": 526,
+    "name": "Energy",
+    "internal_name": "CultistBossParticle"
+  },
+  {
+    "id": 527,
+    "name": "Golden Cross Grave Marker",
+    "internal_name": "RichGravestone1"
+  },
+  {
+    "id": 528,
+    "name": "Golden Tombstone",
+    "internal_name": "RichGravestone2"
+  },
+  {
+    "id": 529,
+    "name": "Golden Grave Marker",
+    "internal_name": "RichGravestone3"
+  },
+  {
+    "id": 530,
+    "name": "Golden Gravestone",
+    "internal_name": "RichGravestone4"
+  },
+  {
+    "id": 531,
+    "name": "Golden Headstone",
+    "internal_name": "RichGravestone5"
+  },
+  {
+    "id": 532,
+    "name": "XBone",
+    "internal_name": "BoneGloveProj"
+  },
+  {
+    "id": 533,
+    "name": "Deadly Sphere",
+    "internal_name": "DeadlySphere"
+  },
+  {
+    "id": 534,
+    "name": "Code 1",
+    "internal_name": "Code1"
+  },
+  {
+    "id": 535,
+    "name": "Medusa Ray",
+    "internal_name": "MedusaHead"
+  },
+  {
+    "id": 536,
+    "name": "Medusa Head Ray",
+    "internal_name": "MedusaHeadRay"
+  },
+  {
+    "id": 537,
+    "name": "Stardust Laser",
+    "internal_name": "StardustSoldierLaser"
+  },
+  {
+    "id": 538,
+    "name": "Twinkle",
+    "internal_name": "Twinkle"
+  },
+  {
+    "id": 539,
+    "name": "Flow Invader",
+    "internal_name": "StardustJellyfishSmall"
+  },
+  {
+    "id": 540,
+    "name": "Starmark",
+    "internal_name": "StardustTowerMark"
+  },
+  {
+    "id": 541,
+    "name": "Wooden Yoyo",
+    "internal_name": "WoodYoyo"
+  },
+  {
+    "id": 542,
+    "name": "Malaise",
+    "internal_name": "CorruptYoyo"
+  },
+  {
+    "id": 543,
+    "name": "Artery",
+    "internal_name": "CrimsonYoyo"
+  },
+  {
+    "id": 544,
+    "name": "Amazon",
+    "internal_name": "JungleYoyo"
+  },
+  {
+    "id": 545,
+    "name": "Cascade",
+    "internal_name": "Cascade"
+  },
+  {
+    "id": 546,
+    "name": "Chik",
+    "internal_name": "Chik"
+  },
+  {
+    "id": 547,
+    "name": "Code 2",
+    "internal_name": "Code2"
+  },
+  {
+    "id": 548,
+    "name": "Rally",
+    "internal_name": "Rally"
+  },
+  {
+    "id": 549,
+    "name": "Yelets",
+    "internal_name": "Yelets"
+  },
+  {
+    "id": 550,
+    "name": "Red's Throw",
+    "internal_name": "RedsYoyo"
+  },
+  {
+    "id": 551,
+    "name": "Valkyrie Yoyo",
+    "internal_name": "ValkyrieYoyo"
+  },
+  {
+    "id": 552,
+    "name": "Amarok",
+    "internal_name": "Amarok"
+  },
+  {
+    "id": 553,
+    "name": "Hel-Fire",
+    "internal_name": "HelFire"
+  },
+  {
+    "id": 554,
+    "name": "Kraken",
+    "internal_name": "Kraken"
+  },
+  {
+    "id": 555,
+    "name": "The Eye of Cthulhu",
+    "internal_name": "TheEyeOfCthulhu"
+  },
+  {
+    "id": 556,
+    "name": "Black Counterweight",
+    "internal_name": "BlackCounterweight"
+  },
+  {
+    "id": 557,
+    "name": "Blue Counterweight",
+    "internal_name": "BlueCounterweight"
+  },
+  {
+    "id": 558,
+    "name": "Green Counterweight",
+    "internal_name": "GreenCounterweight"
+  },
+  {
+    "id": 559,
+    "name": "Purple Counterweight",
+    "internal_name": "PurpleCounterweight"
+  },
+  {
+    "id": 560,
+    "name": "Red Counterweight",
+    "internal_name": "RedCounterweight"
+  },
+  {
+    "id": 561,
+    "name": "Yellow Counterweight",
+    "internal_name": "YellowCounterweight"
+  },
+  {
+    "id": 562,
+    "name": "Format:C",
+    "internal_name": "FormatC"
+  },
+  {
+    "id": 563,
+    "name": "Gradient",
+    "internal_name": "Gradient"
+  },
+  {
+    "id": 564,
+    "name": "Valor",
+    "internal_name": "Valor"
+  },
+  {
+    "id": 565,
+    "name": "Brain of Confusion",
+    "internal_name": "BrainOfConfusion"
+  },
+  {
+    "id": 566,
+    "name": "Giant Bee",
+    "internal_name": "GiantBee"
+  },
+  {
+    "id": 567,
+    "name": "Spore Trap",
+    "internal_name": "SporeTrap"
+  },
+  {
+    "id": 568,
+    "name": "Spore Trap 2",
+    "internal_name": "SporeTrap2"
+  },
+  {
+    "id": 569,
+    "name": "Spore Gas",
+    "internal_name": "SporeGas"
+  },
+  {
+    "id": 570,
+    "name": "Spore Gas 2",
+    "internal_name": "SporeGas2"
+  },
+  {
+    "id": 571,
+    "name": "Spore Gas 3",
+    "internal_name": "SporeGas3"
+  },
+  {
+    "id": 572,
+    "name": "Poison Spit",
+    "internal_name": "SalamanderSpit"
+  },
+  {
+    "id": 573,
+    "name": "Nebula Piercer",
+    "internal_name": "NebulaBolt"
+  },
+  {
+    "id": 574,
+    "name": "Nebula Eye",
+    "internal_name": "NebulaEye"
+  },
+  {
+    "id": 575,
+    "name": "Nebula Sphere",
+    "internal_name": "NebulaSphere"
+  },
+  {
+    "id": 576,
+    "name": "Nebula Laser",
+    "internal_name": "NebulaLaser"
+  },
+  {
+    "id": 577,
+    "name": "Vortex Laser",
+    "internal_name": "VortexLaser"
+  },
+  {
+    "id": 578,
+    "name": "Vortex Lightning",
+    "internal_name": "VortexVortexLightning"
+  },
+  {
+    "id": 579,
+    "name": "Vortex",
+    "internal_name": "VortexVortexPortal"
+  },
+  {
+    "id": 580,
+    "name": "Vortex Lightning",
+    "internal_name": "VortexLightning"
+  },
+  {
+    "id": 581,
+    "name": "Alien Goop",
+    "internal_name": "VortexAcid"
+  },
+  {
+    "id": 582,
+    "name": "Mechanic's Wrench",
+    "internal_name": "MechanicWrench"
+  },
+  {
+    "id": 583,
+    "name": "Syringe",
+    "internal_name": "NurseSyringeHurt"
+  },
+  {
+    "id": 584,
+    "name": "Syringe",
+    "internal_name": "NurseSyringeHeal"
+  },
+  {
+    "id": 585,
+    "name": "Skull",
+    "internal_name": "ClothiersCurse"
+  },
+  {
+    "id": 586,
+    "name": "Dryad's ward",
+    "internal_name": "DryadsWardCircle"
+  },
+  {
+    "id": 587,
+    "name": "Paintball",
+    "internal_name": "PainterPaintball"
+  },
+  {
+    "id": 588,
+    "name": "Confetti Grenade",
+    "internal_name": "PartyGirlGrenade"
+  },
+  {
+    "id": 589,
+    "name": "Christmas Ornament",
+    "internal_name": "SantaBombs"
+  },
+  {
+    "id": 590,
+    "name": "Truffle Spore",
+    "internal_name": "TruffleSpore"
+  },
+  {
+    "id": 591,
+    "name": "Mechanical Cart Laser",
+    "internal_name": "MinecartMechLaser"
+  },
+  {
+    "id": 592,
+    "name": "Laser Ray",
+    "internal_name": "MartianWalkerLaser"
+  },
+  {
+    "id": 593,
+    "name": "Prophecy's End",
+    "internal_name": "AncientDoomProjectile"
+  },
+  {
+    "id": 594,
+    "name": "Blowup Smoke",
+    "internal_name": "BlowupSmoke"
+  },
+  {
+    "id": 595,
+    "name": "Arkhalis",
+    "internal_name": "Arkhalis"
+  },
+  {
+    "id": 596,
+    "name": "Desert Spirit's Curse",
+    "internal_name": "DesertDjinnCurse"
+  },
+  {
+    "id": 597,
+    "name": "Amber Bolt",
+    "internal_name": "AmberBolt"
+  },
+  {
+    "id": 598,
+    "name": "Bone Javelin",
+    "internal_name": "BoneJavelin"
+  },
+  {
+    "id": 599,
+    "name": "Bone Dagger",
+    "internal_name": "BoneDagger"
+  },
+  {
+    "id": 600,
+    "name": "Portal Gun",
+    "internal_name": "PortalGun"
+  },
+  {
+    "id": 601,
+    "name": "Portal Bolt",
+    "internal_name": "PortalGunBolt"
+  },
+  {
+    "id": 602,
+    "name": "Portal Gate",
+    "internal_name": "PortalGunGate"
+  },
+  {
+    "id": 603,
+    "name": "Terrarian",
+    "internal_name": "Terrarian"
+  },
+  {
+    "id": 604,
+    "name": "Terrarian Beam",
+    "internal_name": "TerrarianBeam"
+  },
+  {
+    "id": 605,
+    "name": "Slime Spike",
+    "internal_name": "SpikedSlimeSpike"
+  },
+  {
+    "id": 606,
+    "name": "Scutlix Laser",
+    "internal_name": "ScutlixLaser"
+  },
+  {
+    "id": 607,
+    "name": "Solar Flare",
+    "internal_name": "SolarFlareRay"
+  },
+  {
+    "id": 608,
+    "name": "Solar Radiance",
+    "internal_name": "SolarCounter"
+  },
+  {
+    "id": 609,
+    "name": "Stardust Drill",
+    "internal_name": "StardustDrill"
+  },
+  {
+    "id": 610,
+    "name": "Stardust Chainsaw",
+    "internal_name": "StardustChainsaw"
+  },
+  {
+    "id": 611,
+    "name": "Solar Eruption",
+    "internal_name": "SolarWhipSword"
+  },
+  {
+    "id": 612,
+    "name": "Solar Explosion",
+    "internal_name": "SolarWhipSwordExplosion"
+  },
+  {
+    "id": 613,
+    "name": "Stardust Cell",
+    "internal_name": "StardustCellMinion"
+  },
+  {
+    "id": 614,
+    "name": "Stardust Cell Shot",
+    "internal_name": "StardustCellMinionShot"
+  },
+  {
+    "id": 615,
+    "name": "Vortex Beater",
+    "internal_name": "VortexBeater"
+  },
+  {
+    "id": 616,
+    "name": "Vortex Rocket",
+    "internal_name": "VortexBeaterRocket"
+  },
+  {
+    "id": 617,
+    "name": "Nebula Arcanum",
+    "internal_name": "NebulaArcanum"
+  },
+  {
+    "id": 618,
+    "name": "Nebula Arcanum Subshot",
+    "internal_name": "NebulaArcanumSubshot"
+  },
+  {
+    "id": 619,
+    "name": "Nebula Arcanum Explosion Shot",
+    "internal_name": "NebulaArcanumExplosionShot"
+  },
+  {
+    "id": 620,
+    "name": "Nebula Arcanum Explosion Shot Shard",
+    "internal_name": "NebulaArcanumExplosionShotShard"
+  },
+  {
+    "id": 621,
+    "name": "Blood Water",
+    "internal_name": "BloodWater"
+  },
+  {
+    "id": 622,
+    "name": "Blowup Smoke Moonlord",
+    "internal_name": "BlowupSmokeMoonlord"
+  },
+  {
+    "id": 623,
+    "name": "Stardust Guardian",
+    "internal_name": "StardustGuardian"
+  },
+  {
+    "id": 624,
+    "name": "Starburst",
+    "internal_name": "StardustGuardianExplosion"
+  },
+  {
+    "id": 625,
+    "name": "Stardust Dragon 1",
+    "internal_name": "StardustDragon1"
+  },
+  {
+    "id": 626,
+    "name": "Stardust Dragon 2",
+    "internal_name": "StardustDragon2"
+  },
+  {
+    "id": 627,
+    "name": "Stardust Dragon 3",
+    "internal_name": "StardustDragon3"
+  },
+  {
+    "id": 628,
+    "name": "Stardust Dragon 4",
+    "internal_name": "StardustDragon4"
+  },
+  {
+    "id": 629,
+    "name": "Released Energy",
+    "internal_name": "TowerDamageBolt"
+  },
+  {
+    "id": 630,
+    "name": "Phantasm",
+    "internal_name": "Phantasm"
+  },
+  {
+    "id": 631,
+    "name": "Phantasm Arrow",
+    "internal_name": "PhantasmArrow"
+  },
+  {
+    "id": 632,
+    "name": "Last Prism Laser",
+    "internal_name": "LastPrismLaser"
+  },
+  {
+    "id": 633,
+    "name": "Last Prism",
+    "internal_name": "LastPrism"
+  },
+  {
+    "id": 634,
+    "name": "Nebula Blaze",
+    "internal_name": "NebulaBlaze1"
+  },
+  {
+    "id": 635,
+    "name": "Nebula Blaze Ex",
+    "internal_name": "NebulaBlaze2"
+  },
+  {
+    "id": 636,
+    "name": "Daybreak",
+    "internal_name": "Daybreak"
+  },
+  {
+    "id": 637,
+    "name": "Bouncy Dynamite",
+    "internal_name": "BouncyDynamite"
+  },
+  {
+    "id": 638,
+    "name": "Luminite Bullet",
+    "internal_name": "MoonlordBullet"
+  },
+  {
+    "id": 639,
+    "name": "Luminite Arrow",
+    "internal_name": "MoonlordArrow"
+  },
+  {
+    "id": 640,
+    "name": "Luminite Arrow Trail",
+    "internal_name": "MoonlordArrowTrail"
+  },
+  {
+    "id": 641,
+    "name": "Lunar Portal",
+    "internal_name": "MoonlordTurret"
+  },
+  {
+    "id": 642,
+    "name": "Lunar Portal Laser",
+    "internal_name": "MoonlordTurretLaser"
+  },
+  {
+    "id": 643,
+    "name": "Rainbow Crystal",
+    "internal_name": "RainbowCrystal"
+  },
+  {
+    "id": 644,
+    "name": "Rainbow Explosion",
+    "internal_name": "RainbowCrystalExplosion"
+  },
+  {
+    "id": 645,
+    "name": "Lunar Flare",
+    "internal_name": "LunarFlare"
+  },
+  {
+    "id": 646,
+    "name": "Lunar Hook Solar",
+    "internal_name": "LunarHookSolar"
+  },
+  {
+    "id": 647,
+    "name": "Lunar Hook Vortex",
+    "internal_name": "LunarHookVortex"
+  },
+  {
+    "id": 648,
+    "name": "Lunar Hook Nebula",
+    "internal_name": "LunarHookNebula"
+  },
+  {
+    "id": 649,
+    "name": "Lunar Hook Stardust",
+    "internal_name": "LunarHookStardust"
+  },
+  {
+    "id": 650,
+    "name": "Suspicious Looking Tentacle",
+    "internal_name": "SuspiciousTentacle"
+  },
+  {
+    "id": 651,
+    "name": "Wire Kite",
+    "internal_name": "WireKite"
+  },
+  {
+    "id": 652,
+    "name": "Static Hook",
+    "internal_name": "StaticHook"
+  },
+  {
+    "id": 653,
+    "name": "Companion Cube",
+    "internal_name": "CompanionCube"
+  },
+  {
+    "id": 654,
+    "name": "Geyser",
+    "internal_name": "GeyserTrap"
+  },
+  {
+    "id": 655,
+    "name": "Bee Hive",
+    "internal_name": "BeeHive"
+  },
+  {
+    "id": 656,
+    "name": "Ancient Storm (friendly)",
+    "internal_name": "SandnadoFriendly"
+  },
+  {
+    "id": 657,
+    "name": "Ancient Storm (hostile)",
+    "internal_name": "SandnadoHostile"
+  },
+  {
+    "id": 658,
+    "name": "Ancient Storm Mark",
+    "internal_name": "SandnadoHostileMark"
+  },
+  {
+    "id": 659,
+    "name": "Spirit Flame",
+    "internal_name": "SpiritFlame"
+  },
+  {
+    "id": 660,
+    "name": "Sky Fracture",
+    "internal_name": "SkyFracture"
+  },
+  {
+    "id": 661,
+    "name": "Onyx Blaster",
+    "internal_name": "BlackBolt"
+  },
+  {
+    "id": 662,
+    "name": "Javelin",
+    "internal_name": "DD2JavelinHostile"
+  },
+  {
+    "id": 663,
+    "name": "Flameburst Tower (tier 1)",
+    "internal_name": "DD2FlameBurstTowerT1"
+  },
+  {
+    "id": 664,
+    "name": "Flameburst Tower Shot (tier 1)",
+    "internal_name": "DD2FlameBurstTowerT1Shot"
+  },
+  {
+    "id": 665,
+    "name": "Flameburst Tower (tier 2)",
+    "internal_name": "DD2FlameBurstTowerT2"
+  },
+  {
+    "id": 666,
+    "name": "Flameburst Tower Shot (tier 2)",
+    "internal_name": "DD2FlameBurstTowerT2Shot"
+  },
+  {
+    "id": 667,
+    "name": "Flameburst Tower (tier 3)",
+    "internal_name": "DD2FlameBurstTowerT3"
+  },
+  {
+    "id": 668,
+    "name": "Flameburst Tower Shot (tier 3)",
+    "internal_name": "DD2FlameBurstTowerT3Shot"
+  },
+  {
+    "id": 669,
+    "name": "Ale",
+    "internal_name": "Ale"
+  },
+  {
+    "id": 670,
+    "name": "Ogre's Stomp",
+    "internal_name": "DD2OgreStomp"
+  },
+  {
+    "id": 671,
+    "name": "Drakin Shot",
+    "internal_name": "DD2DrakinShot"
+  },
+  {
+    "id": 672,
+    "name": "Grim End",
+    "internal_name": "DD2ElderWins"
+  },
+  {
+    "id": 673,
+    "name": "Dark Sigil",
+    "internal_name": "DD2DarkMageRaise"
+  },
+  {
+    "id": 674,
+    "name": "Dark Sigil",
+    "internal_name": "DD2DarkMageHeal"
+  },
+  {
+    "id": 675,
+    "name": "Dark Energy",
+    "internal_name": "DD2DarkMageBolt"
+  },
+  {
+    "id": 676,
+    "name": "Ogre Spit",
+    "internal_name": "DD2OgreSpit"
+  },
+  {
+    "id": 677,
+    "name": "Ballista (tier 1)",
+    "internal_name": "DD2BallistraTowerT1"
+  },
+  {
+    "id": 678,
+    "name": "Ballista (tier 2)",
+    "internal_name": "DD2BallistraTowerT2"
+  },
+  {
+    "id": 679,
+    "name": "Ballista (tier 3)",
+    "internal_name": "DD2BallistraTowerT3"
+  },
+  {
+    "id": 680,
+    "name": "Ballista Shot",
+    "internal_name": "DD2BallistraProj"
+  },
+  {
+    "id": 681,
+    "name": "Goblin Bomb",
+    "internal_name": "DD2GoblinBomb"
+  },
+  {
+    "id": 682,
+    "name": "Withering Bolt",
+    "internal_name": "DD2LightningBugZap"
+  },
+  {
+    "id": 683,
+    "name": "Ogre's Stomp",
+    "internal_name": "DD2OgreSmash"
+  },
+  {
+    "id": 684,
+    "name": "Hearty Slash",
+    "internal_name": "DD2SquireSonicBoom"
+  },
+  {
+    "id": 685,
+    "name": "Javelin",
+    "internal_name": "DD2JavelinHostileT3"
+  },
+  {
+    "id": 686,
+    "name": "Betsy's Fireball",
+    "internal_name": "DD2BetsyFireball"
+  },
+  {
+    "id": 687,
+    "name": "Betsy's Breath",
+    "internal_name": "DD2BetsyFlameBreath"
+  },
+  {
+    "id": 688,
+    "name": "Lightning Aura (tier 1)",
+    "internal_name": "DD2LightningAuraT1"
+  },
+  {
+    "id": 689,
+    "name": "Lightning Aura (tier 2)",
+    "internal_name": "DD2LightningAuraT2"
+  },
+  {
+    "id": 690,
+    "name": "Lightning Aura (tier 3)",
+    "internal_name": "DD2LightningAuraT3"
+  },
+  {
+    "id": 691,
+    "name": "Explosive Trap (tier 1)",
+    "internal_name": "DD2ExplosiveTrapT1"
+  },
+  {
+    "id": 692,
+    "name": "Explosive Trap (tier 2)",
+    "internal_name": "DD2ExplosiveTrapT2"
+  },
+  {
+    "id": 693,
+    "name": "Explosive Trap (tier 3)",
+    "internal_name": "DD2ExplosiveTrapT3"
+  },
+  {
+    "id": 694,
+    "name": "Explosive Trap Explosion (tier 1)",
+    "internal_name": "DD2ExplosiveTrapT1Explosion"
+  },
+  {
+    "id": 695,
+    "name": "Explosive Trap Explosion (tier 2)",
+    "internal_name": "DD2ExplosiveTrapT2Explosion"
+  },
+  {
+    "id": 696,
+    "name": "Explosive Trap Explosion (tier 3)",
+    "internal_name": "DD2ExplosiveTrapT3Explosion"
+  },
+  {
+    "id": 697,
+    "name": "Sleepy Octopod",
+    "internal_name": "MonkStaffT1"
+  },
+  {
+    "id": 698,
+    "name": "Pole Smash",
+    "internal_name": "MonkStaffT1Explosion"
+  },
+  {
+    "id": 699,
+    "name": "Ghastly Glaive",
+    "internal_name": "MonkStaffT2"
+  },
+  {
+    "id": 700,
+    "name": "Ghast",
+    "internal_name": "MonkStaffT2Ghast"
+  },
+  {
+    "id": 701,
+    "name": "Hoardagron",
+    "internal_name": "DD2PetDragon"
+  },
+  {
+    "id": 702,
+    "name": "Flickerwick",
+    "internal_name": "DD2PetGhost"
+  },
+  {
+    "id": 703,
+    "name": "Propeller Gato",
+    "internal_name": "DD2PetGato"
+  },
+  {
+    "id": 704,
+    "name": "Whirlwind of Infinite Wisdom",
+    "internal_name": "DD2ApprenticeStorm"
+  },
+  {
+    "id": 705,
+    "name": "Phantom Phoenix",
+    "internal_name": "DD2PhoenixBow"
+  },
+  {
+    "id": 706,
+    "name": "Phantom Phoenix",
+    "internal_name": "DD2PhoenixBowShot"
+  },
+  {
+    "id": 707,
+    "name": "Sky Dragon's Fury",
+    "internal_name": "MonkStaffT3"
+  },
+  {
+    "id": 708,
+    "name": "Sky Dragon's Fury (alt)",
+    "internal_name": "MonkStaffT3_Alt"
+  },
+  {
+    "id": 709,
+    "name": "Sky Dragon's Fury (alt shot)",
+    "internal_name": "MonkStaffT3_AltShot"
+  },
+  {
+    "id": 710,
+    "name": "Aerial Bane",
+    "internal_name": "DD2BetsyArrow"
+  },
+  {
+    "id": 711,
+    "name": "Betsy's Wrath",
+    "internal_name": "ApprenticeStaffT3Shot"
+  },
+  {
+    "id": 712,
+    "name": "Tome of Infinite Wisdom",
+    "internal_name": "BookStaffShot"
+  },
+  {
+    "id": 713,
+    "name": "Victory!",
+    "internal_name": "DD2Win"
+  },
+  {
+    "id": 714,
+    "name": "Celebration Mk2",
+    "internal_name": "Celeb2Weapon"
+  },
+  {
+    "id": 715,
+    "name": "Celebration Mk2",
+    "internal_name": "Celeb2Rocket"
+  },
+  {
+    "id": 716,
+    "name": "Celebration Mk2 (explosive)",
+    "internal_name": "Celeb2RocketExplosive"
+  },
+  {
+    "id": 717,
+    "name": "Celebration Mk2 (large)",
+    "internal_name": "Celeb2RocketLarge"
+  },
+  {
+    "id": 718,
+    "name": "Celebration Mk2 (large explosive)",
+    "internal_name": "Celeb2RocketExplosiveLarge"
+  },
+  {
+    "id": 719,
+    "name": "Queen Bee's Stinger",
+    "internal_name": "QueenBeeStinger"
+  },
+  {
+    "id": 720,
+    "name": "Falling Star Spawner",
+    "internal_name": "FallingStarSpawner"
+  },
+  {
+    "id": 721,
+    "name": "Golf Ball",
+    "internal_name": "DirtGolfBall"
+  },
+  {
+    "id": 722,
+    "name": "Golf Club",
+    "internal_name": "GolfClubHelper"
+  },
+  {
+    "id": 723,
+    "name": "Mana Cloak",
+    "internal_name": "ManaCloakStar"
+  },
+  {
+    "id": 724,
+    "name": "Bee Cloak",
+    "internal_name": "BeeCloakStar"
+  },
+  {
+    "id": 725,
+    "name": "Star Veil",
+    "internal_name": "StarVeilStar"
+  },
+  {
+    "id": 726,
+    "name": "Star Cloak",
+    "internal_name": "StarCloakStar"
+  },
+  {
+    "id": 727,
+    "name": "Rolling Cactus",
+    "internal_name": "RollingCactus"
+  },
+  {
+    "id": 728,
+    "name": "Super Star Cannon",
+    "internal_name": "SuperStar"
+  },
+  {
+    "id": 729,
+    "name": "Super Star Cannon",
+    "internal_name": "SuperStarSlash"
+  },
+  {
+    "id": 730,
+    "name": "Storm Spear",
+    "internal_name": "ThunderSpear"
+  },
+  {
+    "id": 731,
+    "name": "Thunder Zapper",
+    "internal_name": "ThunderStaffShot"
+  },
+  {
+    "id": 732,
+    "name": "Storm Spear Shot",
+    "internal_name": "ThunderSpearShot"
+  },
+  {
+    "id": 733,
+    "name": "Toilet Effect",
+    "internal_name": "ToiletEffect"
+  },
+  {
+    "id": 734,
+    "name": "Void Bag",
+    "internal_name": "VoidLens"
+  },
+  {
+    "id": 735,
+    "name": "Terragrim",
+    "internal_name": "Terragrim"
+  },
+  {
+    "id": 736,
+    "name": "Blue Dungeon Debris",
+    "internal_name": "BlueDungeonDebris"
+  },
+  {
+    "id": 737,
+    "name": "Green Dungeon Debris",
+    "internal_name": "GreenDungeonDebris"
+  },
+  {
+    "id": 738,
+    "name": "Pink Dungeon Debris",
+    "internal_name": "PinkDungeonDebris"
+  },
+  {
+    "id": 739,
+    "name": "Black Golf Ball",
+    "internal_name": "GolfBallDyedBlack"
+  },
+  {
+    "id": 740,
+    "name": "Blue Golf Ball",
+    "internal_name": "GolfBallDyedBlue"
+  },
+  {
+    "id": 741,
+    "name": "Brown Golf Ball",
+    "internal_name": "GolfBallDyedBrown"
+  },
+  {
+    "id": 742,
+    "name": "Cyan Golf Ball",
+    "internal_name": "GolfBallDyedCyan"
+  },
+  {
+    "id": 743,
+    "name": "Green Golf Ball",
+    "internal_name": "GolfBallDyedGreen"
+  },
+  {
+    "id": 744,
+    "name": "Lime Golf Ball",
+    "internal_name": "GolfBallDyedLimeGreen"
+  },
+  {
+    "id": 745,
+    "name": "Orange Golf Ball",
+    "internal_name": "GolfBallDyedOrange"
+  },
+  {
+    "id": 746,
+    "name": "Pink Golf Ball",
+    "internal_name": "GolfBallDyedPink"
+  },
+  {
+    "id": 747,
+    "name": "Purple Golf Ball",
+    "internal_name": "GolfBallDyedPurple"
+  },
+  {
+    "id": 748,
+    "name": "Red Golf Ball",
+    "internal_name": "GolfBallDyedRed"
+  },
+  {
+    "id": 749,
+    "name": "Sky Blue Golf Ball",
+    "internal_name": "GolfBallDyedSkyBlue"
+  },
+  {
+    "id": 750,
+    "name": "Teal Golf Ball",
+    "internal_name": "GolfBallDyedTeal"
+  },
+  {
+    "id": 751,
+    "name": "Violet Golf Ball",
+    "internal_name": "GolfBallDyedViolet"
+  },
+  {
+    "id": 752,
+    "name": "Yellow Golf Ball",
+    "internal_name": "GolfBallDyedYellow"
+  },
+  {
+    "id": 753,
+    "name": "Amber Hook",
+    "internal_name": "AmberHook"
+  },
+  {
+    "id": 754,
+    "name": "Mystic Snake Coil",
+    "internal_name": "MysticSnakeCoil"
+  },
+  {
+    "id": 755,
+    "name": "Sanguine Bat",
+    "internal_name": "BatOfLight"
+  },
+  {
+    "id": 756,
+    "name": "Blood Thorn",
+    "internal_name": "SharpTears"
+  },
+  {
+    "id": 757,
+    "name": "Drippler Crippler",
+    "internal_name": "DripplerFlail"
+  },
+  {
+    "id": 758,
+    "name": "Vampire Frog",
+    "internal_name": "VampireFrog"
+  },
+  {
+    "id": 759,
+    "name": "Finch",
+    "internal_name": "BabyBird"
+  },
+  {
+    "id": 760,
+    "name": "Bobber (Bloody)",
+    "internal_name": "BobberBloody"
+  },
+  {
+    "id": 761,
+    "name": "Paper Airplane",
+    "internal_name": "PaperAirplaneA"
+  },
+  {
+    "id": 762,
+    "name": "White Paper Airplane",
+    "internal_name": "PaperAirplaneB"
+  },
+  {
+    "id": 763,
+    "name": "Rolling Cactus Spike",
+    "internal_name": "RollingCactusSpike"
+  },
+  {
+    "id": 764,
+    "name": "Estee",
+    "internal_name": "UpbeatStar"
+  },
+  {
+    "id": 765,
+    "name": "Sugar Glider",
+    "internal_name": "SugarGlider"
+  },
+  {
+    "id": 766,
+    "name": "Blue Kite",
+    "internal_name": "KiteBlue"
+  },
+  {
+    "id": 767,
+    "name": "Blue and Yellow Kite",
+    "internal_name": "KiteBlueAndYellow"
+  },
+  {
+    "id": 768,
+    "name": "Red Kite",
+    "internal_name": "KiteRed"
+  },
+  {
+    "id": 769,
+    "name": "Red and Yellow Kite",
+    "internal_name": "KiteRedAndYellow"
+  },
+  {
+    "id": 770,
+    "name": "Yellow Kite",
+    "internal_name": "KiteYellow"
+  },
+  {
+    "id": 771,
+    "name": "Wyvern Kite",
+    "internal_name": "KiteWyvern"
+  },
+  {
+    "id": 772,
+    "name": "Geode",
+    "internal_name": "Geode"
+  },
+  {
+    "id": 773,
+    "name": "Scarab Bomb",
+    "internal_name": "ScarabBomb"
+  },
+  {
+    "id": 774,
+    "name": "Shark Pup",
+    "internal_name": "SharkPup"
+  },
+  {
+    "id": 775,
+    "name": "Bobber (Scarab)",
+    "internal_name": "BobberScarab"
+  },
+  {
+    "id": 776,
+    "name": "Cluster Rocket I",
+    "internal_name": "ClusterRocketI"
+  },
+  {
+    "id": 777,
+    "name": "Cluster Grenade I",
+    "internal_name": "ClusterGrenadeI"
+  },
+  {
+    "id": 778,
+    "name": "Cluster Proximity Mine I",
+    "internal_name": "ClusterMineI"
+  },
+  {
+    "id": 779,
+    "name": "Cluster Fragments I",
+    "internal_name": "ClusterFragmentsI"
+  },
+  {
+    "id": 780,
+    "name": "Cluster Rocket II",
+    "internal_name": "ClusterRocketII"
+  },
+  {
+    "id": 781,
+    "name": "Cluster Grenade II",
+    "internal_name": "ClusterGrenadeII"
+  },
+  {
+    "id": 782,
+    "name": "Cluster Proximity Mine II",
+    "internal_name": "ClusterMineII"
+  },
+  {
+    "id": 783,
+    "name": "Cluster Fragments II",
+    "internal_name": "ClusterFragmentsII"
+  },
+  {
+    "id": 784,
+    "name": "Wet Rocket",
+    "internal_name": "WetRocket"
+  },
+  {
+    "id": 785,
+    "name": "Wet Grenade",
+    "internal_name": "WetGrenade"
+  },
+  {
+    "id": 786,
+    "name": "Wet Proximity Mine",
+    "internal_name": "WetMine"
+  },
+  {
+    "id": 787,
+    "name": "Lava Rocket",
+    "internal_name": "LavaRocket"
+  },
+  {
+    "id": 788,
+    "name": "Lava Grenade",
+    "internal_name": "LavaGrenade"
+  },
+  {
+    "id": 789,
+    "name": "Lava Proximity Mine",
+    "internal_name": "LavaMine"
+  },
+  {
+    "id": 790,
+    "name": "Honey Rocket",
+    "internal_name": "HoneyRocket"
+  },
+  {
+    "id": 791,
+    "name": "Honey Grenade",
+    "internal_name": "HoneyGrenade"
+  },
+  {
+    "id": 792,
+    "name": "Honey Proximity Mine",
+    "internal_name": "HoneyMine"
+  },
+  {
+    "id": 793,
+    "name": "Mini Nuke Rocket I",
+    "internal_name": "MiniNukeRocketI"
+  },
+  {
+    "id": 794,
+    "name": "Mini Nuke Grenade I",
+    "internal_name": "MiniNukeGrenadeI"
+  },
+  {
+    "id": 795,
+    "name": "Mini Nuke Proximity Mine I",
+    "internal_name": "MiniNukeMineI"
+  },
+  {
+    "id": 796,
+    "name": "Mini Nuke Rocket II",
+    "internal_name": "MiniNukeRocketII"
+  },
+  {
+    "id": 797,
+    "name": "Mini Nuke Grenade II",
+    "internal_name": "MiniNukeGrenadeII"
+  },
+  {
+    "id": 798,
+    "name": "Mini Nuke Proximity Mine II",
+    "internal_name": "MiniNukeMineII"
+  },
+  {
+    "id": 799,
+    "name": "Dry Rocket",
+    "internal_name": "DryRocket"
+  },
+  {
+    "id": 800,
+    "name": "Dry Grenade",
+    "internal_name": "DryGrenade"
+  },
+  {
+    "id": 801,
+    "name": "Dry Proximity Mine",
+    "internal_name": "DryMine"
+  },
+  {
+    "id": 802,
+    "name": "Gladius",
+    "internal_name": "GladiusStab"
+  },
+  {
+    "id": 803,
+    "name": "Cluster Rocket I",
+    "internal_name": "ClusterSnowmanRocketI"
+  },
+  {
+    "id": 804,
+    "name": "Cluster Rocket II",
+    "internal_name": "ClusterSnowmanRocketII"
+  },
+  {
+    "id": 805,
+    "name": "Wet Rocket",
+    "internal_name": "WetSnowmanRocket"
+  },
+  {
+    "id": 806,
+    "name": "Lava Rocket",
+    "internal_name": "LavaSnowmanRocket"
+  },
+  {
+    "id": 807,
+    "name": "Honey Rocket",
+    "internal_name": "HoneySnowmanRocket"
+  },
+  {
+    "id": 808,
+    "name": "Mini Nuke Rocket I",
+    "internal_name": "MiniNukeSnowmanRocketI"
+  },
+  {
+    "id": 809,
+    "name": "Mini Nuke Rocket II",
+    "internal_name": "MiniNukeSnowmanRocketII"
+  },
+  {
+    "id": 810,
+    "name": "Dry Rocket",
+    "internal_name": "DrySnowmanRocket"
+  },
+  {
+    "id": 811,
+    "name": "Blood Shot",
+    "internal_name": "BloodShot"
+  },
+  {
+    "id": 812,
+    "name": "Shell Pile",
+    "internal_name": "ShellPileFalling"
+  },
+  {
+    "id": 813,
+    "name": "Blood Tears",
+    "internal_name": "BloodNautilusTears"
+  },
+  {
+    "id": 814,
+    "name": "Blood Nautilus Shot",
+    "internal_name": "BloodNautilusShot"
+  },
+  {
+    "id": 815,
+    "name": "Lil' Harpy",
+    "internal_name": "LilHarpy"
+  },
+  {
+    "id": 816,
+    "name": "Fennec Fox",
+    "internal_name": "FennecFox"
+  },
+  {
+    "id": 817,
+    "name": "Glittery Butterfly",
+    "internal_name": "GlitteryButterfly"
+  },
+  {
+    "id": 818,
+    "name": "Desert Tiger",
+    "internal_name": "WhiteTigerPounce"
+  },
+  {
+    "id": 819,
+    "name": "Blood Rain",
+    "internal_name": "BloodArrow"
+  },
+  {
+    "id": 820,
+    "name": "Chum",
+    "internal_name": "ChumBucket"
+  },
+  {
+    "id": 821,
+    "name": "Baby Imp",
+    "internal_name": "BabyImp"
+  },
+  {
+    "id": 822,
+    "name": "Bone Serpent Kite",
+    "internal_name": "KiteBoneSerpent"
+  },
+  {
+    "id": 823,
+    "name": "World Feeder Kite",
+    "internal_name": "KiteWorldFeeder"
+  },
+  {
+    "id": 824,
+    "name": "Bunny Kite",
+    "internal_name": "KiteBunny"
+  },
+  {
+    "id": 825,
+    "name": "Baby Red Panda",
+    "internal_name": "BabyRedPanda"
+  },
+  {
+    "id": 826,
+    "name": "Pigron Kite",
+    "internal_name": "KitePigron"
+  },
+  {
+    "id": 827,
+    "name": "Man Eater Kite",
+    "internal_name": "KiteManEater"
+  },
+  {
+    "id": 828,
+    "name": "Blue Jellyfish Kite",
+    "internal_name": "KiteJellyfishBlue"
+  },
+  {
+    "id": 829,
+    "name": "Pink Jellyfish Kite",
+    "internal_name": "KiteJellyfishPink"
+  },
+  {
+    "id": 830,
+    "name": "Shark Kite",
+    "internal_name": "KiteShark"
+  },
+  {
+    "id": 831,
+    "name": "Desert Tiger (counter)",
+    "internal_name": "StormTigerGem"
+  },
+  {
+    "id": 832,
+    "name": "Desert Tiger",
+    "internal_name": "StormTigerAttack"
+  },
+  {
+    "id": 833,
+    "name": "Desert Tiger (tier 1)",
+    "internal_name": "StormTigerTier1"
+  },
+  {
+    "id": 834,
+    "name": "Desert Tiger (tier 2)",
+    "internal_name": "StormTigerTier2"
+  },
+  {
+    "id": 835,
+    "name": "Desert Tiger (tier 3)",
+    "internal_name": "StormTigerTier3"
+  },
+  {
+    "id": 836,
+    "name": "Dandelion Seed",
+    "internal_name": "DandelionSeed"
+  },
+  {
+    "id": 837,
+    "name": "Skull",
+    "internal_name": "BookOfSkullsSkull"
+  },
+  {
+    "id": 838,
+    "name": "Sand Shark Kite",
+    "internal_name": "KiteSandShark"
+  },
+  {
+    "id": 839,
+    "name": "Corrupt Bunny Kite",
+    "internal_name": "KiteBunnyCorrupt"
+  },
+  {
+    "id": 840,
+    "name": "Crimson Bunny Kite",
+    "internal_name": "KiteBunnyCrimson"
+  },
+  {
+    "id": 841,
+    "name": "Leather Whip",
+    "internal_name": "BlandWhip"
+  },
+  {
+    "id": 842,
+    "name": "Ruler",
+    "internal_name": "RulerStab"
+  },
+  {
+    "id": 843,
+    "name": "Goldfish Kite",
+    "internal_name": "KiteGoldfish"
+  },
+  {
+    "id": 844,
+    "name": "Angry Trapper Kite",
+    "internal_name": "KiteAngryTrapper"
+  },
+  {
+    "id": 845,
+    "name": "Koi Kite",
+    "internal_name": "KiteKoi"
+  },
+  {
+    "id": 846,
+    "name": "Crawltipede Kite",
+    "internal_name": "KiteCrawltipede"
+  },
+  {
+    "id": 847,
+    "name": "Durendal",
+    "internal_name": "SwordWhip"
+  },
+  {
+    "id": 848,
+    "name": "Morning Star",
+    "internal_name": "MaceWhip"
+  },
+  {
+    "id": 849,
+    "name": "Dark Harvest",
+    "internal_name": "ScytheWhip"
+  },
+  {
+    "id": 850,
+    "name": "Spectrum Kite",
+    "internal_name": "KiteSpectrum"
+  },
+  {
+    "id": 851,
+    "name": "Dove",
+    "internal_name": "ReleaseDoves"
+  },
+  {
+    "id": 852,
+    "name": "Wandering Eye Kite",
+    "internal_name": "KiteWanderingEye"
+  },
+  {
+    "id": 853,
+    "name": "Unicorn Kite",
+    "internal_name": "KiteUnicorn"
+  },
+  {
+    "id": 854,
+    "name": "Plantero",
+    "internal_name": "Plantero"
+  },
+  {
+    "id": 855,
+    "name": "Lantern",
+    "internal_name": "ReleaseLantern"
+  },
+  {
+    "id": 856,
+    "name": "Stellar Tune",
+    "internal_name": "SparkleGuitar"
+  },
+  {
+    "id": 857,
+    "name": "First Fractal",
+    "internal_name": "FirstFractal"
+  },
+  {
+    "id": 858,
+    "name": "Dynamite Kitten",
+    "internal_name": "DynamiteKitten"
+  },
+  {
+    "id": 859,
+    "name": "Baby Werewolf",
+    "internal_name": "BabyWerewolf"
+  },
+  {
+    "id": 860,
+    "name": "Shadow Mimic",
+    "internal_name": "ShadowMimic"
+  },
+  {
+    "id": 861,
+    "name": "Football",
+    "internal_name": "Football"
+  },
+  {
+    "id": 862,
+    "name": "Cluster Fragments I",
+    "internal_name": "ClusterSnowmanFragmentsI"
+  },
+  {
+    "id": 863,
+    "name": "Cluster Fragments II",
+    "internal_name": "ClusterSnowmanFragmentsII"
+  },
+  {
+    "id": 864,
+    "name": "Enchanted Dagger",
+    "internal_name": "Smolstar"
+  },
+  {
+    "id": 865,
+    "name": "Squirrel Hook",
+    "internal_name": "SquirrelHook"
+  },
+  {
+    "id": 866,
+    "name": "Sergeant United Shield",
+    "internal_name": "BouncingShield"
+  },
+  {
+    "id": 867,
+    "name": "Shroomerang",
+    "internal_name": "Shroomerang"
+  },
+  {
+    "id": 868,
+    "name": "Tree Globe",
+    "internal_name": "TreeGlobe"
+  },
+  {
+    "id": 869,
+    "name": "World Globe",
+    "internal_name": "WorldGlobe"
+  },
+  {
+    "id": 870,
+    "name": "Fairy Glowstick",
+    "internal_name": "FairyGlowstick"
+  },
+  {
+    "id": 871,
+    "name": "Split Shot Core",
+    "internal_name": "HallowBossSplitShotCore"
+  },
+  {
+    "id": 872,
+    "name": "Everlasting Rainbow",
+    "internal_name": "HallowBossLastingRainbow"
+  },
+  {
+    "id": 873,
+    "name": "Prismatic Bolt",
+    "internal_name": "HallowBossRainbowStreak"
+  },
+  {
+    "id": 874,
+    "name": "Death Aurora",
+    "internal_name": "HallowBossDeathAurora"
+  },
+  {
+    "id": 875,
+    "name": "Volt Bunny",
+    "internal_name": "VoltBunny"
+  },
+  {
+    "id": 876,
+    "name": "Zapinator",
+    "internal_name": "ZapinatorLaser"
+  },
+  {
+    "id": 877,
+    "name": "Jousting Lance",
+    "internal_name": "JoustingLance"
+  },
+  {
+    "id": 878,
+    "name": "Shadow Jousting Lance",
+    "internal_name": "ShadowJoustingLance"
+  },
+  {
+    "id": 879,
+    "name": "Hallowed Jousting Lance",
+    "internal_name": "HallowJoustingLance"
+  },
+  {
+    "id": 880,
+    "name": "Strike (Green)",
+    "internal_name": "ZoologistStrikeGreen"
+  },
+  {
+    "id": 881,
+    "name": "Slime Prince",
+    "internal_name": "KingSlimePet"
+  },
+  {
+    "id": 882,
+    "name": "Suspicious Eye",
+    "internal_name": "EyeOfCthulhuPet"
+  },
+  {
+    "id": 883,
+    "name": "Eater of Worms",
+    "internal_name": "EaterOfWorldsPet"
+  },
+  {
+    "id": 884,
+    "name": "Spider Brain",
+    "internal_name": "BrainOfCthulhuPet"
+  },
+  {
+    "id": 885,
+    "name": "Skeletron Jr.",
+    "internal_name": "SkeletronPet"
+  },
+  {
+    "id": 886,
+    "name": "Honey Bee",
+    "internal_name": "QueenBeePet"
+  },
+  {
+    "id": 887,
+    "name": "Destroyer-Lite",
+    "internal_name": "DestroyerPet"
+  },
+  {
+    "id": 888,
+    "name": "Rez and Spaz",
+    "internal_name": "TwinsPet"
+  },
+  {
+    "id": 889,
+    "name": "Mini Prime",
+    "internal_name": "SkeletronPrimePet"
+  },
+  {
+    "id": 890,
+    "name": "Plantera Seedling",
+    "internal_name": "PlanteraPet"
+  },
+  {
+    "id": 891,
+    "name": "Toy Golem",
+    "internal_name": "GolemPet"
+  },
+  {
+    "id": 892,
+    "name": "Tiny Fishron",
+    "internal_name": "DukeFishronPet"
+  },
+  {
+    "id": 893,
+    "name": "Phantasmal Dragon",
+    "internal_name": "LunaticCultistPet"
+  },
+  {
+    "id": 894,
+    "name": "Moonling",
+    "internal_name": "MoonLordPet"
+  },
+  {
+    "id": 895,
+    "name": "Fairy Princess",
+    "internal_name": "FairyQueenPet"
+  },
+  {
+    "id": 896,
+    "name": "Jack 'O Lantern",
+    "internal_name": "PumpkingPet"
+  },
+  {
+    "id": 897,
+    "name": "Everscream Sapling",
+    "internal_name": "EverscreamPet"
+  },
+  {
+    "id": 898,
+    "name": "Ice Queen",
+    "internal_name": "IceQueenPet"
+  },
+  {
+    "id": 899,
+    "name": "Alien Skater",
+    "internal_name": "MartianPet"
+  },
+  {
+    "id": 900,
+    "name": "Baby Ogre",
+    "internal_name": "DD2OgrePet"
+  },
+  {
+    "id": 901,
+    "name": "Itsy Betsy",
+    "internal_name": "DD2BetsyPet"
+  },
+  {
+    "id": 902,
+    "name": "Combat Wrench",
+    "internal_name": "CombatWrench"
+  },
+  {
+    "id": 903,
+    "name": "Wet Bomb",
+    "internal_name": "WetBomb"
+  },
+  {
+    "id": 904,
+    "name": "Lava Bomb",
+    "internal_name": "LavaBomb"
+  },
+  {
+    "id": 905,
+    "name": "Honey Bomb",
+    "internal_name": "HoneyBomb"
+  },
+  {
+    "id": 906,
+    "name": "Dry Bomb",
+    "internal_name": "DryBomb"
+  },
+  {
+    "id": 907,
+    "name": "Ornament",
+    "internal_name": "OrnamentStar"
+  },
+  {
+    "id": 908,
+    "name": "Titanium Shard",
+    "internal_name": "TitaniumStormShard"
+  },
+  {
+    "id": 909,
+    "name": "Rock",
+    "internal_name": "RockGolemRock"
+  },
+  {
+    "id": 910,
+    "name": "Dirt Bomb",
+    "internal_name": "DirtBomb"
+  },
+  {
+    "id": 911,
+    "name": "Sticky Dirt Bomb",
+    "internal_name": "DirtStickyBomb"
+  },
+  {
+    "id": 912,
+    "name": "Cool Whip",
+    "internal_name": "CoolWhip"
+  },
+  {
+    "id": 913,
+    "name": "Firecracker",
+    "internal_name": "FireWhip"
+  },
+  {
+    "id": 914,
+    "name": "Snapthorn",
+    "internal_name": "ThornWhip"
+  },
+  {
+    "id": 915,
+    "name": "Kaleidoscope",
+    "internal_name": "RainbowWhip"
+  },
+  {
+    "id": 916,
+    "name": "Reaping",
+    "internal_name": "ScytheWhipProj"
+  },
+  {
+    "id": 917,
+    "name": "Cool Flake",
+    "internal_name": "CoolWhipProj"
+  },
+  {
+    "id": 918,
+    "name": "Firecracker",
+    "internal_name": "FireWhipProj"
+  },
+  {
+    "id": 919,
+    "name": "Ethereal Lance",
+    "internal_name": "FairyQueenLance"
+  },
+  {
+    "id": 920,
+    "name": "Crystal Spike",
+    "internal_name": "QueenSlimeMinionBlueSpike"
+  },
+  {
+    "id": 921,
+    "name": "Bouncy Gel",
+    "internal_name": "QueenSlimeMinionPinkBall"
+  },
+  {
+    "id": 922,
+    "name": "Queenly Smash",
+    "internal_name": "QueenSlimeSmash"
+  },
+  {
+    "id": 923,
+    "name": "Sun Dance",
+    "internal_name": "FairyQueenSunDance"
+  },
+  {
+    "id": 924,
+    "name": "Empress Hymn",
+    "internal_name": "FairyQueenHymn"
+  },
+  {
+    "id": 925,
+    "name": "Stardust Guardian Punch",
+    "internal_name": "StardustPunch"
+  },
+  {
+    "id": 926,
+    "name": "Regal Gel",
+    "internal_name": "QueenSlimeGelAttack"
+  },
+  {
+    "id": 927,
+    "name": "Starlight",
+    "internal_name": "PiercingStarlight"
+  },
+  {
+    "id": 928,
+    "name": "Drippler Crippler (extra ball)",
+    "internal_name": "DripplerFlailExtraBall"
+  },
+  {
+    "id": 929,
+    "name": "Strike (Red)",
+    "internal_name": "ZoologistStrikeRed"
+  },
+  {
+    "id": 930,
+    "name": "Santank Rocket",
+    "internal_name": "SantankMountRocket"
+  },
+  {
+    "id": 931,
+    "name": "Nightglow",
+    "internal_name": "FairyQueenMagicItemShot"
+  },
+  {
+    "id": 932,
+    "name": "Twilight Lance",
+    "internal_name": "FairyQueenRangedItemShot"
+  },
+  {
+    "id": 933,
+    "name": "Zenith",
+    "internal_name": "FinalFractal"
+  },
+  {
+    "id": 934,
+    "name": "Slime Princess",
+    "internal_name": "QueenSlimePet"
+  },
+  {
+    "id": 935,
+    "name": "Hook of Dissonance",
+    "internal_name": "QueenSlimeHook"
+  },
+  {
+    "id": 936,
+    "name": "Sparkle Slime Balloon",
+    "internal_name": "GelBalloon"
+  },
+  {
+    "id": 937,
+    "name": "Volatile Gelatin",
+    "internal_name": "VolatileGelatinBall"
+  },
+  {
+    "id": 938,
+    "name": "Copper Shortsword",
+    "internal_name": "CopperShortswordStab"
+  },
+  {
+    "id": 939,
+    "name": "Tin Shortsword",
+    "internal_name": "TinShortswordStab"
+  },
+  {
+    "id": 940,
+    "name": "Iron Shortsword",
+    "internal_name": "IronShortswordStab"
+  },
+  {
+    "id": 941,
+    "name": "Lead Shortsword",
+    "internal_name": "LeadShortswordStab"
+  },
+  {
+    "id": 942,
+    "name": "Silver Shortsword",
+    "internal_name": "SilverShortswordStab"
+  },
+  {
+    "id": 943,
+    "name": "Tungsten Shortsword",
+    "internal_name": "TungstenShortswordStab"
+  },
+  {
+    "id": 944,
+    "name": "Gold Shortsword",
+    "internal_name": "GoldShortswordStab"
+  },
+  {
+    "id": 945,
+    "name": "Platinum Shortsword",
+    "internal_name": "PlatinumShortswordStab"
+  },
+  {
+    "id": 946,
+    "name": "Terraprisma",
+    "internal_name": "EmpressBlade"
+  },
+  {
+    "id": 947,
+    "name": "Mace",
+    "internal_name": "Mace"
+  },
+  {
+    "id": 948,
+    "name": "Flaming Mace",
+    "internal_name": "FlamingMace"
+  },
+  {
+    "id": 949,
+    "name": "The Torch God",
+    "internal_name": "TorchGod"
+  },
+  {
+    "id": 950,
+    "name": "Royal Resonance",
+    "internal_name": "PrincessWeapon"
+  },
+  {
+    "id": 951,
+    "name": "Flinx",
+    "internal_name": "FlinxMinion"
+  },
+  {
+    "id": 952,
+    "name": "Spinal Tap",
+    "internal_name": "BoneWhip"
+  },
+  {
+    "id": 953,
+    "name": "Solar Explosion",
+    "internal_name": "DaybreakExplosion"
+  },
+  {
+    "id": 954,
+    "name": "Spark",
+    "internal_name": "WandOfSparkingSpark"
+  },
+  {
+    "id": 955,
+    "name": "Falling Star",
+    "internal_name": "StarCannonStar"
+  },
+  {
+    "id": 956,
+    "name": "Bernie",
+    "internal_name": "BerniePet"
+  },
+  {
+    "id": 957,
+    "name": "Glommer",
+    "internal_name": "GlommerPet"
+  },
+  {
+    "id": 958,
+    "name": "Deerclops",
+    "internal_name": "DeerclopsPet"
+  },
+  {
+    "id": 959,
+    "name": "Pig Man",
+    "internal_name": "PigPet"
+  },
+  {
+    "id": 960,
+    "name": "Chester",
+    "internal_name": "ChesterPet"
+  },
+  {
+    "id": 961,
+    "name": "Ice Spike",
+    "internal_name": "DeerclopsIceSpike"
+  },
+  {
+    "id": 962,
+    "name": "Debris",
+    "internal_name": "DeerclopsRangedProjectile"
+  },
+  {
+    "id": 963,
+    "name": "Abigail",
+    "internal_name": "AbigailMinion"
+  },
+  {
+    "id": 964,
+    "name": "Shadow Hand (friendly)",
+    "internal_name": "InsanityShadowFriendly"
+  },
+  {
+    "id": 965,
+    "name": "Shadow Hand (hostile)",
+    "internal_name": "InsanityShadowHostile"
+  },
+  {
+    "id": 966,
+    "name": "Houndius Shootius",
+    "internal_name": "HoundiusShootius"
+  },
+  {
+    "id": 967,
+    "name": "Houndius Shootius Fireball",
+    "internal_name": "HoundiusShootiusFireball"
+  },
+  {
+    "id": 968,
+    "name": "Pew-Matic Stuff",
+    "internal_name": "PewMaticHornShot"
+  },
+  {
+    "id": 969,
+    "name": "Hurtnado",
+    "internal_name": "WeatherPainShot"
+  },
+  {
+    "id": 970,
+    "name": "Abigail (counter)",
+    "internal_name": "AbigailCounter"
+  },
+  {
+    "id": 971,
+    "name": "Tentacle Spike",
+    "internal_name": "TentacleSpike"
+  },
+  {
+    "id": 972,
+    "name": "Night's Edge",
+    "internal_name": "NightsEdge"
+  },
+  {
+    "id": 973,
+    "name": "True Night's Edge",
+    "internal_name": "TrueNightsEdge"
+  },
+  {
+    "id": 974,
+    "name": "Light's Bane",
+    "internal_name": "LightsBane"
+  },
+  {
+    "id": 975,
+    "name": "Blood Butcherer",
+    "internal_name": "BloodButcherer"
+  },
+  {
+    "id": 976,
+    "name": "Leaf Blade",
+    "internal_name": "BladeOfGrass"
+  },
+  {
+    "id": 977,
+    "name": "Muramasa",
+    "internal_name": "Muramasa"
+  },
+  {
+    "id": 978,
+    "name": "Volcano",
+    "internal_name": "Volcano"
+  },
+  {
+    "id": 979,
+    "name": "Frost",
+    "internal_name": "WandOfFrostingFrost"
+  },
+  {
+    "id": 980,
+    "name": "Venom Dart",
+    "internal_name": "VenomDartTrap"
+  },
+  {
+    "id": 981,
+    "name": "Bullet",
+    "internal_name": "SilverBullet"
+  },
+  {
+    "id": 982,
+    "name": "Excalibur",
+    "internal_name": "Excalibur"
+  },
+  {
+    "id": 983,
+    "name": "True Excalibur",
+    "internal_name": "TrueExcalibur"
+  },
+  {
+    "id": 984,
+    "name": "Terra Blade",
+    "internal_name": "TerraBlade2"
+  },
+  {
+    "id": 985,
+    "name": "Terra Beam",
+    "internal_name": "TerraBlade2Shot"
+  },
+  {
+    "id": 986,
+    "name": "Fishing Bobber",
+    "internal_name": "FishingBobber"
+  },
+  {
+    "id": 987,
+    "name": "Glowing Fishing Bobber",
+    "internal_name": "FishingBobberGlowingStar"
+  },
+  {
+    "id": 988,
+    "name": "Lava Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingLava"
+  },
+  {
+    "id": 989,
+    "name": "Krypton Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingKrypton"
+  },
+  {
+    "id": 990,
+    "name": "Xenon Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingXenon"
+  },
+  {
+    "id": 991,
+    "name": "Argon Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingArgon"
+  },
+  {
+    "id": 992,
+    "name": "Neon Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingViolet"
+  },
+  {
+    "id": 993,
+    "name": "Helium Moss Fishing Bobber",
+    "internal_name": "FishingBobberGlowingRainbow"
+  },
+  {
+    "id": 994,
+    "name": "Junimo",
+    "internal_name": "JunimoPet"
+  },
+  {
+    "id": 995,
+    "name": "Jumino Stardrop Animation",
+    "internal_name": "JuminoStardropAnimation"
+  },
+  {
+    "id": 996,
+    "name": "Moon Globe",
+    "internal_name": "MoonGlobe"
+  },
+  {
+    "id": 997,
+    "name": "The Horseman's Blade",
+    "internal_name": "TheHorsemansBlade"
+  },
+  {
+    "id": 998,
+    "name": "Blue Chicken",
+    "internal_name": "BlueChickenPet"
+  },
+  {
+    "id": 999,
+    "name": "Hive-Five",
+    "internal_name": "HiveFive"
+  },
+  {
+    "id": 1000,
+    "name": "Trimarang",
+    "internal_name": "Trimarang"
+  },
+  {
+    "id": 1001,
+    "name": "Pumpkin Head",
+    "internal_name": "HorsemanPumpkin"
+  },
+  {
+    "id": 1002,
+    "name": "TNT Barrel",
+    "internal_name": "TNTBarrel"
+  },
+  {
+    "id": 1003,
+    "name": "Spiffo",
+    "internal_name": "Spiffo"
+  },
+  {
+    "id": 1004,
+    "name": "Caveling Gardener",
+    "internal_name": "CavelingGardener"
+  },
+  {
+    "id": 1005,
+    "name": "Boulder",
+    "internal_name": "MiniBoulder"
+  },
+  {
+    "id": 1006,
+    "name": "Shimmer Arrow",
+    "internal_name": "ShimmerArrow"
+  },
+  {
+    "id": 1007,
+    "name": "Gas Trap",
+    "internal_name": "GasTrap"
+  },
+  {
+    "id": 1008,
+    "name": "Spelunker Flare",
+    "internal_name": "SpelunkerFlare"
+  },
+  {
+    "id": 1009,
+    "name": "Cursed Flare",
+    "internal_name": "CursedFlare"
+  },
+  {
+    "id": 1010,
+    "name": "Rainbow Flare",
+    "internal_name": "RainbowFlare"
+  },
+  {
+    "id": 1011,
+    "name": "Shimmer Flare",
+    "internal_name": "ShimmerFlare"
+  },
+  {
+    "id": 1012,
+    "name": "Waffle",
+    "internal_name": "Waffle"
+  },
+  {
+    "id": 1013,
+    "name": "Bouncy Boulder",
+    "internal_name": "BouncyBoulder"
+  },
+  {
+    "id": 1014,
+    "name": "Life Crystal Boulder",
+    "internal_name": "LifeCrystalBoulder"
+  },
+  {
+    "id": 1015,
+    "name": "Sand Spray",
+    "internal_name": "SandSpray"
+  },
+  {
+    "id": 1016,
+    "name": "Snow Spray",
+    "internal_name": "SnowSpray"
+  },
+  {
+    "id": 1017,
+    "name": "Dirt Spray",
+    "internal_name": "DirtSpray"
+  },
+  {
+    "id": 1018,
+    "name": "The Dirtiest Block",
+    "internal_name": "DirtiestBlock"
+  },
+  {
+    "id": 1019,
+    "name": "Fertilizer",
+    "internal_name": "Fertilizer"
+  },
+  {
+    "id": 1020,
+    "name": "Kwad Racer Drone",
+    "internal_name": "JimsDrone"
+  },
+  {
+    "id": 1021,
+    "name": "Moon Boulder",
+    "internal_name": "MoonBoulder"
+  },
+  {
+    "id": 1022,
+    "name": "Mushroom Boi",
+    "internal_name": "DeadCellsMushroomBoiMinion"
+  },
+  {
+    "id": 1023,
+    "name": "Barrel",
+    "internal_name": "DeadCellsBarrel"
+  },
+  {
+    "id": 1024,
+    "name": "Killing Card",
+    "internal_name": "DeadCellsKillingDeckCard"
+  },
+  {
+    "id": 1025,
+    "name": "Barnacle",
+    "internal_name": "DeadCellsBarnacle"
+  },
+  {
+    "id": 1026,
+    "name": "Barnacle",
+    "internal_name": "DeadCellsBarnacleShot"
+  },
+  {
+    "id": 1027,
+    "name": "Swarm Worm",
+    "internal_name": "DeadCellsSwarmBiter"
+  },
+  {
+    "id": 1028,
+    "name": "Cobwhip",
+    "internal_name": "CobWhip"
+  },
+  {
+    "id": 1029,
+    "name": "Soulscourge",
+    "internal_name": "CorruptWhip"
+  },
+  {
+    "id": 1030,
+    "name": "Vasculash",
+    "internal_name": "CrimsonWhip"
+  },
+  {
+    "id": 1031,
+    "name": "Starcrash",
+    "internal_name": "MeteorWhip"
+  },
+  {
+    "id": 1032,
+    "name": "Vulgar Display of Flower",
+    "internal_name": "FlowerWhip"
+  },
+  {
+    "id": 1033,
+    "name": "Electric Eel",
+    "internal_name": "EelWhip"
+  },
+  {
+    "id": 1034,
+    "name": "Constellation",
+    "internal_name": "ConstellationWhip"
+  },
+  {
+    "id": 1035,
+    "name": "Possession",
+    "internal_name": "MoonLordWhip"
+  },
+  {
+    "id": 1036,
+    "name": "Tiny Spider",
+    "internal_name": "CobWhipSpider"
+  },
+  {
+    "id": 1037,
+    "name": "Asteroid",
+    "internal_name": "MeteorWhipMeteor"
+  },
+  {
+    "id": 1038,
+    "name": "Petal Storm",
+    "internal_name": "FlowerWhipPetal"
+  },
+  {
+    "id": 1039,
+    "name": "Shooting Star",
+    "internal_name": "ConstellationStar"
+  },
+  {
+    "id": 1040,
+    "name": "Flint",
+    "internal_name": "DeadCellsFlint"
+  },
+  {
+    "id": 1041,
+    "name": "Flint",
+    "internal_name": "DeadCellsFlintShot"
+  },
+  {
+    "id": 1042,
+    "name": "Shimmer Stream",
+    "internal_name": "ShimmerGunStream"
+  },
+  {
+    "id": 1043,
+    "name": "Flint",
+    "internal_name": "DeadCellsFlintSlash"
+  },
+  {
+    "id": 1044,
+    "name": "Mushroom Boi Explosion",
+    "internal_name": "DeadCellsMushroomBoiMinionExplosion"
+  },
+  {
+    "id": 1045,
+    "name": "Possession",
+    "internal_name": "MoonLordWhipProc"
+  },
+  {
+    "id": 1046,
+    "name": "Pufferfish",
+    "internal_name": "Pufferfish"
+  },
+  {
+    "id": 1047,
+    "name": "Rainbow Boulder",
+    "internal_name": "RainbowBoulder"
+  },
+  {
+    "id": 1048,
+    "name": "Poo Boulder",
+    "internal_name": "Poulder"
+  },
+  {
+    "id": 1049,
+    "name": "Meteor",
+    "internal_name": "MeteorStormMeteor"
+  },
+  {
+    "id": 1050,
+    "name": "Cenaxe",
+    "internal_name": "AxeFairyPet"
+  },
+  {
+    "id": 1051,
+    "name": "Infused Fertilizer",
+    "internal_name": "SuperFertilizer"
+  },
+  {
+    "id": 1052,
+    "name": "Axearang",
+    "internal_name": "Axearang"
+  },
+  {
+    "id": 1053,
+    "name": "Lava Boulder",
+    "internal_name": "LavaBoulder"
+  },
+  {
+    "id": 1054,
+    "name": "Spider Boulder",
+    "internal_name": "SpiderBoulder"
+  },
+  {
+    "id": 1055,
+    "name": "Ghoulder",
+    "internal_name": "Ghoulder"
+  },
+  {
+    "id": 1056,
+    "name": "Friendly Boulder",
+    "internal_name": "BoulderPet"
+  },
+  {
+    "id": 1057,
+    "name": "Boulder",
+    "internal_name": "BoulderThatSpawnsPet"
+  },
+  {
+    "id": 1058,
+    "name": "Flairon",
+    "internal_name": "FlaironFlail"
+  },
+  {
+    "id": 1059,
+    "name": "Blue Phaseblade",
+    "internal_name": "BluePhaseblade"
+  },
+  {
+    "id": 1060,
+    "name": "Red Phaseblade",
+    "internal_name": "RedPhaseblade"
+  },
+  {
+    "id": 1061,
+    "name": "Green Phaseblade",
+    "internal_name": "GreenPhaseblade"
+  },
+  {
+    "id": 1062,
+    "name": "Purple Phaseblade",
+    "internal_name": "PurplePhaseblade"
+  },
+  {
+    "id": 1063,
+    "name": "White Phaseblade",
+    "internal_name": "WhitePhaseblade"
+  },
+  {
+    "id": 1064,
+    "name": "Yellow Phaseblade",
+    "internal_name": "YellowPhaseblade"
+  },
+  {
+    "id": 1065,
+    "name": "Blue Phasesaber",
+    "internal_name": "BluePhasesaber"
+  },
+  {
+    "id": 1066,
+    "name": "Red Phasesaber",
+    "internal_name": "RedPhasesaber"
+  },
+  {
+    "id": 1067,
+    "name": "Green Phasesaber",
+    "internal_name": "GreenPhasesaber"
+  },
+  {
+    "id": 1068,
+    "name": "Purple Phasesaber",
+    "internal_name": "PurplePhasesaber"
+  },
+  {
+    "id": 1069,
+    "name": "White Phasesaber",
+    "internal_name": "WhitePhasesaber"
+  },
+  {
+    "id": 1070,
+    "name": "Yellow Phasesaber",
+    "internal_name": "YellowPhasesaber"
+  },
+  {
+    "id": 1071,
+    "name": "Orange Phaseblade",
+    "internal_name": "OrangePhaseblade"
+  },
+  {
+    "id": 1072,
+    "name": "Orange Phasesaber",
+    "internal_name": "OrangePhasesaber"
+  },
+  {
+    "id": 1073,
+    "name": "Poison Dart",
+    "internal_name": "PoisonDartShotFromSlimes"
+  },
+  {
+    "id": 1074,
+    "name": "Keybrand",
+    "internal_name": "Keybrand"
+  },
+  {
+    "id": 1075,
+    "name": "Pink Phaseblade",
+    "internal_name": "PinkPhaseblade"
+  },
+  {
+    "id": 1076,
+    "name": "Pink Phasesaber",
+    "internal_name": "PinkPhasesaber"
+  },
+  {
+    "id": 1077,
+    "name": "Freeze Bomb",
+    "internal_name": "FreezeBomb"
+  },
+  {
+    "id": 1078,
+    "name": "Meteor",
+    "internal_name": "MeteorOre"
+  },
+  {
+    "id": 1079,
+    "name": "Counterweight",
+    "internal_name": "PinkCounterweight"
+  },
+  {
+    "id": 1080,
+    "name": "Bird Droppings",
+    "internal_name": "BirdDroppings"
+  },
+  {
+    "id": 1081,
+    "name": "Mud Ball",
+    "internal_name": "MudBallPlayer"
+  },
+  {
+    "id": 1082,
+    "name": "Mandible Blade",
+    "internal_name": "AntlionClaw"
+  },
+  {
+    "id": 1083,
+    "name": "Stylish Scissors",
+    "internal_name": "StylistKilLaKillScissorsIWish"
+  },
+  {
+    "id": 1084,
+    "name": "The Torch God",
+    "internal_name": "TorchGodHelper"
+  },
+  {
+    "id": 1085,
+    "name": "Pretty Mirror",
+    "internal_name": "PrettyMirror"
+  },
+  {
+    "id": 1086,
+    "name": "Power Bomb",
+    "internal_name": "SuperBomb"
+  },
+  {
+    "id": 1087,
+    "name": "Sticky Power Bomb",
+    "internal_name": "SuperStickyBomb"
+  },
+  {
+    "id": 1088,
+    "name": "Acorn",
+    "internal_name": "AcornSlingshotAcorn"
+  },
+  {
+    "id": 1089,
+    "name": "Rainbow Glowstick",
+    "internal_name": "RainbowGlowstick"
+  },
+  {
+    "id": 1090,
+    "name": "Rainbow Boulder",
+    "internal_name": "RainbowBoulderPet"
+  },
+  {
+    "id": 1091,
+    "name": "Lightning",
+    "internal_name": "StormLightning"
+  },
+  {
+    "id": 1092,
+    "name": "Book",
+    "internal_name": "LibrarianSkeletonBook"
+  },
+  {
+    "id": 1093,
+    "name": "Cattiva",
+    "internal_name": "PalworldMinionCattiva"
+  },
+  {
+    "id": 1094,
+    "name": "Foxparks",
+    "internal_name": "PalworldMinionFoxsparks"
+  },
+  {
+    "id": 1095,
+    "name": "Chillet",
+    "internal_name": "PalworldPetChillet"
+  },
+  {
+    "id": 1096,
+    "name": "Chillet Ignis",
+    "internal_name": "PalworldPetChilletIgnis"
+  },
+  {
+    "id": 1097,
+    "name": "Foxparks Fireball",
+    "internal_name": "PalworldMinionFoxsparksFireball"
+  },
+  {
+    "id": 1098,
+    "name": "Digtoise",
+    "internal_name": "PalworldDigtoise"
+  },
+  {
+    "id": 1099,
+    "name": "RHRRRAAAAAAGGHHH!!!",
+    "internal_name": "SoundGun"
+  },
+  {
+    "id": 1100,
+    "name": "True Copper Shortsword",
+    "internal_name": "TrueCopperShortsword"
+  },
+  {
+    "id": 1101,
+    "name": "Rainbow Phaseblade",
+    "internal_name": "RainbowPhaseblade"
+  },
+  {
+    "id": 1102,
+    "name": "Rainbow Phasesaber",
+    "internal_name": "RainbowPhasesaber"
+  },
+  {
+    "id": 1103,
+    "name": "Slime Spear",
+    "internal_name": "SlimeSpear"
+  },
+  {
+    "id": 1104,
+    "name": "Slime Whip",
+    "internal_name": "SlimeWhip"
+  },
+  {
+    "id": 1105,
+    "name": "Wall Racer Car",
+    "internal_name": "RemoteControlCar"
+  },
+  {
+    "id": 1106,
+    "name": "Foxparks Flames",
+    "internal_name": "PalworldMinionFoxsparksFlames"
+  },
+  {
+    "id": 1107,
+    "name": "Obsidian Fire",
+    "internal_name": "ObsidianFire"
+  },
+  {
+    "id": 1108,
+    "name": "Obsidian Fire",
+    "internal_name": "ObsidianFire2"
+  },
+  {
+    "id": 1109,
+    "name": "Obsidian Fire",
+    "internal_name": "ObsidianFire3"
+  },
+  {
+    "id": 1110,
+    "name": "Electrosphere",
+    "internal_name": "SkyDragonsFuryElectrosphere"
+  },
+  {
+    "id": 1111,
+    "name": "Bone",
+    "internal_name": "MeleeBone"
+  },
+  {
+    "id": 1112,
+    "name": "Cattiva",
+    "internal_name": "PalworldMinionTrustyCattiva"
+  },
+  {
+    "id": 1113,
+    "name": "Foxparks",
+    "internal_name": "PalworldMinionTrustyFoxsparks"
+  },
+  {
+    "id": 1114,
+    "name": "Daybloom Pellet",
+    "internal_name": "DaybloomStaffShot"
+  },
+  {
+    "id": 1115,
+    "name": "Glacier Fang",
+    "internal_name": "GlacierFangShot"
+  },
+  {
+    "id": 1116,
+    "name": "Mystic Petal",
+    "internal_name": "PetalstormShot"
+  },
+  {
+    "id": 1117,
+    "name": "Lightning Strike",
+    "internal_name": "LightningStrikeShot"
+  },
+  {
+    "id": 1118,
+    "name": "Clay Bud",
+    "internal_name": "ClayPotMinion"
+  },
+  {
+    "id": 1119,
+    "name": "Forbidden Ruin",
+    "internal_name": "ForbiddenMinion"
+  },
+  {
+    "id": 1120,
+    "name": "Forbidden Bolt",
+    "internal_name": "ForbiddenMinionShot"
+  },
+  {
+    "id": 1121,
+    "name": "Snapping Stone",
+    "internal_name": "SnappingStoneEffect"
+  },
+  {
+    "id": 1122,
+    "name": "Arc Surge",
+    "internal_name": "ArcSurge"
+  },
+  {
+    "id": 1123,
+    "name": "Digtoise",
+    "internal_name": "PalworldTrustyDigtoise"
+  },
+  {
+    "id": 1124,
+    "name": "Bone Shard",
+    "internal_name": "BoneShard"
+  },
+  {
+    "id": 1125,
+    "name": "Cascade",
+    "internal_name": "CascadeExplosion"
+  },
+  {
+    "id": 1126,
+    "name": "Chlorophyte Claymore",
+    "internal_name": "ChlorophyteClaymoreBlade"
+  },
+  {
+    "id": 1127,
+    "name": "Chlorophyte Saber",
+    "internal_name": "ChlorophyteSaberStab"
+  },
+  {
+    "id": 1128,
+    "name": "Chlorophyte Spore",
+    "internal_name": "ChlorophyteClaymoreSporeCloud"
+  },
+  {
+    "id": 1129,
+    "name": "Chlorophyte Claymore",
+    "internal_name": "ChlorophyteClaymoreBladeSlam"
+  },
+  {
+    "id": 1130,
+    "name": "The Eye of Cthulhu",
+    "internal_name": "TheEyeOfCthulhuDash"
+  },
+  {
+    "id": 1131,
+    "name": "Pyroclastic Stone",
+    "internal_name": "SnappingStoneMeleeEffect"
+  },
+  {
+    "id": 1132,
+    "name": "Armlet Of Ruin",
+    "internal_name": "SnappingStoneSummonEffect"
+  },
+  {
+    "id": 1133,
+    "name": "Druidic Serpent Cloak",
+    "internal_name": "SnakeBandStarCloakTinkerStar"
+  },
+  {
+    "id": 1134,
+    "name": "Chik",
+    "internal_name": "CrystalShardMelee"
+  },
+  {
+    "id": 1135,
+    "name": "Kraken",
+    "internal_name": "KrakenWave"
+  }
+]
